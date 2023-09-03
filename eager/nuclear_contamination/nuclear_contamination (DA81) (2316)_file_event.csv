@@ -1,0 +1,10 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2023-05-13T14:18:59.047045441Z,2023-06-12T14:18:59.047045441Z,2023-06-08T01:06:08.058037892Z,CREATE,file_event,nuclear_contamination (DA81) (2316),nuclear_contamination (DA81) (2316),/home/nilsd/nextflow/build/work/f1/8cde3f6ee361c9812d4992ee6a6f76/cidfile_nuclear_contamination__DA81_.txt,1198071,2316
+,,0,2023-05-13T14:18:59.047045441Z,2023-06-12T14:18:59.047045441Z,2023-06-08T01:06:09.005759945Z,CREATE,file_event,nuclear_contamination (DA81) (2316),nuclear_contamination (DA81) (2316),/home/nilsd/nextflow/build/work/f1/8cde3f6ee361c9812d4992ee6a6f76/.command.trace,1198071,2316
+,,0,2023-05-13T14:18:59.047045441Z,2023-06-12T14:18:59.047045441Z,2023-06-08T01:07:30.304778522Z,CREATE,file_event,nuclear_contamination (DA81) (2316),nuclear_contamination (DA81) (2316),/home/nilsd/nextflow/build/work/f1/8cde3f6ee361c9812d4992ee6a6f76/DA81.doCounts.arg,1198071,2316
+,,0,2023-05-13T14:18:59.047045441Z,2023-06-12T14:18:59.047045441Z,2023-06-08T01:07:30.318152471Z,CREATE,file_event,nuclear_contamination (DA81) (2316),nuclear_contamination (DA81) (2316),/home/nilsd/nextflow/build/work/f1/8cde3f6ee361c9812d4992ee6a6f76/DA81.doCounts.icnts.gz,1198071,2316
+,,0,2023-05-13T14:18:59.047045441Z,2023-06-12T14:18:59.047045441Z,2023-06-08T01:08:45.402280885Z,CREATE,file_event,nuclear_contamination (DA81) (2316),nuclear_contamination (DA81) (2316),/home/nilsd/nextflow/build/work/f1/8cde3f6ee361c9812d4992ee6a6f76/DA81.X.contamination.out,1198071,2316
+,,0,2023-05-13T14:18:59.047045441Z,2023-06-12T14:18:59.047045441Z,2023-06-08T01:08:46.106990666Z,CREATE,file_event,nuclear_contamination (DA81) (2316),nuclear_contamination (DA81) (2316),/home/nilsd/nextflow/build/work/f1/8cde3f6ee361c9812d4992ee6a6f76/.exitcode,1198071,2316

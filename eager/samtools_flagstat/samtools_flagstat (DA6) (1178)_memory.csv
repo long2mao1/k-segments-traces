@@ -1,0 +1,13 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:53:23.615237047Z,2023-06-12T12:53:23.615237047Z,2023-06-07T11:36:17.108648922Z,14.14,docker_used_memory_mb,samtools_flagstat (DA6) (1178),samtools_flagstat (DA6) (1178),1829287,1178
+,,0,2023-05-13T12:53:23.615237047Z,2023-06-12T12:53:23.615237047Z,2023-06-07T11:36:22.113120764Z,17.6,docker_used_memory_mb,samtools_flagstat (DA6) (1178),samtools_flagstat (DA6) (1178),1829287,1178
+,,0,2023-05-13T12:53:23.615237047Z,2023-06-12T12:53:23.615237047Z,2023-06-07T11:36:26.097202364Z,20.09,docker_used_memory_mb,samtools_flagstat (DA6) (1178),samtools_flagstat (DA6) (1178),1829287,1178
+,,0,2023-05-13T12:53:23.615237047Z,2023-06-12T12:53:23.615237047Z,2023-06-07T11:36:29.104977058Z,21.5,docker_used_memory_mb,samtools_flagstat (DA6) (1178),samtools_flagstat (DA6) (1178),1829287,1178
+,,0,2023-05-13T12:53:23.615237047Z,2023-06-12T12:53:23.615237047Z,2023-06-07T11:36:33.109033217Z,21.71,docker_used_memory_mb,samtools_flagstat (DA6) (1178),samtools_flagstat (DA6) (1178),1829287,1178
+,,0,2023-05-13T12:53:23.615237047Z,2023-06-12T12:53:23.615237047Z,2023-06-07T11:36:38.097643173Z,21.55,docker_used_memory_mb,samtools_flagstat (DA6) (1178),samtools_flagstat (DA6) (1178),1829287,1178
+,,0,2023-05-13T12:53:23.615237047Z,2023-06-12T12:53:23.615237047Z,2023-06-07T11:36:41.105099324Z,21.88,docker_used_memory_mb,samtools_flagstat (DA6) (1178),samtools_flagstat (DA6) (1178),1829287,1178
+,,0,2023-05-13T12:53:23.615237047Z,2023-06-12T12:53:23.615237047Z,2023-06-07T11:36:44.096505699Z,22.88,docker_used_memory_mb,samtools_flagstat (DA6) (1178),samtools_flagstat (DA6) (1178),1829287,1178
+,,0,2023-05-13T12:53:23.615237047Z,2023-06-12T12:53:23.615237047Z,2023-06-07T11:36:46.695327Z,22.16,docker_used_memory_mb,samtools_flagstat (DA6) (1178),samtools_flagstat (DA6) (1178),1829287,1178

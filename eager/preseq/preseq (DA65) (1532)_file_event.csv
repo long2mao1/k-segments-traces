@@ -1,0 +1,8 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2023-05-13T14:16:54.449905948Z,2023-06-12T14:16:54.449905948Z,2023-06-07T12:08:00.661144432Z,CREATE,file_event,preseq (DA65) (1532),preseq (DA65) (1532),/home/nilsd/nextflow/build/work/0e/0e90cd425b6b74ecbde65cb3a1745b/cidfile_preseq__DA65_.txt,2980130,1532
+,,0,2023-05-13T14:16:54.449905948Z,2023-06-12T14:16:54.449905948Z,2023-06-07T12:08:01.669820708Z,CREATE,file_event,preseq (DA65) (1532),preseq (DA65) (1532),/home/nilsd/nextflow/build/work/0e/0e90cd425b6b74ecbde65cb3a1745b/.command.trace,2980130,1532
+,,0,2023-05-13T14:16:54.449905948Z,2023-06-12T14:16:54.449905948Z,2023-06-07T12:10:30.869993975Z,CREATE,file_event,preseq (DA65) (1532),preseq (DA65) (1532),/home/nilsd/nextflow/build/work/0e/0e90cd425b6b74ecbde65cb3a1745b/DA65.filtered.preseq,2980130,1532
+,,0,2023-05-13T14:16:54.449905948Z,2023-06-12T14:16:54.449905948Z,2023-06-07T12:10:31.555017497Z,CREATE,file_event,preseq (DA65) (1532),preseq (DA65) (1532),/home/nilsd/nextflow/build/work/0e/0e90cd425b6b74ecbde65cb3a1745b/.exitcode,2980130,1532

@@ -1,0 +1,10 @@
+#datatype,string,long,string,string,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,long,string,string,string
+#group,false,false,true,true,true,true,false,false,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_field,_measurement,_start,_stop,_time,_value,name,pid,tid
+,,0,files_input_num,samtools_filter (DA92) (1222),2023-05-13T12:53:53.502121602Z,2023-06-12T12:53:53.502121602Z,2023-06-07T12:02:22.537177168Z,8,samtools_filter (DA92) (1222),2730726,1222
+,,1,files_input_total_size,samtools_filter (DA92) (1222),2023-05-13T12:53:53.502121602Z,2023-06-12T12:53:53.502121602Z,2023-06-07T12:02:22.537177168Z,853681983,samtools_filter (DA92) (1222),2730726,1222
+,,2,files_output_num,samtools_filter (DA92) (1222),2023-05-13T12:53:53.502121602Z,2023-06-12T12:53:53.502121602Z,2023-06-07T12:02:56.501093567Z,5,samtools_filter (DA92) (1222),2730726,1222
+,,3,files_output_total_size,samtools_filter (DA92) (1222),2023-05-13T12:53:53.502121602Z,2023-06-12T12:53:53.502121602Z,2023-06-07T12:02:56.501093567Z,846466219,samtools_filter (DA92) (1222),2730726,1222
+,,4,max_cpus,samtools_filter (DA92) (1222),2023-05-13T12:53:53.502121602Z,2023-06-12T12:53:53.502121602Z,2023-06-07T12:02:25.521375757Z,4,samtools_filter (DA92) (1222),2730726,1222
+,,5,max_mem,samtools_filter (DA92) (1222),2023-05-13T12:53:53.502121602Z,2023-06-12T12:53:53.502121602Z,2023-06-07T12:02:25.521375757Z,8589934592,samtools_filter (DA92) (1222),2730726,1222

@@ -1,0 +1,7 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2023-05-13T12:40:22.76328727Z,2023-06-12T12:40:22.76328727Z,2023-06-01T22:41:00.369067917Z,CREATE,file_event,fastqc (DA144_L1) (32),fastqc (DA144_L1) (32),/home/nilsd/nextflow/build/work/02/7354efeb2ec4827aa6dfe11263201c/.command.trace,3573179,32
+,,0,2023-05-13T12:40:22.76328727Z,2023-06-12T12:40:22.76328727Z,2023-06-01T22:42:44.962460297Z,CREATE,file_event,fastqc (DA144_L1) (32),fastqc (DA144_L1) (32),/home/nilsd/nextflow/build/work/02/7354efeb2ec4827aa6dfe11263201c/ERR2505872_fastqc.zip,3573179,32
+,,0,2023-05-13T12:40:22.76328727Z,2023-06-12T12:40:22.76328727Z,2023-06-01T22:42:46.910604739Z,CREATE,file_event,fastqc (DA144_L1) (32),fastqc (DA144_L1) (32),/home/nilsd/nextflow/build/work/02/7354efeb2ec4827aa6dfe11263201c/ERR2505872_fastqc.html,3573179,32

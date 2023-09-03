@@ -1,0 +1,15 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:53:47.819021249Z,2023-06-12T12:53:47.819021249Z,2023-06-07T11:38:51.206980015Z,21.57,docker_used_memory_mb,samtools_filter (DA145) (982),samtools_filter (DA145) (982),1945402,982
+,,0,2023-05-13T12:53:47.819021249Z,2023-06-12T12:53:47.819021249Z,2023-06-07T11:38:54.205161416Z,27.09,docker_used_memory_mb,samtools_filter (DA145) (982),samtools_filter (DA145) (982),1945402,982
+,,0,2023-05-13T12:53:47.819021249Z,2023-06-12T12:53:47.819021249Z,2023-06-07T11:38:56.204753555Z,29.73,docker_used_memory_mb,samtools_filter (DA145) (982),samtools_filter (DA145) (982),1945402,982
+,,0,2023-05-13T12:53:47.819021249Z,2023-06-12T12:53:47.819021249Z,2023-06-07T11:38:59.205372397Z,33.16,docker_used_memory_mb,samtools_filter (DA145) (982),samtools_filter (DA145) (982),1945402,982
+,,0,2023-05-13T12:53:47.819021249Z,2023-06-12T12:53:47.819021249Z,2023-06-07T11:39:01.205409936Z,35,docker_used_memory_mb,samtools_filter (DA145) (982),samtools_filter (DA145) (982),1945402,982
+,,0,2023-05-13T12:53:47.819021249Z,2023-06-12T12:53:47.819021249Z,2023-06-07T11:39:03.205258257Z,37.16,docker_used_memory_mb,samtools_filter (DA145) (982),samtools_filter (DA145) (982),1945402,982
+,,0,2023-05-13T12:53:47.819021249Z,2023-06-12T12:53:47.819021249Z,2023-06-07T11:39:05.204790498Z,39.03,docker_used_memory_mb,samtools_filter (DA145) (982),samtools_filter (DA145) (982),1945402,982
+,,0,2023-05-13T12:53:47.819021249Z,2023-06-12T12:53:47.819021249Z,2023-06-07T11:39:07.202479642Z,40.57,docker_used_memory_mb,samtools_filter (DA145) (982),samtools_filter (DA145) (982),1945402,982
+,,0,2023-05-13T12:53:47.819021249Z,2023-06-12T12:53:47.819021249Z,2023-06-07T11:39:09.202853873Z,40.15,docker_used_memory_mb,samtools_filter (DA145) (982),samtools_filter (DA145) (982),1945402,982
+,,0,2023-05-13T12:53:47.819021249Z,2023-06-12T12:53:47.819021249Z,2023-06-07T11:39:11.202643845Z,45.18,docker_used_memory_mb,samtools_filter (DA145) (982),samtools_filter (DA145) (982),1945402,982
+,,0,2023-05-13T12:53:47.819021249Z,2023-06-12T12:53:47.819021249Z,2023-06-07T11:39:12.988920433Z,50.29,docker_used_memory_mb,samtools_filter (DA145) (982),samtools_filter (DA145) (982),1945402,982

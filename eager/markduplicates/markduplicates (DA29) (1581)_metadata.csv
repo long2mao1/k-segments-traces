@@ -1,0 +1,10 @@
+#datatype,string,long,string,string,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,long,string,string,string
+#group,false,false,true,true,true,true,false,false,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_field,_measurement,_start,_stop,_time,_value,name,pid,tid
+,,0,files_input_num,markduplicates (DA29) (1581),2023-05-13T14:10:04.760650996Z,2023-06-12T14:10:04.760650996Z,2023-06-07T18:37:01.60376129Z,9,markduplicates (DA29) (1581),2194245,1581
+,,1,files_input_total_size,markduplicates (DA29) (1581),2023-05-13T14:10:04.760650996Z,2023-06-12T14:10:04.760650996Z,2023-06-07T18:37:01.60376129Z,2569667205,markduplicates (DA29) (1581),2194245,1581
+,,2,files_output_num,markduplicates (DA29) (1581),2023-05-13T14:10:04.760650996Z,2023-06-12T14:10:04.760650996Z,2023-06-07T18:49:21.56551587Z,5,markduplicates (DA29) (1581),2194245,1581
+,,3,files_output_total_size,markduplicates (DA29) (1581),2023-05-13T14:10:04.760650996Z,2023-06-12T14:10:04.760650996Z,2023-06-07T18:49:21.56551587Z,2563783028,markduplicates (DA29) (1581),2194245,1581
+,,4,max_cpus,markduplicates (DA29) (1581),2023-05-13T14:10:04.760650996Z,2023-06-12T14:10:04.760650996Z,2023-06-07T18:37:04.603503051Z,16,markduplicates (DA29) (1581),2194245,1581
+,,5,max_mem,markduplicates (DA29) (1581),2023-05-13T14:10:04.760650996Z,2023-06-12T14:10:04.760650996Z,2023-06-07T18:37:04.603503051Z,17179869184,markduplicates (DA29) (1581),2194245,1581

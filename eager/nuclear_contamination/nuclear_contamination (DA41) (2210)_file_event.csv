@@ -1,0 +1,9 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2023-05-13T14:18:57.410289379Z,2023-06-12T14:18:57.410289379Z,2023-06-08T01:00:26.249045406Z,CREATE,file_event,nuclear_contamination (DA41) (2210),nuclear_contamination (DA41) (2210),/home/nilsd/nextflow/build/work/27/6b234798ac590d1724159cfd4cca33/.command.trace,805950,2210
+,,0,2023-05-13T14:18:57.410289379Z,2023-06-12T14:18:57.410289379Z,2023-06-08T01:01:03.422089339Z,CREATE,file_event,nuclear_contamination (DA41) (2210),nuclear_contamination (DA41) (2210),/home/nilsd/nextflow/build/work/27/6b234798ac590d1724159cfd4cca33/DA41.doCounts.arg,805950,2210
+,,0,2023-05-13T14:18:57.410289379Z,2023-06-12T14:18:57.410289379Z,2023-06-08T01:01:03.430001657Z,CREATE,file_event,nuclear_contamination (DA41) (2210),nuclear_contamination (DA41) (2210),/home/nilsd/nextflow/build/work/27/6b234798ac590d1724159cfd4cca33/DA41.doCounts.icnts.gz,805950,2210
+,,0,2023-05-13T14:18:57.410289379Z,2023-06-12T14:18:57.410289379Z,2023-06-08T01:01:36.585382562Z,CREATE,file_event,nuclear_contamination (DA41) (2210),nuclear_contamination (DA41) (2210),/home/nilsd/nextflow/build/work/27/6b234798ac590d1724159cfd4cca33/DA41.X.contamination.out,805950,2210
+,,0,2023-05-13T14:18:57.410289379Z,2023-06-12T14:18:57.410289379Z,2023-06-08T01:01:37.195422711Z,CREATE,file_event,nuclear_contamination (DA41) (2210),nuclear_contamination (DA41) (2210),/home/nilsd/nextflow/build/work/27/6b234798ac590d1724159cfd4cca33/.exitcode,805950,2210

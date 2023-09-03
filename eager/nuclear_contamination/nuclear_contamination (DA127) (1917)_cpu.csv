@@ -1,0 +1,17 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T14:18:53.391912853Z,2023-06-12T14:18:53.391912853Z,2023-06-08T00:47:05.45442483Z,106.4325,docker_cpu_usage_pct,nuclear_contamination (DA127) (1917),nuclear_contamination (DA127) (1917),13150,1917
+,,0,2023-05-13T14:18:53.391912853Z,2023-06-12T14:18:53.391912853Z,2023-06-08T00:47:08.454599156Z,98.1855,docker_cpu_usage_pct,nuclear_contamination (DA127) (1917),nuclear_contamination (DA127) (1917),13150,1917
+,,0,2023-05-13T14:18:53.391912853Z,2023-06-12T14:18:53.391912853Z,2023-06-08T00:47:10.453955468Z,100.5141,docker_cpu_usage_pct,nuclear_contamination (DA127) (1917),nuclear_contamination (DA127) (1917),13150,1917
+,,0,2023-05-13T14:18:53.391912853Z,2023-06-12T14:18:53.391912853Z,2023-06-08T00:47:12.453712124Z,98.5901,docker_cpu_usage_pct,nuclear_contamination (DA127) (1917),nuclear_contamination (DA127) (1917),13150,1917
+,,0,2023-05-13T14:18:53.391912853Z,2023-06-12T14:18:53.391912853Z,2023-06-08T00:47:14.45446328Z,100.3216,docker_cpu_usage_pct,nuclear_contamination (DA127) (1917),nuclear_contamination (DA127) (1917),13150,1917
+,,0,2023-05-13T14:18:53.391912853Z,2023-06-12T14:18:53.391912853Z,2023-06-08T00:47:16.453705338Z,100.5542,docker_cpu_usage_pct,nuclear_contamination (DA127) (1917),nuclear_contamination (DA127) (1917),13150,1917
+,,0,2023-05-13T14:18:53.391912853Z,2023-06-12T14:18:53.391912853Z,2023-06-08T00:47:18.453802273Z,100.6357,docker_cpu_usage_pct,nuclear_contamination (DA127) (1917),nuclear_contamination (DA127) (1917),13150,1917
+,,0,2023-05-13T14:18:53.391912853Z,2023-06-12T14:18:53.391912853Z,2023-06-08T00:47:21.454203123Z,100.3391,docker_cpu_usage_pct,nuclear_contamination (DA127) (1917),nuclear_contamination (DA127) (1917),13150,1917
+,,0,2023-05-13T14:18:53.391912853Z,2023-06-12T14:18:53.391912853Z,2023-06-08T00:47:23.45471704Z,100.6374,docker_cpu_usage_pct,nuclear_contamination (DA127) (1917),nuclear_contamination (DA127) (1917),13150,1917
+,,0,2023-05-13T14:18:53.391912853Z,2023-06-12T14:18:53.391912853Z,2023-06-08T00:47:25.454719901Z,100.6881,docker_cpu_usage_pct,nuclear_contamination (DA127) (1917),nuclear_contamination (DA127) (1917),13150,1917
+,,0,2023-05-13T14:18:53.391912853Z,2023-06-12T14:18:53.391912853Z,2023-06-08T00:47:27.453633497Z,100.3735,docker_cpu_usage_pct,nuclear_contamination (DA127) (1917),nuclear_contamination (DA127) (1917),13150,1917
+,,0,2023-05-13T14:18:53.391912853Z,2023-06-12T14:18:53.391912853Z,2023-06-08T00:47:29.457677584Z,100.2594,docker_cpu_usage_pct,nuclear_contamination (DA127) (1917),nuclear_contamination (DA127) (1917),13150,1917
+,,0,2023-05-13T14:18:53.391912853Z,2023-06-12T14:18:53.391912853Z,2023-06-08T00:47:31.454188375Z,100.588,docker_cpu_usage_pct,nuclear_contamination (DA127) (1917),nuclear_contamination (DA127) (1917),13150,1917

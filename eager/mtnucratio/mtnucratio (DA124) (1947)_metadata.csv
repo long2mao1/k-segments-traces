@@ -1,0 +1,10 @@
+#datatype,string,long,string,string,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,long,string,string,string
+#group,false,false,true,true,true,true,false,false,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_field,_measurement,_start,_stop,_time,_value,name,pid,tid
+,,0,files_input_num,mtnucratio (DA124) (1947),2023-05-13T14:17:31.885917402Z,2023-06-12T14:17:31.885917402Z,2023-06-08T00:47:47.652927514Z,9,mtnucratio (DA124) (1947),61508,1947
+,,1,files_input_total_size,mtnucratio (DA124) (1947),2023-05-13T14:17:31.885917402Z,2023-06-12T14:17:31.885917402Z,2023-06-08T00:47:47.652927514Z,788574851,mtnucratio (DA124) (1947),61508,1947
+,,2,files_output_num,mtnucratio (DA124) (1947),2023-05-13T14:17:31.885917402Z,2023-06-12T14:17:31.885917402Z,2023-06-08T00:48:34.632805774Z,4,mtnucratio (DA124) (1947),61508,1947
+,,3,files_output_total_size,mtnucratio (DA124) (1947),2023-05-13T14:17:31.885917402Z,2023-06-12T14:17:31.885917402Z,2023-06-08T00:48:34.632805774Z,970,mtnucratio (DA124) (1947),61508,1947
+,,4,max_cpus,mtnucratio (DA124) (1947),2023-05-13T14:17:31.885917402Z,2023-06-12T14:17:31.885917402Z,2023-06-08T00:47:49.653250821Z,1,mtnucratio (DA124) (1947),61508,1947
+,,5,max_mem,mtnucratio (DA124) (1947),2023-05-13T14:17:31.885917402Z,2023-06-12T14:17:31.885917402Z,2023-06-08T00:47:49.653250821Z,4294967296,mtnucratio (DA124) (1947),61508,1947

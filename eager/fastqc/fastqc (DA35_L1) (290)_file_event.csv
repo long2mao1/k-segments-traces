@@ -1,0 +1,8 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2023-05-13T12:40:25.950574971Z,2023-06-12T12:40:25.950574971Z,2023-06-01T23:00:22.454538496Z,CREATE,file_event,fastqc (DA35_L1) (290),fastqc (DA35_L1) (290),/home/nilsd/nextflow/build/work/34/956025b9d4eaa900783ff9a5c789ce/.command.trace,248722,290
+,,0,2023-05-13T12:40:25.950574971Z,2023-06-12T12:40:25.950574971Z,2023-06-01T23:07:50.588828648Z,CREATE,file_event,fastqc (DA35_L1) (290),fastqc (DA35_L1) (290),/home/nilsd/nextflow/build/work/34/956025b9d4eaa900783ff9a5c789ce/ERR2505929_fastqc.zip,248722,290
+,,0,2023-05-13T12:40:25.950574971Z,2023-06-12T12:40:25.950574971Z,2023-06-01T23:07:52.339252038Z,CREATE,file_event,fastqc (DA35_L1) (290),fastqc (DA35_L1) (290),/home/nilsd/nextflow/build/work/34/956025b9d4eaa900783ff9a5c789ce/ERR2505929_fastqc.html,248722,290
+,,0,2023-05-13T12:40:25.950574971Z,2023-06-12T12:40:25.950574971Z,2023-06-01T23:07:53.091482976Z,CREATE,file_event,fastqc (DA35_L1) (290),fastqc (DA35_L1) (290),/home/nilsd/nextflow/build/work/34/956025b9d4eaa900783ff9a5c789ce/.exitcode,248722,290

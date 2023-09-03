@@ -1,0 +1,14 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:42:48.95088282Z,2023-06-12T12:42:48.95088282Z,2023-06-02T07:10:56.439546102Z,129.2352,docker_cpu_usage_pct,fastqc_after_clipping (DA208_L1) (539),fastqc_after_clipping (DA208_L1) (539),1915660,539
+,,0,2023-05-13T12:42:48.95088282Z,2023-06-12T12:42:48.95088282Z,2023-06-02T07:10:58.440186511Z,109.6514,docker_cpu_usage_pct,fastqc_after_clipping (DA208_L1) (539),fastqc_after_clipping (DA208_L1) (539),1915660,539
+,,0,2023-05-13T12:42:48.95088282Z,2023-06-12T12:42:48.95088282Z,2023-06-02T07:11:01.441147001Z,105.8291,docker_cpu_usage_pct,fastqc_after_clipping (DA208_L1) (539),fastqc_after_clipping (DA208_L1) (539),1915660,539
+,,0,2023-05-13T12:42:48.95088282Z,2023-06-12T12:42:48.95088282Z,2023-06-02T07:11:03.440905287Z,105.189,docker_cpu_usage_pct,fastqc_after_clipping (DA208_L1) (539),fastqc_after_clipping (DA208_L1) (539),1915660,539
+,,0,2023-05-13T12:42:48.95088282Z,2023-06-12T12:42:48.95088282Z,2023-06-02T07:11:05.440820697Z,105.2788,docker_cpu_usage_pct,fastqc_after_clipping (DA208_L1) (539),fastqc_after_clipping (DA208_L1) (539),1915660,539
+,,0,2023-05-13T12:42:48.95088282Z,2023-06-12T12:42:48.95088282Z,2023-06-02T07:11:07.43995023Z,99.2716,docker_cpu_usage_pct,fastqc_after_clipping (DA208_L1) (539),fastqc_after_clipping (DA208_L1) (539),1915660,539
+,,0,2023-05-13T12:42:48.95088282Z,2023-06-12T12:42:48.95088282Z,2023-06-02T07:11:09.439574656Z,98.9454,docker_cpu_usage_pct,fastqc_after_clipping (DA208_L1) (539),fastqc_after_clipping (DA208_L1) (539),1915660,539
+,,0,2023-05-13T12:42:48.95088282Z,2023-06-12T12:42:48.95088282Z,2023-06-02T07:11:11.441194513Z,102.7512,docker_cpu_usage_pct,fastqc_after_clipping (DA208_L1) (539),fastqc_after_clipping (DA208_L1) (539),1915660,539
+,,0,2023-05-13T12:42:48.95088282Z,2023-06-12T12:42:48.95088282Z,2023-06-02T07:11:13.4409564Z,99.4126,docker_cpu_usage_pct,fastqc_after_clipping (DA208_L1) (539),fastqc_after_clipping (DA208_L1) (539),1915660,539
+,,0,2023-05-13T12:42:48.95088282Z,2023-06-12T12:42:48.95088282Z,2023-06-02T07:11:15.442532233Z,183.5622,docker_cpu_usage_pct,fastqc_after_clipping (DA208_L1) (539),fastqc_after_clipping (DA208_L1) (539),1915660,539

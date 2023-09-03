@@ -1,0 +1,32 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T14:18:53.50043381Z,2023-06-12T14:18:53.50043381Z,2023-06-08T00:49:12.334645712Z,100.2397,docker_cpu_usage_pct,nuclear_contamination (DA129) (1984),nuclear_contamination (DA129) (1984),142910,1984
+,,0,2023-05-13T14:18:53.50043381Z,2023-06-12T14:18:53.50043381Z,2023-06-08T00:49:14.334582096Z,99.9379,docker_cpu_usage_pct,nuclear_contamination (DA129) (1984),nuclear_contamination (DA129) (1984),142910,1984
+,,0,2023-05-13T14:18:53.50043381Z,2023-06-12T14:18:53.50043381Z,2023-06-08T00:49:16.335136829Z,100.5604,docker_cpu_usage_pct,nuclear_contamination (DA129) (1984),nuclear_contamination (DA129) (1984),142910,1984
+,,0,2023-05-13T14:18:53.50043381Z,2023-06-12T14:18:53.50043381Z,2023-06-08T00:49:18.33500919Z,101.0253,docker_cpu_usage_pct,nuclear_contamination (DA129) (1984),nuclear_contamination (DA129) (1984),142910,1984
+,,0,2023-05-13T14:18:53.50043381Z,2023-06-12T14:18:53.50043381Z,2023-06-08T00:49:20.334669754Z,100.981,docker_cpu_usage_pct,nuclear_contamination (DA129) (1984),nuclear_contamination (DA129) (1984),142910,1984
+,,0,2023-05-13T14:18:53.50043381Z,2023-06-12T14:18:53.50043381Z,2023-06-08T00:49:22.335894257Z,100.1932,docker_cpu_usage_pct,nuclear_contamination (DA129) (1984),nuclear_contamination (DA129) (1984),142910,1984
+,,0,2023-05-13T14:18:53.50043381Z,2023-06-12T14:18:53.50043381Z,2023-06-08T00:49:25.33499092Z,100.4744,docker_cpu_usage_pct,nuclear_contamination (DA129) (1984),nuclear_contamination (DA129) (1984),142910,1984
+,,0,2023-05-13T14:18:53.50043381Z,2023-06-12T14:18:53.50043381Z,2023-06-08T00:49:27.334735756Z,99.5213,docker_cpu_usage_pct,nuclear_contamination (DA129) (1984),nuclear_contamination (DA129) (1984),142910,1984
+,,0,2023-05-13T14:18:53.50043381Z,2023-06-12T14:18:53.50043381Z,2023-06-08T00:49:29.335566096Z,100.5061,docker_cpu_usage_pct,nuclear_contamination (DA129) (1984),nuclear_contamination (DA129) (1984),142910,1984
+,,0,2023-05-13T14:18:53.50043381Z,2023-06-12T14:18:53.50043381Z,2023-06-08T00:49:31.334362022Z,100.1799,docker_cpu_usage_pct,nuclear_contamination (DA129) (1984),nuclear_contamination (DA129) (1984),142910,1984
+,,0,2023-05-13T14:18:53.50043381Z,2023-06-12T14:18:53.50043381Z,2023-06-08T00:49:33.336738649Z,100.7484,docker_cpu_usage_pct,nuclear_contamination (DA129) (1984),nuclear_contamination (DA129) (1984),142910,1984
+,,0,2023-05-13T14:18:53.50043381Z,2023-06-12T14:18:53.50043381Z,2023-06-08T00:49:35.334711939Z,99.9973,docker_cpu_usage_pct,nuclear_contamination (DA129) (1984),nuclear_contamination (DA129) (1984),142910,1984
+,,0,2023-05-13T14:18:53.50043381Z,2023-06-12T14:18:53.50043381Z,2023-06-08T00:49:37.334546527Z,100.1165,docker_cpu_usage_pct,nuclear_contamination (DA129) (1984),nuclear_contamination (DA129) (1984),142910,1984
+,,0,2023-05-13T14:18:53.50043381Z,2023-06-12T14:18:53.50043381Z,2023-06-08T00:49:39.335669085Z,99.6978,docker_cpu_usage_pct,nuclear_contamination (DA129) (1984),nuclear_contamination (DA129) (1984),142910,1984
+,,0,2023-05-13T14:18:53.50043381Z,2023-06-12T14:18:53.50043381Z,2023-06-08T00:49:41.335226453Z,99.3207,docker_cpu_usage_pct,nuclear_contamination (DA129) (1984),nuclear_contamination (DA129) (1984),142910,1984
+,,0,2023-05-13T14:18:53.50043381Z,2023-06-12T14:18:53.50043381Z,2023-06-08T00:49:43.334334937Z,99.8883,docker_cpu_usage_pct,nuclear_contamination (DA129) (1984),nuclear_contamination (DA129) (1984),142910,1984
+,,0,2023-05-13T14:18:53.50043381Z,2023-06-12T14:18:53.50043381Z,2023-06-08T00:49:46.335957826Z,99.5734,docker_cpu_usage_pct,nuclear_contamination (DA129) (1984),nuclear_contamination (DA129) (1984),142910,1984
+,,0,2023-05-13T14:18:53.50043381Z,2023-06-12T14:18:53.50043381Z,2023-06-08T00:49:48.335568555Z,100.4326,docker_cpu_usage_pct,nuclear_contamination (DA129) (1984),nuclear_contamination (DA129) (1984),142910,1984
+,,0,2023-05-13T14:18:53.50043381Z,2023-06-12T14:18:53.50043381Z,2023-06-08T00:49:50.342546905Z,100.9174,docker_cpu_usage_pct,nuclear_contamination (DA129) (1984),nuclear_contamination (DA129) (1984),142910,1984
+,,0,2023-05-13T14:18:53.50043381Z,2023-06-12T14:18:53.50043381Z,2023-06-08T00:49:52.335483065Z,99.2698,docker_cpu_usage_pct,nuclear_contamination (DA129) (1984),nuclear_contamination (DA129) (1984),142910,1984
+,,0,2023-05-13T14:18:53.50043381Z,2023-06-12T14:18:53.50043381Z,2023-06-08T00:49:54.335086463Z,100.7065,docker_cpu_usage_pct,nuclear_contamination (DA129) (1984),nuclear_contamination (DA129) (1984),142910,1984
+,,0,2023-05-13T14:18:53.50043381Z,2023-06-12T14:18:53.50043381Z,2023-06-08T00:49:56.336208959Z,100.949,docker_cpu_usage_pct,nuclear_contamination (DA129) (1984),nuclear_contamination (DA129) (1984),142910,1984
+,,0,2023-05-13T14:18:53.50043381Z,2023-06-12T14:18:53.50043381Z,2023-06-08T00:49:58.335356792Z,101.219,docker_cpu_usage_pct,nuclear_contamination (DA129) (1984),nuclear_contamination (DA129) (1984),142910,1984
+,,0,2023-05-13T14:18:53.50043381Z,2023-06-12T14:18:53.50043381Z,2023-06-08T00:50:00.33753143Z,100.7702,docker_cpu_usage_pct,nuclear_contamination (DA129) (1984),nuclear_contamination (DA129) (1984),142910,1984
+,,0,2023-05-13T14:18:53.50043381Z,2023-06-12T14:18:53.50043381Z,2023-06-08T00:50:02.334713462Z,100.3207,docker_cpu_usage_pct,nuclear_contamination (DA129) (1984),nuclear_contamination (DA129) (1984),142910,1984
+,,0,2023-05-13T14:18:53.50043381Z,2023-06-12T14:18:53.50043381Z,2023-06-08T00:50:04.335215068Z,100.3042,docker_cpu_usage_pct,nuclear_contamination (DA129) (1984),nuclear_contamination (DA129) (1984),142910,1984
+,,0,2023-05-13T14:18:53.50043381Z,2023-06-12T14:18:53.50043381Z,2023-06-08T00:50:06.335120414Z,101.2108,docker_cpu_usage_pct,nuclear_contamination (DA129) (1984),nuclear_contamination (DA129) (1984),142910,1984
+,,0,2023-05-13T14:18:53.50043381Z,2023-06-12T14:18:53.50043381Z,2023-06-08T00:50:08.335819635Z,96.2839,docker_cpu_usage_pct,nuclear_contamination (DA129) (1984),nuclear_contamination (DA129) (1984),142910,1984

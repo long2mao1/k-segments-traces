@@ -1,0 +1,18 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:53:52.346207645Z,2023-06-12T12:53:52.346207645Z,2023-06-07T11:48:48.829047629Z,24.81,docker_used_memory_mb,samtools_filter (DA65) (1145),samtools_filter (DA65) (1145),2281521,1145
+,,0,2023-05-13T12:53:52.346207645Z,2023-06-12T12:53:52.346207645Z,2023-06-07T11:48:50.828328293Z,29.82,docker_used_memory_mb,samtools_filter (DA65) (1145),samtools_filter (DA65) (1145),2281521,1145
+,,0,2023-05-13T12:53:52.346207645Z,2023-06-12T12:53:52.346207645Z,2023-06-07T11:48:52.828609154Z,31.54,docker_used_memory_mb,samtools_filter (DA65) (1145),samtools_filter (DA65) (1145),2281521,1145
+,,0,2023-05-13T12:53:52.346207645Z,2023-06-12T12:53:52.346207645Z,2023-06-07T11:48:54.82919448Z,34.1,docker_used_memory_mb,samtools_filter (DA65) (1145),samtools_filter (DA65) (1145),2281521,1145
+,,0,2023-05-13T12:53:52.346207645Z,2023-06-12T12:53:52.346207645Z,2023-06-07T11:48:56.827934284Z,36.74,docker_used_memory_mb,samtools_filter (DA65) (1145),samtools_filter (DA65) (1145),2281521,1145
+,,0,2023-05-13T12:53:52.346207645Z,2023-06-12T12:53:52.346207645Z,2023-06-07T11:48:59.829217869Z,39,docker_used_memory_mb,samtools_filter (DA65) (1145),samtools_filter (DA65) (1145),2281521,1145
+,,0,2023-05-13T12:53:52.346207645Z,2023-06-12T12:53:52.346207645Z,2023-06-07T11:49:01.828226786Z,39.95,docker_used_memory_mb,samtools_filter (DA65) (1145),samtools_filter (DA65) (1145),2281521,1145
+,,0,2023-05-13T12:53:52.346207645Z,2023-06-12T12:53:52.346207645Z,2023-06-07T11:49:03.829168348Z,42.41,docker_used_memory_mb,samtools_filter (DA65) (1145),samtools_filter (DA65) (1145),2281521,1145
+,,0,2023-05-13T12:53:52.346207645Z,2023-06-12T12:53:52.346207645Z,2023-06-07T11:49:05.828899139Z,44.2,docker_used_memory_mb,samtools_filter (DA65) (1145),samtools_filter (DA65) (1145),2281521,1145
+,,0,2023-05-13T12:53:52.346207645Z,2023-06-12T12:53:52.346207645Z,2023-06-07T11:49:07.827903092Z,46.06,docker_used_memory_mb,samtools_filter (DA65) (1145),samtools_filter (DA65) (1145),2281521,1145
+,,0,2023-05-13T12:53:52.346207645Z,2023-06-12T12:53:52.346207645Z,2023-06-07T11:49:09.8284985Z,43.65,docker_used_memory_mb,samtools_filter (DA65) (1145),samtools_filter (DA65) (1145),2281521,1145
+,,0,2023-05-13T12:53:52.346207645Z,2023-06-12T12:53:52.346207645Z,2023-06-07T11:49:11.830159887Z,46.16,docker_used_memory_mb,samtools_filter (DA65) (1145),samtools_filter (DA65) (1145),2281521,1145
+,,0,2023-05-13T12:53:52.346207645Z,2023-06-12T12:53:52.346207645Z,2023-06-07T11:49:13.828542828Z,50.11,docker_used_memory_mb,samtools_filter (DA65) (1145),samtools_filter (DA65) (1145),2281521,1145
+,,0,2023-05-13T12:53:52.346207645Z,2023-06-12T12:53:52.346207645Z,2023-06-07T11:49:15.830125793Z,53.27,docker_used_memory_mb,samtools_filter (DA65) (1145),samtools_filter (DA65) (1145),2281521,1145

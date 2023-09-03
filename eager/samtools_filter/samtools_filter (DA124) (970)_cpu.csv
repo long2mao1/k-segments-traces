@@ -1,0 +1,17 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:53:46.896643761Z,2023-06-12T12:53:46.896643761Z,2023-06-07T11:38:22.377228869Z,355.7409,docker_cpu_usage_pct,samtools_filter (DA124) (970),samtools_filter (DA124) (970),1927943,970
+,,0,2023-05-13T12:53:46.896643761Z,2023-06-12T12:53:46.896643761Z,2023-06-07T11:38:24.373244183Z,380.8787,docker_cpu_usage_pct,samtools_filter (DA124) (970),samtools_filter (DA124) (970),1927943,970
+,,0,2023-05-13T12:53:46.896643761Z,2023-06-12T12:53:46.896643761Z,2023-06-07T11:38:26.373349536Z,385.022,docker_cpu_usage_pct,samtools_filter (DA124) (970),samtools_filter (DA124) (970),1927943,970
+,,0,2023-05-13T12:53:46.896643761Z,2023-06-12T12:53:46.896643761Z,2023-06-07T11:38:28.371008616Z,386.1274,docker_cpu_usage_pct,samtools_filter (DA124) (970),samtools_filter (DA124) (970),1927943,970
+,,0,2023-05-13T12:53:46.896643761Z,2023-06-12T12:53:46.896643761Z,2023-06-07T11:38:30.373172648Z,408.2652,docker_cpu_usage_pct,samtools_filter (DA124) (970),samtools_filter (DA124) (970),1927943,970
+,,0,2023-05-13T12:53:46.896643761Z,2023-06-12T12:53:46.896643761Z,2023-06-07T11:38:32.370030963Z,398.4117,docker_cpu_usage_pct,samtools_filter (DA124) (970),samtools_filter (DA124) (970),1927943,970
+,,0,2023-05-13T12:53:46.896643761Z,2023-06-12T12:53:46.896643761Z,2023-06-07T11:38:34.373152201Z,377.1086,docker_cpu_usage_pct,samtools_filter (DA124) (970),samtools_filter (DA124) (970),1927943,970
+,,0,2023-05-13T12:53:46.896643761Z,2023-06-12T12:53:46.896643761Z,2023-06-07T11:38:36.379376Z,401.2229,docker_cpu_usage_pct,samtools_filter (DA124) (970),samtools_filter (DA124) (970),1927943,970
+,,0,2023-05-13T12:53:46.896643761Z,2023-06-12T12:53:46.896643761Z,2023-06-07T11:38:38.370832505Z,367.7704,docker_cpu_usage_pct,samtools_filter (DA124) (970),samtools_filter (DA124) (970),1927943,970
+,,0,2023-05-13T12:53:46.896643761Z,2023-06-12T12:53:46.896643761Z,2023-06-07T11:38:40.371489428Z,102.4514,docker_cpu_usage_pct,samtools_filter (DA124) (970),samtools_filter (DA124) (970),1927943,970
+,,0,2023-05-13T12:53:46.896643761Z,2023-06-12T12:53:46.896643761Z,2023-06-07T11:38:42.376883049Z,102.4862,docker_cpu_usage_pct,samtools_filter (DA124) (970),samtools_filter (DA124) (970),1927943,970
+,,0,2023-05-13T12:53:46.896643761Z,2023-06-12T12:53:46.896643761Z,2023-06-07T11:38:44.372433771Z,103.4877,docker_cpu_usage_pct,samtools_filter (DA124) (970),samtools_filter (DA124) (970),1927943,970
+,,0,2023-05-13T12:53:46.896643761Z,2023-06-12T12:53:46.896643761Z,2023-06-07T11:38:46.373316597Z,108.8715,docker_cpu_usage_pct,samtools_filter (DA124) (970),samtools_filter (DA124) (970),1927943,970

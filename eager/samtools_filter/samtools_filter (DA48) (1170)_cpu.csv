@@ -1,0 +1,13 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:53:51.527452911Z,2023-06-12T12:53:51.527452911Z,2023-06-07T11:55:35.69477031Z,354.7301,docker_cpu_usage_pct,samtools_filter (DA48) (1170),samtools_filter (DA48) (1170),2504684,1170
+,,0,2023-05-13T12:53:51.527452911Z,2023-06-12T12:53:51.527452911Z,2023-06-07T11:55:37.694606298Z,337.0098,docker_cpu_usage_pct,samtools_filter (DA48) (1170),samtools_filter (DA48) (1170),2504684,1170
+,,0,2023-05-13T12:53:51.527452911Z,2023-06-12T12:53:51.527452911Z,2023-06-07T11:55:39.697232097Z,252.7819,docker_cpu_usage_pct,samtools_filter (DA48) (1170),samtools_filter (DA48) (1170),2504684,1170
+,,0,2023-05-13T12:53:51.527452911Z,2023-06-12T12:53:51.527452911Z,2023-06-07T11:55:42.697129563Z,371.8677,docker_cpu_usage_pct,samtools_filter (DA48) (1170),samtools_filter (DA48) (1170),2504684,1170
+,,0,2023-05-13T12:53:51.527452911Z,2023-06-12T12:53:51.527452911Z,2023-06-07T11:55:44.698426586Z,381.9261,docker_cpu_usage_pct,samtools_filter (DA48) (1170),samtools_filter (DA48) (1170),2504684,1170
+,,0,2023-05-13T12:53:51.527452911Z,2023-06-12T12:53:51.527452911Z,2023-06-07T11:55:46.699787513Z,337.3226,docker_cpu_usage_pct,samtools_filter (DA48) (1170),samtools_filter (DA48) (1170),2504684,1170
+,,0,2023-05-13T12:53:51.527452911Z,2023-06-12T12:53:51.527452911Z,2023-06-07T11:55:48.695105004Z,342.7605,docker_cpu_usage_pct,samtools_filter (DA48) (1170),samtools_filter (DA48) (1170),2504684,1170
+,,0,2023-05-13T12:53:51.527452911Z,2023-06-12T12:53:51.527452911Z,2023-06-07T11:55:50.6953009Z,107.9416,docker_cpu_usage_pct,samtools_filter (DA48) (1170),samtools_filter (DA48) (1170),2504684,1170
+,,0,2023-05-13T12:53:51.527452911Z,2023-06-12T12:53:51.527452911Z,2023-06-07T11:55:52.694956972Z,102.2895,docker_cpu_usage_pct,samtools_filter (DA48) (1170),samtools_filter (DA48) (1170),2504684,1170

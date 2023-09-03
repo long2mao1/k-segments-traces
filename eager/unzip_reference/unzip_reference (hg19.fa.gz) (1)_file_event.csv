@@ -1,0 +1,8 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2023-05-13T12:26:54.58407143Z,2023-06-12T12:26:54.58407143Z,2023-06-01T23:14:50.935470253Z,CREATE,file_event,unzip_reference (hg19.fa.gz) (1),unzip_reference (hg19.fa.gz) (1),/home/nilsd/nextflow/build/work/c9/2ccdf3f7363f2d7ecbcf14820a0a77/.command.trace,876019,1
+,,0,2023-05-13T12:26:54.58407143Z,2023-06-12T12:26:54.58407143Z,2023-06-01T23:14:50.958289764Z,CREATE,file_event,unzip_reference (hg19.fa.gz) (1),unzip_reference (hg19.fa.gz) (1),/home/nilsd/nextflow/build/work/c9/2ccdf3f7363f2d7ecbcf14820a0a77/hg19.fa,876019,1
+,,0,2023-05-13T12:26:54.58407143Z,2023-06-12T12:26:54.58407143Z,2023-06-01T23:15:06.752547412Z,DELETE,file_event,unzip_reference (hg19.fa.gz) (1),unzip_reference (hg19.fa.gz) (1),/home/nilsd/nextflow/build/work/c9/2ccdf3f7363f2d7ecbcf14820a0a77/hg19.fa.gz,876019,1
+,,0,2023-05-13T12:26:54.58407143Z,2023-06-12T12:26:54.58407143Z,2023-06-01T23:15:07.061760816Z,CREATE,file_event,unzip_reference (hg19.fa.gz) (1),unzip_reference (hg19.fa.gz) (1),/home/nilsd/nextflow/build/work/c9/2ccdf3f7363f2d7ecbcf14820a0a77/.exitcode,876019,1

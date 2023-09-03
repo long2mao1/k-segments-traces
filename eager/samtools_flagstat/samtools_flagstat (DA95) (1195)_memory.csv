@@ -1,0 +1,21 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:53:24.842591801Z,2023-06-12T12:53:24.842591801Z,2023-06-07T11:36:37.752893595Z,13.25,docker_used_memory_mb,samtools_flagstat (DA95) (1195),samtools_flagstat (DA95) (1195),1853923,1195
+,,0,2023-05-13T12:53:24.842591801Z,2023-06-12T12:53:24.842591801Z,2023-06-07T11:36:40.735381695Z,15.86,docker_used_memory_mb,samtools_flagstat (DA95) (1195),samtools_flagstat (DA95) (1195),1853923,1195
+,,0,2023-05-13T12:53:24.842591801Z,2023-06-12T12:53:24.842591801Z,2023-06-07T11:36:44.745274007Z,16.77,docker_used_memory_mb,samtools_flagstat (DA95) (1195),samtools_flagstat (DA95) (1195),1853923,1195
+,,0,2023-05-13T12:53:24.842591801Z,2023-06-12T12:53:24.842591801Z,2023-06-07T11:36:47.736925178Z,17.76,docker_used_memory_mb,samtools_flagstat (DA95) (1195),samtools_flagstat (DA95) (1195),1853923,1195
+,,0,2023-05-13T12:53:24.842591801Z,2023-06-12T12:53:24.842591801Z,2023-06-07T11:36:50.740778641Z,17.76,docker_used_memory_mb,samtools_flagstat (DA95) (1195),samtools_flagstat (DA95) (1195),1853923,1195
+,,0,2023-05-13T12:53:24.842591801Z,2023-06-12T12:53:24.842591801Z,2023-06-07T11:36:53.746337907Z,17.9,docker_used_memory_mb,samtools_flagstat (DA95) (1195),samtools_flagstat (DA95) (1195),1853923,1195
+,,0,2023-05-13T12:53:24.842591801Z,2023-06-12T12:53:24.842591801Z,2023-06-07T11:36:56.739565988Z,17.91,docker_used_memory_mb,samtools_flagstat (DA95) (1195),samtools_flagstat (DA95) (1195),1853923,1195
+,,0,2023-05-13T12:53:24.842591801Z,2023-06-12T12:53:24.842591801Z,2023-06-07T11:36:59.742719186Z,18.22,docker_used_memory_mb,samtools_flagstat (DA95) (1195),samtools_flagstat (DA95) (1195),1853923,1195
+,,0,2023-05-13T12:53:24.842591801Z,2023-06-12T12:53:24.842591801Z,2023-06-07T11:37:02.740856192Z,18.39,docker_used_memory_mb,samtools_flagstat (DA95) (1195),samtools_flagstat (DA95) (1195),1853923,1195
+,,0,2023-05-13T12:53:24.842591801Z,2023-06-12T12:53:24.842591801Z,2023-06-07T11:37:05.737572392Z,18.36,docker_used_memory_mb,samtools_flagstat (DA95) (1195),samtools_flagstat (DA95) (1195),1853923,1195
+,,0,2023-05-13T12:53:24.842591801Z,2023-06-12T12:53:24.842591801Z,2023-06-07T11:37:08.740978465Z,18.75,docker_used_memory_mb,samtools_flagstat (DA95) (1195),samtools_flagstat (DA95) (1195),1853923,1195
+,,0,2023-05-13T12:53:24.842591801Z,2023-06-12T12:53:24.842591801Z,2023-06-07T11:37:11.740891416Z,18.75,docker_used_memory_mb,samtools_flagstat (DA95) (1195),samtools_flagstat (DA95) (1195),1853923,1195
+,,0,2023-05-13T12:53:24.842591801Z,2023-06-12T12:53:24.842591801Z,2023-06-07T11:37:14.737011994Z,18.97,docker_used_memory_mb,samtools_flagstat (DA95) (1195),samtools_flagstat (DA95) (1195),1853923,1195
+,,0,2023-05-13T12:53:24.842591801Z,2023-06-12T12:53:24.842591801Z,2023-06-07T11:37:17.745096486Z,20.04,docker_used_memory_mb,samtools_flagstat (DA95) (1195),samtools_flagstat (DA95) (1195),1853923,1195
+,,0,2023-05-13T12:53:24.842591801Z,2023-06-12T12:53:24.842591801Z,2023-06-07T11:37:19.741836102Z,19.46,docker_used_memory_mb,samtools_flagstat (DA95) (1195),samtools_flagstat (DA95) (1195),1853923,1195
+,,0,2023-05-13T12:53:24.842591801Z,2023-06-12T12:53:24.842591801Z,2023-06-07T11:37:21.73707955Z,19.46,docker_used_memory_mb,samtools_flagstat (DA95) (1195),samtools_flagstat (DA95) (1195),1853923,1195
+,,0,2023-05-13T12:53:24.842591801Z,2023-06-12T12:53:24.842591801Z,2023-06-07T11:37:24.737196624Z,19.57,docker_used_memory_mb,samtools_flagstat (DA95) (1195),samtools_flagstat (DA95) (1195),1853923,1195

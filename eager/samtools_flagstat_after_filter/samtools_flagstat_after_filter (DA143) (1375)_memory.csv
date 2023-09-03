@@ -1,0 +1,15 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:59:59.869832107Z,2023-06-12T12:59:59.869832107Z,2023-06-07T11:58:54.885028222Z,16.82,docker_used_memory_mb,samtools_flagstat_after_filter (DA143) (1375),samtools_flagstat_after_filter (DA143) (1375),2613584,1375
+,,0,2023-05-13T12:59:59.869832107Z,2023-06-12T12:59:59.869832107Z,2023-06-07T11:58:56.884502633Z,17.5,docker_used_memory_mb,samtools_flagstat_after_filter (DA143) (1375),samtools_flagstat_after_filter (DA143) (1375),2613584,1375
+,,0,2023-05-13T12:59:59.869832107Z,2023-06-12T12:59:59.869832107Z,2023-06-07T11:58:58.889040606Z,18.96,docker_used_memory_mb,samtools_flagstat_after_filter (DA143) (1375),samtools_flagstat_after_filter (DA143) (1375),2613584,1375
+,,0,2023-05-13T12:59:59.869832107Z,2023-06-12T12:59:59.869832107Z,2023-06-07T11:59:00.88501432Z,19.76,docker_used_memory_mb,samtools_flagstat_after_filter (DA143) (1375),samtools_flagstat_after_filter (DA143) (1375),2613584,1375
+,,0,2023-05-13T12:59:59.869832107Z,2023-06-12T12:59:59.869832107Z,2023-06-07T11:59:02.89034286Z,21.09,docker_used_memory_mb,samtools_flagstat_after_filter (DA143) (1375),samtools_flagstat_after_filter (DA143) (1375),2613584,1375
+,,0,2023-05-13T12:59:59.869832107Z,2023-06-12T12:59:59.869832107Z,2023-06-07T11:59:04.886743732Z,21.69,docker_used_memory_mb,samtools_flagstat_after_filter (DA143) (1375),samtools_flagstat_after_filter (DA143) (1375),2613584,1375
+,,0,2023-05-13T12:59:59.869832107Z,2023-06-12T12:59:59.869832107Z,2023-06-07T11:59:07.885184858Z,22.24,docker_used_memory_mb,samtools_flagstat_after_filter (DA143) (1375),samtools_flagstat_after_filter (DA143) (1375),2613584,1375
+,,0,2023-05-13T12:59:59.869832107Z,2023-06-12T12:59:59.869832107Z,2023-06-07T11:59:09.884961139Z,20.85,docker_used_memory_mb,samtools_flagstat_after_filter (DA143) (1375),samtools_flagstat_after_filter (DA143) (1375),2613584,1375
+,,0,2023-05-13T12:59:59.869832107Z,2023-06-12T12:59:59.869832107Z,2023-06-07T11:59:11.88463052Z,21.27,docker_used_memory_mb,samtools_flagstat_after_filter (DA143) (1375),samtools_flagstat_after_filter (DA143) (1375),2613584,1375
+,,0,2023-05-13T12:59:59.869832107Z,2023-06-12T12:59:59.869832107Z,2023-06-07T11:59:13.88773467Z,21.53,docker_used_memory_mb,samtools_flagstat_after_filter (DA143) (1375),samtools_flagstat_after_filter (DA143) (1375),2613584,1375
+,,0,2023-05-13T12:59:59.869832107Z,2023-06-12T12:59:59.869832107Z,2023-06-07T11:59:15.889107788Z,21.29,docker_used_memory_mb,samtools_flagstat_after_filter (DA143) (1375),samtools_flagstat_after_filter (DA143) (1375),2613584,1375

@@ -1,0 +1,13 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:53:21.750904304Z,2023-06-12T12:53:21.750904304Z,2023-06-07T11:35:22.875602764Z,91.7541,docker_cpu_usage_pct,samtools_flagstat (DA26) (1106),samtools_flagstat (DA26) (1106),1757345,1106
+,,0,2023-05-13T12:53:21.750904304Z,2023-06-12T12:53:21.750904304Z,2023-06-07T11:35:26.877048525Z,94.6429,docker_cpu_usage_pct,samtools_flagstat (DA26) (1106),samtools_flagstat (DA26) (1106),1757345,1106
+,,0,2023-05-13T12:53:21.750904304Z,2023-06-12T12:53:21.750904304Z,2023-06-07T11:35:30.881118078Z,93.8182,docker_cpu_usage_pct,samtools_flagstat (DA26) (1106),samtools_flagstat (DA26) (1106),1757345,1106
+,,0,2023-05-13T12:53:21.750904304Z,2023-06-12T12:53:21.750904304Z,2023-06-07T11:35:34.881162241Z,95.1606,docker_cpu_usage_pct,samtools_flagstat (DA26) (1106),samtools_flagstat (DA26) (1106),1757345,1106
+,,0,2023-05-13T12:53:21.750904304Z,2023-06-12T12:53:21.750904304Z,2023-06-07T11:35:37.86962278Z,89.0958,docker_cpu_usage_pct,samtools_flagstat (DA26) (1106),samtools_flagstat (DA26) (1106),1757345,1106
+,,0,2023-05-13T12:53:21.750904304Z,2023-06-12T12:53:21.750904304Z,2023-06-07T11:35:41.881197601Z,93.3015,docker_cpu_usage_pct,samtools_flagstat (DA26) (1106),samtools_flagstat (DA26) (1106),1757345,1106
+,,0,2023-05-13T12:53:21.750904304Z,2023-06-12T12:53:21.750904304Z,2023-06-07T11:35:45.884918528Z,93.9167,docker_cpu_usage_pct,samtools_flagstat (DA26) (1106),samtools_flagstat (DA26) (1106),1757345,1106
+,,0,2023-05-13T12:53:21.750904304Z,2023-06-12T12:53:21.750904304Z,2023-06-07T11:35:49.877100122Z,86.5492,docker_cpu_usage_pct,samtools_flagstat (DA26) (1106),samtools_flagstat (DA26) (1106),1757345,1106
+,,0,2023-05-13T12:53:21.750904304Z,2023-06-12T12:53:21.750904304Z,2023-06-07T11:35:53.880917168Z,91.1679,docker_cpu_usage_pct,samtools_flagstat (DA26) (1106),samtools_flagstat (DA26) (1106),1757345,1106

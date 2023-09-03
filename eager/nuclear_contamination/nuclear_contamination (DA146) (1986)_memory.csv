@@ -1,0 +1,14 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T14:18:54.12987551Z,2023-06-12T14:18:54.12987551Z,2023-06-08T00:49:19.689969314Z,15,docker_used_memory_mb,nuclear_contamination (DA146) (1986),nuclear_contamination (DA146) (1986),150026,1986
+,,0,2023-05-13T14:18:54.12987551Z,2023-06-12T14:18:54.12987551Z,2023-06-08T00:49:21.690602559Z,23.64,docker_used_memory_mb,nuclear_contamination (DA146) (1986),nuclear_contamination (DA146) (1986),150026,1986
+,,0,2023-05-13T14:18:54.12987551Z,2023-06-12T14:18:54.12987551Z,2023-06-08T00:49:23.690220922Z,30.27,docker_used_memory_mb,nuclear_contamination (DA146) (1986),nuclear_contamination (DA146) (1986),150026,1986
+,,0,2023-05-13T14:18:54.12987551Z,2023-06-12T14:18:54.12987551Z,2023-06-08T00:49:25.690891857Z,28.6,docker_used_memory_mb,nuclear_contamination (DA146) (1986),nuclear_contamination (DA146) (1986),150026,1986
+,,0,2023-05-13T14:18:54.12987551Z,2023-06-12T14:18:54.12987551Z,2023-06-08T00:49:27.690600802Z,29.97,docker_used_memory_mb,nuclear_contamination (DA146) (1986),nuclear_contamination (DA146) (1986),150026,1986
+,,0,2023-05-13T14:18:54.12987551Z,2023-06-12T14:18:54.12987551Z,2023-06-08T00:49:29.691524584Z,30.91,docker_used_memory_mb,nuclear_contamination (DA146) (1986),nuclear_contamination (DA146) (1986),150026,1986
+,,0,2023-05-13T14:18:54.12987551Z,2023-06-12T14:18:54.12987551Z,2023-06-08T00:49:31.691005412Z,31.94,docker_used_memory_mb,nuclear_contamination (DA146) (1986),nuclear_contamination (DA146) (1986),150026,1986
+,,0,2023-05-13T14:18:54.12987551Z,2023-06-12T14:18:54.12987551Z,2023-06-08T00:49:34.690583798Z,33.75,docker_used_memory_mb,nuclear_contamination (DA146) (1986),nuclear_contamination (DA146) (1986),150026,1986
+,,0,2023-05-13T14:18:54.12987551Z,2023-06-12T14:18:54.12987551Z,2023-06-08T00:49:36.690374874Z,34.27,docker_used_memory_mb,nuclear_contamination (DA146) (1986),nuclear_contamination (DA146) (1986),150026,1986
+,,0,2023-05-13T14:18:54.12987551Z,2023-06-12T14:18:54.12987551Z,2023-06-08T00:49:38.691227374Z,34.74,docker_used_memory_mb,nuclear_contamination (DA146) (1986),nuclear_contamination (DA146) (1986),150026,1986

@@ -1,0 +1,12 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:53:18.979524216Z,2023-06-12T12:53:18.979524216Z,2023-06-07T11:34:22.229125725Z,100.4228,docker_cpu_usage_pct,samtools_flagstat (DA129) (994),samtools_flagstat (DA129) (994),1667211,994
+,,0,2023-05-13T12:53:18.979524216Z,2023-06-12T12:53:18.979524216Z,2023-06-07T11:34:26.224066024Z,77.62,docker_cpu_usage_pct,samtools_flagstat (DA129) (994),samtools_flagstat (DA129) (994),1667211,994
+,,0,2023-05-13T12:53:18.979524216Z,2023-06-12T12:53:18.979524216Z,2023-06-07T11:34:30.22208216Z,91.3049,docker_cpu_usage_pct,samtools_flagstat (DA129) (994),samtools_flagstat (DA129) (994),1667211,994
+,,0,2023-05-13T12:53:18.979524216Z,2023-06-12T12:53:18.979524216Z,2023-06-07T11:34:33.232925049Z,90.9458,docker_cpu_usage_pct,samtools_flagstat (DA129) (994),samtools_flagstat (DA129) (994),1667211,994
+,,0,2023-05-13T12:53:18.979524216Z,2023-06-12T12:53:18.979524216Z,2023-06-07T11:34:37.250288543Z,97.428,docker_cpu_usage_pct,samtools_flagstat (DA129) (994),samtools_flagstat (DA129) (994),1667211,994
+,,0,2023-05-13T12:53:18.979524216Z,2023-06-12T12:53:18.979524216Z,2023-06-07T11:34:41.23233753Z,86.1697,docker_cpu_usage_pct,samtools_flagstat (DA129) (994),samtools_flagstat (DA129) (994),1667211,994
+,,0,2023-05-13T12:53:18.979524216Z,2023-06-12T12:53:18.979524216Z,2023-06-07T11:34:47.231033522Z,95.3066,docker_cpu_usage_pct,samtools_flagstat (DA129) (994),samtools_flagstat (DA129) (994),1667211,994
+,,0,2023-05-13T12:53:18.979524216Z,2023-06-12T12:53:18.979524216Z,2023-06-07T11:34:50.229157666Z,84.8416,docker_cpu_usage_pct,samtools_flagstat (DA129) (994),samtools_flagstat (DA129) (994),1667211,994

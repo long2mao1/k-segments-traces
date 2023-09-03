@@ -1,0 +1,10 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:42:47.978501727Z,2023-06-12T12:42:47.978501727Z,2023-06-02T07:06:09.841245836Z,233.27,docker_used_memory_mb,fastqc_after_clipping (DA188_L1) (500),fastqc_after_clipping (DA188_L1) (500),1737207,500
+,,0,2023-05-13T12:42:47.978501727Z,2023-06-12T12:42:47.978501727Z,2023-06-02T07:06:11.841859892Z,257.46,docker_used_memory_mb,fastqc_after_clipping (DA188_L1) (500),fastqc_after_clipping (DA188_L1) (500),1737207,500
+,,0,2023-05-13T12:42:47.978501727Z,2023-06-12T12:42:47.978501727Z,2023-06-02T07:06:13.8413845Z,260.2,docker_used_memory_mb,fastqc_after_clipping (DA188_L1) (500),fastqc_after_clipping (DA188_L1) (500),1737207,500
+,,0,2023-05-13T12:42:47.978501727Z,2023-06-12T12:42:47.978501727Z,2023-06-02T07:06:15.842208977Z,262.4,docker_used_memory_mb,fastqc_after_clipping (DA188_L1) (500),fastqc_after_clipping (DA188_L1) (500),1737207,500
+,,0,2023-05-13T12:42:47.978501727Z,2023-06-12T12:42:47.978501727Z,2023-06-02T07:06:17.842011557Z,264.1,docker_used_memory_mb,fastqc_after_clipping (DA188_L1) (500),fastqc_after_clipping (DA188_L1) (500),1737207,500
+,,0,2023-05-13T12:42:47.978501727Z,2023-06-12T12:42:47.978501727Z,2023-06-02T07:06:19.841471924Z,281.4,docker_used_memory_mb,fastqc_after_clipping (DA188_L1) (500),fastqc_after_clipping (DA188_L1) (500),1737207,500

@@ -1,0 +1,10 @@
+#datatype,string,long,string,string,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,long,string,string,string
+#group,false,false,true,true,true,true,false,false,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_field,_measurement,_start,_stop,_time,_value,name,pid,tid
+,,0,files_input_num,mtnucratio (DA197) (2033),2023-05-13T14:17:33.975504974Z,2023-06-12T14:17:33.975504974Z,2023-06-08T00:50:56.117285282Z,8,mtnucratio (DA197) (2033),252186,2033
+,,1,files_input_total_size,mtnucratio (DA197) (2033),2023-05-13T14:17:33.975504974Z,2023-06-12T14:17:33.975504974Z,2023-06-08T00:50:56.117285282Z,1334011217,mtnucratio (DA197) (2033),252186,2033
+,,2,files_output_num,mtnucratio (DA197) (2033),2023-05-13T14:17:33.975504974Z,2023-06-12T14:17:33.975504974Z,2023-06-08T00:52:07.610651802Z,5,mtnucratio (DA197) (2033),252186,2033
+,,3,files_output_total_size,mtnucratio (DA197) (2033),2023-05-13T14:17:33.975504974Z,2023-06-12T14:17:33.975504974Z,2023-06-08T00:52:07.610651802Z,969,mtnucratio (DA197) (2033),252186,2033
+,,4,max_cpus,mtnucratio (DA197) (2033),2023-05-13T14:17:33.975504974Z,2023-06-12T14:17:33.975504974Z,2023-06-08T00:50:59.109321498Z,1,mtnucratio (DA197) (2033),252186,2033
+,,5,max_mem,mtnucratio (DA197) (2033),2023-05-13T14:17:33.975504974Z,2023-06-12T14:17:33.975504974Z,2023-06-08T00:50:59.109321498Z,4294967296,mtnucratio (DA197) (2033),252186,2033

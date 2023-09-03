@@ -1,0 +1,10 @@
+#datatype,string,long,string,string,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,long,string,string,string
+#group,false,false,true,true,true,true,false,false,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_field,_measurement,_start,_stop,_time,_value,name,pid,tid
+,,0,files_input_num,fastqc (DA86_L1) (362),2023-05-13T12:40:28.16521709Z,2023-06-12T12:40:28.16521709Z,2023-06-01T23:12:33.6991704Z,9,fastqc (DA86_L1) (362),773681,362
+,,1,files_input_total_size,fastqc (DA86_L1) (362),2023-05-13T12:40:28.16521709Z,2023-06-12T12:40:28.16521709Z,2023-06-01T23:12:33.6991704Z,1327955989,fastqc (DA86_L1) (362),773681,362
+,,2,files_output_num,fastqc (DA86_L1) (362),2023-05-13T12:40:28.16521709Z,2023-06-12T12:40:28.16521709Z,2023-06-01T23:15:14.862428612Z,4,fastqc (DA86_L1) (362),773681,362
+,,3,files_output_total_size,fastqc (DA86_L1) (362),2023-05-13T12:40:28.16521709Z,2023-06-12T12:40:28.16521709Z,2023-06-01T23:15:14.862428612Z,518995,fastqc (DA86_L1) (362),773681,362
+,,4,max_cpus,fastqc (DA86_L1) (362),2023-05-13T12:40:28.16521709Z,2023-06-12T12:40:28.16521709Z,2023-06-01T23:12:36.698846905Z,2,fastqc (DA86_L1) (362),773681,362
+,,5,max_mem,fastqc (DA86_L1) (362),2023-05-13T12:40:28.16521709Z,2023-06-12T12:40:28.16521709Z,2023-06-01T23:12:36.698846905Z,4294967296,fastqc (DA86_L1) (362),773681,362

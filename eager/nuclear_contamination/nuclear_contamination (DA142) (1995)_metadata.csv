@@ -1,0 +1,10 @@
+#datatype,string,long,string,string,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,long,string,string,string
+#group,false,false,true,true,true,true,false,false,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_field,_measurement,_start,_stop,_time,_value,name,pid,tid
+,,0,files_input_num,nuclear_contamination (DA142) (1995),2023-05-13T14:18:53.977827956Z,2023-06-12T14:18:53.977827956Z,2023-06-08T00:49:27.323148483Z,8,nuclear_contamination (DA142) (1995),161646,1995
+,,1,files_input_total_size,nuclear_contamination (DA142) (1995),2023-05-13T14:18:53.977827956Z,2023-06-12T14:18:53.977827956Z,2023-06-08T00:49:27.323148483Z,2573292061,nuclear_contamination (DA142) (1995),161646,1995
+,,2,files_output_num,nuclear_contamination (DA142) (1995),2023-05-13T14:18:53.977827956Z,2023-06-12T14:18:53.977827956Z,2023-06-08T00:50:30.879766751Z,6,nuclear_contamination (DA142) (1995),161646,1995
+,,3,files_output_total_size,nuclear_contamination (DA142) (1995),2023-05-13T14:18:53.977827956Z,2023-06-12T14:18:53.977827956Z,2023-06-08T00:50:30.879766751Z,172188932,nuclear_contamination (DA142) (1995),161646,1995
+,,4,max_cpus,nuclear_contamination (DA142) (1995),2023-05-13T14:18:53.977827956Z,2023-06-12T14:18:53.977827956Z,2023-06-08T00:49:30.313594914Z,1,nuclear_contamination (DA142) (1995),161646,1995
+,,5,max_mem,nuclear_contamination (DA142) (1995),2023-05-13T14:18:53.977827956Z,2023-06-12T14:18:53.977827956Z,2023-06-08T00:49:30.313594914Z,4294967296,nuclear_contamination (DA142) (1995),161646,1995

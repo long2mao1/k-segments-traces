@@ -1,0 +1,36 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:04:13.80566504Z,109.9073,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:04:15.805459682Z,108.239,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:04:17.805975704Z,109.775,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:04:19.805817449Z,105.8398,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:04:21.805521327Z,106.4235,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:04:23.80615887Z,100.1348,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:04:25.806073146Z,99.38,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:04:28.805726915Z,100.7922,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:04:30.809437253Z,100.2415,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:04:32.80605704Z,105.9719,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:04:34.805647707Z,100.1894,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:04:36.805298703Z,100.0454,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:04:38.805919046Z,100.3078,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:04:40.805545663Z,100.8311,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:04:42.805193717Z,106.0508,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:04:44.80588285Z,99.4247,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:04:46.805449234Z,100.1779,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:04:48.806010036Z,99.2039,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:04:50.805667824Z,100.421,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:04:52.805310639Z,107.5417,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:04:54.806106987Z,99.4545,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:04:56.806000912Z,100.5835,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:04:58.805455609Z,100.2939,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:05:00.806125511Z,99.4681,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:05:02.805976824Z,105.5991,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:05:05.805604216Z,100.3533,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:05:07.806402019Z,99.3371,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:05:09.805719161Z,100.1827,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:05:11.80533742Z,100.6582,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:05:13.806048589Z,105.0815,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:05:15.80564882Z,100.4532,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480
+,,0,2023-05-13T12:42:47.444694083Z,2023-06-12T12:42:47.444694083Z,2023-06-02T07:05:17.805582967Z,193.4167,docker_cpu_usage_pct,fastqc_after_clipping (DA15_L1) (480),fastqc_after_clipping (DA15_L1) (480),1664220,480

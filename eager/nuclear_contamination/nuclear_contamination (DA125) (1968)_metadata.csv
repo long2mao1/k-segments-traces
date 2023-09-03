@@ -1,0 +1,10 @@
+#datatype,string,long,string,string,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,long,string,string,string
+#group,false,false,true,true,true,true,false,false,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_field,_measurement,_start,_stop,_time,_value,name,pid,tid
+,,0,files_input_num,nuclear_contamination (DA125) (1968),2023-05-13T14:18:53.301448186Z,2023-06-12T14:18:53.301448186Z,2023-06-08T00:48:35.738082705Z,8,nuclear_contamination (DA125) (1968),109289,1968
+,,1,files_input_total_size,nuclear_contamination (DA125) (1968),2023-05-13T14:18:53.301448186Z,2023-06-12T14:18:53.301448186Z,2023-06-08T00:48:35.738082705Z,586359952,nuclear_contamination (DA125) (1968),109289,1968
+,,2,files_output_num,nuclear_contamination (DA125) (1968),2023-05-13T14:18:53.301448186Z,2023-06-12T14:18:53.301448186Z,2023-06-08T00:48:49.387173451Z,6,nuclear_contamination (DA125) (1968),109289,1968
+,,3,files_output_total_size,nuclear_contamination (DA125) (1968),2023-05-13T14:18:53.301448186Z,2023-06-12T14:18:53.301448186Z,2023-06-08T00:48:49.387173451Z,38044631,nuclear_contamination (DA125) (1968),109289,1968
+,,4,max_cpus,nuclear_contamination (DA125) (1968),2023-05-13T14:18:53.301448186Z,2023-06-12T14:18:53.301448186Z,2023-06-08T00:48:38.738163418Z,1,nuclear_contamination (DA125) (1968),109289,1968
+,,5,max_mem,nuclear_contamination (DA125) (1968),2023-05-13T14:18:53.301448186Z,2023-06-12T14:18:53.301448186Z,2023-06-08T00:48:38.738163418Z,4294967296,nuclear_contamination (DA125) (1968),109289,1968

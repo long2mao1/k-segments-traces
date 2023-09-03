@@ -1,0 +1,14 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T14:18:59.422462327Z,2023-06-12T14:18:59.422462327Z,2023-06-08T01:03:56.541551823Z,73.2174,docker_cpu_usage_pct,nuclear_contamination (DA92) (2270),nuclear_contamination (DA92) (2270),1039904,2270
+,,0,2023-05-13T14:18:59.422462327Z,2023-06-12T14:18:59.422462327Z,2023-06-08T01:04:01.549278452Z,52.4434,docker_cpu_usage_pct,nuclear_contamination (DA92) (2270),nuclear_contamination (DA92) (2270),1039904,2270
+,,0,2023-05-13T14:18:59.422462327Z,2023-06-12T14:18:59.422462327Z,2023-06-08T01:04:04.539545082Z,75.7488,docker_cpu_usage_pct,nuclear_contamination (DA92) (2270),nuclear_contamination (DA92) (2270),1039904,2270
+,,0,2023-05-13T14:18:59.422462327Z,2023-06-12T14:18:59.422462327Z,2023-06-08T01:04:08.549102787Z,61.3289,docker_cpu_usage_pct,nuclear_contamination (DA92) (2270),nuclear_contamination (DA92) (2270),1039904,2270
+,,0,2023-05-13T14:18:59.422462327Z,2023-06-12T14:18:59.422462327Z,2023-06-08T01:04:11.549313448Z,79.0655,docker_cpu_usage_pct,nuclear_contamination (DA92) (2270),nuclear_contamination (DA92) (2270),1039904,2270
+,,0,2023-05-13T14:18:59.422462327Z,2023-06-12T14:18:59.422462327Z,2023-06-08T01:04:15.54505948Z,72.4917,docker_cpu_usage_pct,nuclear_contamination (DA92) (2270),nuclear_contamination (DA92) (2270),1039904,2270
+,,0,2023-05-13T14:18:59.422462327Z,2023-06-12T14:18:59.422462327Z,2023-06-08T01:04:18.541300506Z,84.5279,docker_cpu_usage_pct,nuclear_contamination (DA92) (2270),nuclear_contamination (DA92) (2270),1039904,2270
+,,0,2023-05-13T14:18:59.422462327Z,2023-06-12T14:18:59.422462327Z,2023-06-08T01:04:22.549205339Z,92.66,docker_cpu_usage_pct,nuclear_contamination (DA92) (2270),nuclear_contamination (DA92) (2270),1039904,2270
+,,0,2023-05-13T14:18:59.422462327Z,2023-06-12T14:18:59.422462327Z,2023-06-08T01:04:25.55679541Z,69.5597,docker_cpu_usage_pct,nuclear_contamination (DA92) (2270),nuclear_contamination (DA92) (2270),1039904,2270
+,,0,2023-05-13T14:18:59.422462327Z,2023-06-12T14:18:59.422462327Z,2023-06-08T01:04:28.542547948Z,78.7853,docker_cpu_usage_pct,nuclear_contamination (DA92) (2270),nuclear_contamination (DA92) (2270),1039904,2270

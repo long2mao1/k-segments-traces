@@ -1,0 +1,9 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2023-05-13T12:43:09.265091735Z,2023-06-12T12:43:09.265091735Z,2023-06-03T06:48:25.414488781Z,CREATE,file_event,bwa (DA161) (859),bwa (DA161) (859),/home/nilsd/nextflow/build/work/e4/78546061a1e085cdfdb796db12e90f/.command.trace,751028,859
+,,0,2023-05-13T12:43:09.265091735Z,2023-06-12T12:43:09.265091735Z,2023-06-03T06:48:25.431016215Z,CREATE,file_event,bwa (DA161) (859),bwa (DA161) (859),/home/nilsd/nextflow/build/work/e4/78546061a1e085cdfdb796db12e90f/DA161.sai,751028,859
+,,0,2023-05-13T12:43:09.265091735Z,2023-06-12T12:43:09.265091735Z,2023-06-03T07:18:05.267380172Z,CREATE,file_event,bwa (DA161) (859),bwa (DA161) (859),/home/nilsd/nextflow/build/work/e4/78546061a1e085cdfdb796db12e90f/DA161_SE.mapped.bam,751028,859
+,,0,2023-05-13T12:43:09.265091735Z,2023-06-12T12:43:09.265091735Z,2023-06-03T07:22:27.327366709Z,CREATE,file_event,bwa (DA161) (859),bwa (DA161) (859),/home/nilsd/nextflow/build/work/e4/78546061a1e085cdfdb796db12e90f/DA161_SE.mapped.bam.bai,751028,859
+,,0,2023-05-13T12:43:09.265091735Z,2023-06-12T12:43:09.265091735Z,2023-06-03T07:22:27.726576007Z,CREATE,file_event,bwa (DA161) (859),bwa (DA161) (859),/home/nilsd/nextflow/build/work/e4/78546061a1e085cdfdb796db12e90f/.exitcode,751028,859

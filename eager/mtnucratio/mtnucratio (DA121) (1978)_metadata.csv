@@ -1,0 +1,10 @@
+#datatype,string,long,string,string,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,long,string,string,string
+#group,false,false,true,true,true,true,false,false,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_field,_measurement,_start,_stop,_time,_value,name,pid,tid
+,,0,files_input_num,mtnucratio (DA121) (1978),2023-05-13T14:17:31.797118356Z,2023-06-12T14:17:31.797118356Z,2023-06-08T00:48:50.490158779Z,8,mtnucratio (DA121) (1978),124582,1978
+,,1,files_input_total_size,mtnucratio (DA121) (1978),2023-05-13T14:17:31.797118356Z,2023-06-12T14:17:31.797118356Z,2023-06-08T00:48:50.490158779Z,1652463144,mtnucratio (DA121) (1978),124582,1978
+,,2,files_output_num,mtnucratio (DA121) (1978),2023-05-13T14:17:31.797118356Z,2023-06-12T14:17:31.797118356Z,2023-06-08T00:50:14.271527226Z,5,mtnucratio (DA121) (1978),124582,1978
+,,3,files_output_total_size,mtnucratio (DA121) (1978),2023-05-13T14:17:31.797118356Z,2023-06-12T14:17:31.797118356Z,2023-06-08T00:50:14.271527226Z,969,mtnucratio (DA121) (1978),124582,1978
+,,4,max_cpus,mtnucratio (DA121) (1978),2023-05-13T14:17:31.797118356Z,2023-06-12T14:17:31.797118356Z,2023-06-08T00:48:53.489809065Z,1,mtnucratio (DA121) (1978),124582,1978
+,,5,max_mem,mtnucratio (DA121) (1978),2023-05-13T14:17:31.797118356Z,2023-06-12T14:17:31.797118356Z,2023-06-08T00:48:53.489809065Z,4294967296,mtnucratio (DA121) (1978),124582,1978

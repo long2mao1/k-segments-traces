@@ -1,0 +1,14 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:53:18.550642348Z,2023-06-12T12:53:18.550642348Z,2023-06-07T11:34:43.77034178Z,14.47,docker_used_memory_mb,samtools_flagstat (DA118) (1032),samtools_flagstat (DA118) (1032),1702144,1032
+,,0,2023-05-13T12:53:18.550642348Z,2023-06-12T12:53:18.550642348Z,2023-06-07T11:34:48.772591639Z,17.37,docker_used_memory_mb,samtools_flagstat (DA118) (1032),samtools_flagstat (DA118) (1032),1702144,1032
+,,0,2023-05-13T12:53:18.550642348Z,2023-06-12T12:53:18.550642348Z,2023-06-07T11:34:51.76906835Z,19.17,docker_used_memory_mb,samtools_flagstat (DA118) (1032),samtools_flagstat (DA118) (1032),1702144,1032
+,,0,2023-05-13T12:53:18.550642348Z,2023-06-12T12:53:18.550642348Z,2023-06-07T11:34:55.773082087Z,20.2,docker_used_memory_mb,samtools_flagstat (DA118) (1032),samtools_flagstat (DA118) (1032),1702144,1032
+,,0,2023-05-13T12:53:18.550642348Z,2023-06-12T12:53:18.550642348Z,2023-06-07T11:34:59.774500699Z,21.51,docker_used_memory_mb,samtools_flagstat (DA118) (1032),samtools_flagstat (DA118) (1032),1702144,1032
+,,0,2023-05-13T12:53:18.550642348Z,2023-06-12T12:53:18.550642348Z,2023-06-07T11:35:03.785067272Z,22.58,docker_used_memory_mb,samtools_flagstat (DA118) (1032),samtools_flagstat (DA118) (1032),1702144,1032
+,,0,2023-05-13T12:53:18.550642348Z,2023-06-12T12:53:18.550642348Z,2023-06-07T11:35:07.78088539Z,21.36,docker_used_memory_mb,samtools_flagstat (DA118) (1032),samtools_flagstat (DA118) (1032),1702144,1032
+,,0,2023-05-13T12:53:18.550642348Z,2023-06-12T12:53:18.550642348Z,2023-06-07T11:35:10.771151806Z,22.21,docker_used_memory_mb,samtools_flagstat (DA118) (1032),samtools_flagstat (DA118) (1032),1702144,1032
+,,0,2023-05-13T12:53:18.550642348Z,2023-06-12T12:53:18.550642348Z,2023-06-07T11:35:14.77719698Z,23.39,docker_used_memory_mb,samtools_flagstat (DA118) (1032),samtools_flagstat (DA118) (1032),1702144,1032
+,,0,2023-05-13T12:53:18.550642348Z,2023-06-12T12:53:18.550642348Z,2023-06-07T11:35:19.769273445Z,24.88,docker_used_memory_mb,samtools_flagstat (DA118) (1032),samtools_flagstat (DA118) (1032),1702144,1032

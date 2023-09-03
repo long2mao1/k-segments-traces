@@ -1,0 +1,13 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:53:18.501501374Z,2023-06-12T12:53:18.501501374Z,2023-06-07T11:34:24.50185588Z,16.77,docker_used_memory_mb,samtools_flagstat (DA117) (1004),samtools_flagstat (DA117) (1004),1667453,1004
+,,0,2023-05-13T12:53:18.501501374Z,2023-06-12T12:53:18.501501374Z,2023-06-07T11:34:28.505182118Z,18.28,docker_used_memory_mb,samtools_flagstat (DA117) (1004),samtools_flagstat (DA117) (1004),1667453,1004
+,,0,2023-05-13T12:53:18.501501374Z,2023-06-12T12:53:18.501501374Z,2023-06-07T11:34:32.505059342Z,20.57,docker_used_memory_mb,samtools_flagstat (DA117) (1004),samtools_flagstat (DA117) (1004),1667453,1004
+,,0,2023-05-13T12:53:18.501501374Z,2023-06-12T12:53:18.501501374Z,2023-06-07T11:34:36.504871623Z,21.11,docker_used_memory_mb,samtools_flagstat (DA117) (1004),samtools_flagstat (DA117) (1004),1667453,1004
+,,0,2023-05-13T12:53:18.501501374Z,2023-06-12T12:53:18.501501374Z,2023-06-07T11:34:40.500045582Z,21.87,docker_used_memory_mb,samtools_flagstat (DA117) (1004),samtools_flagstat (DA117) (1004),1667453,1004
+,,0,2023-05-13T12:53:18.501501374Z,2023-06-12T12:53:18.501501374Z,2023-06-07T11:34:45.509010248Z,22.14,docker_used_memory_mb,samtools_flagstat (DA117) (1004),samtools_flagstat (DA117) (1004),1667453,1004
+,,0,2023-05-13T12:53:18.501501374Z,2023-06-12T12:53:18.501501374Z,2023-06-07T11:34:49.509089151Z,21.8,docker_used_memory_mb,samtools_flagstat (DA117) (1004),samtools_flagstat (DA117) (1004),1667453,1004
+,,0,2023-05-13T12:53:18.501501374Z,2023-06-12T12:53:18.501501374Z,2023-06-07T11:34:53.501776476Z,23.11,docker_used_memory_mb,samtools_flagstat (DA117) (1004),samtools_flagstat (DA117) (1004),1667453,1004
+,,0,2023-05-13T12:53:18.501501374Z,2023-06-12T12:53:18.501501374Z,2023-06-07T11:34:57.18097782Z,24.34,docker_used_memory_mb,samtools_flagstat (DA117) (1004),samtools_flagstat (DA117) (1004),1667453,1004

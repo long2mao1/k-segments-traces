@@ -1,0 +1,10 @@
+#datatype,string,long,string,string,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,long,string,string,string
+#group,false,false,true,true,true,true,false,false,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_field,_measurement,_start,_stop,_time,_value,name,pid,tid
+,,0,files_input_num,preseq (DA4) (1626),2023-05-13T14:16:53.460944057Z,2023-06-12T14:16:53.460944057Z,2023-06-07T12:12:39.937004659Z,5,preseq (DA4) (1626),3271689,1626
+,,1,files_input_total_size,preseq (DA4) (1626),2023-05-13T14:16:53.460944057Z,2023-06-12T14:16:53.460944057Z,2023-06-07T12:12:39.937004659Z,1731665187,preseq (DA4) (1626),3271689,1626
+,,2,files_output_num,preseq (DA4) (1626),2023-05-13T14:16:53.460944057Z,2023-06-12T14:16:53.460944057Z,2023-06-07T12:17:16.096806877Z,6,preseq (DA4) (1626),3271689,1626
+,,3,files_output_total_size,preseq (DA4) (1626),2023-05-13T14:16:53.460944057Z,2023-06-12T14:16:53.460944057Z,2023-06-07T12:17:16.096806877Z,698450,preseq (DA4) (1626),3271689,1626
+,,4,max_cpus,preseq (DA4) (1626),2023-05-13T14:16:53.460944057Z,2023-06-12T14:16:53.460944057Z,2023-06-07T12:12:44.91696795Z,1,preseq (DA4) (1626),3271689,1626
+,,5,max_mem,preseq (DA4) (1626),2023-05-13T14:16:53.460944057Z,2023-06-12T14:16:53.460944057Z,2023-06-07T12:12:44.91696795Z,1073741824,preseq (DA4) (1626),3271689,1626

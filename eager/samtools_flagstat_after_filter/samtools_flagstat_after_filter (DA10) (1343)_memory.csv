@@ -1,0 +1,12 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:59:58.424341658Z,2023-06-12T12:59:58.424341658Z,2023-06-07T11:54:12.456882627Z,16.69,docker_used_memory_mb,samtools_flagstat_after_filter (DA10) (1343),samtools_flagstat_after_filter (DA10) (1343),2460705,1343
+,,0,2023-05-13T12:59:58.424341658Z,2023-06-12T12:59:58.424341658Z,2023-06-07T11:54:14.456748479Z,16.29,docker_used_memory_mb,samtools_flagstat_after_filter (DA10) (1343),samtools_flagstat_after_filter (DA10) (1343),2460705,1343
+,,0,2023-05-13T12:59:58.424341658Z,2023-06-12T12:59:58.424341658Z,2023-06-07T11:54:16.449446989Z,17.88,docker_used_memory_mb,samtools_flagstat_after_filter (DA10) (1343),samtools_flagstat_after_filter (DA10) (1343),2460705,1343
+,,0,2023-05-13T12:59:58.424341658Z,2023-06-12T12:59:58.424341658Z,2023-06-07T11:54:18.453074295Z,18.49,docker_used_memory_mb,samtools_flagstat_after_filter (DA10) (1343),samtools_flagstat_after_filter (DA10) (1343),2460705,1343
+,,0,2023-05-13T12:59:58.424341658Z,2023-06-12T12:59:58.424341658Z,2023-06-07T11:54:20.451632325Z,19.42,docker_used_memory_mb,samtools_flagstat_after_filter (DA10) (1343),samtools_flagstat_after_filter (DA10) (1343),2460705,1343
+,,0,2023-05-13T12:59:58.424341658Z,2023-06-12T12:59:58.424341658Z,2023-06-07T11:54:23.449631046Z,19.74,docker_used_memory_mb,samtools_flagstat_after_filter (DA10) (1343),samtools_flagstat_after_filter (DA10) (1343),2460705,1343
+,,0,2023-05-13T12:59:58.424341658Z,2023-06-12T12:59:58.424341658Z,2023-06-07T11:54:25.457208376Z,19.13,docker_used_memory_mb,samtools_flagstat_after_filter (DA10) (1343),samtools_flagstat_after_filter (DA10) (1343),2460705,1343
+,,0,2023-05-13T12:59:58.424341658Z,2023-06-12T12:59:58.424341658Z,2023-06-07T11:54:27.453138754Z,17.56,docker_used_memory_mb,samtools_flagstat_after_filter (DA10) (1343),samtools_flagstat_after_filter (DA10) (1343),2460705,1343

@@ -1,0 +1,8 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2023-05-13T14:16:54.808853932Z,2023-06-12T14:16:54.808853932Z,2023-06-07T12:21:41.007946635Z,CREATE,file_event,preseq (DA71) (1770),preseq (DA71) (1770),/home/nilsd/nextflow/build/work/a6/a0beaff270b7a87099ae53f4790e04/cidfile_preseq__DA71_.txt,3820866,1770
+,,0,2023-05-13T14:16:54.808853932Z,2023-06-12T14:16:54.808853932Z,2023-06-07T12:21:42.249693814Z,CREATE,file_event,preseq (DA71) (1770),preseq (DA71) (1770),/home/nilsd/nextflow/build/work/a6/a0beaff270b7a87099ae53f4790e04/.command.trace,3820866,1770
+,,0,2023-05-13T14:16:54.808853932Z,2023-06-12T14:16:54.808853932Z,2023-06-07T12:26:36.8735642Z,CREATE,file_event,preseq (DA71) (1770),preseq (DA71) (1770),/home/nilsd/nextflow/build/work/a6/a0beaff270b7a87099ae53f4790e04/DA71.filtered.preseq,3820866,1770
+,,0,2023-05-13T14:16:54.808853932Z,2023-06-12T14:16:54.808853932Z,2023-06-07T12:26:37.680594527Z,CREATE,file_event,preseq (DA71) (1770),preseq (DA71) (1770),/home/nilsd/nextflow/build/work/a6/a0beaff270b7a87099ae53f4790e04/.exitcode,3820866,1770

@@ -1,0 +1,8 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T14:19:57.834983624Z,2023-06-12T14:19:57.834983624Z,2023-06-01T23:02:26.026819122Z,172.2693,docker_cpu_usage_pct,get_software_versions (289),get_software_versions (289),336038,289
+,,0,2023-05-13T14:19:57.834983624Z,2023-06-12T14:19:57.834983624Z,2023-06-01T23:02:28.027144549Z,201.9986,docker_cpu_usage_pct,get_software_versions (289),get_software_versions (289),336038,289
+,,0,2023-05-13T14:19:57.834983624Z,2023-06-12T14:19:57.834983624Z,2023-06-01T23:02:30.026497207Z,206.0566,docker_cpu_usage_pct,get_software_versions (289),get_software_versions (289),336038,289
+,,0,2023-05-13T14:19:57.834983624Z,2023-06-12T14:19:57.834983624Z,2023-06-01T23:02:32.02734312Z,152.8362,docker_cpu_usage_pct,get_software_versions (289),get_software_versions (289),336038,289

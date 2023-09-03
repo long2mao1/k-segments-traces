@@ -1,0 +1,10 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:40:23.535891147Z,2023-06-12T12:40:23.535891147Z,2023-06-01T22:48:21.192706886Z,108.1959,docker_cpu_usage_pct,fastqc (DA189_L1) (216),fastqc (DA189_L1) (216),3910735,216
+,,0,2023-05-13T12:40:23.535891147Z,2023-06-12T12:40:23.535891147Z,2023-06-01T22:48:23.192439778Z,104.7697,docker_cpu_usage_pct,fastqc (DA189_L1) (216),fastqc (DA189_L1) (216),3910735,216
+,,0,2023-05-13T12:40:23.535891147Z,2023-06-12T12:40:23.535891147Z,2023-06-01T22:48:25.192995403Z,103.7228,docker_cpu_usage_pct,fastqc (DA189_L1) (216),fastqc (DA189_L1) (216),3910735,216
+,,0,2023-05-13T12:40:23.535891147Z,2023-06-12T12:40:23.535891147Z,2023-06-01T22:48:27.192720653Z,104.0167,docker_cpu_usage_pct,fastqc (DA189_L1) (216),fastqc (DA189_L1) (216),3910735,216
+,,0,2023-05-13T12:40:23.535891147Z,2023-06-12T12:40:23.535891147Z,2023-06-01T22:48:29.192390491Z,125.5535,docker_cpu_usage_pct,fastqc (DA189_L1) (216),fastqc (DA189_L1) (216),3910735,216
+,,0,2023-05-13T12:40:23.535891147Z,2023-06-12T12:40:23.535891147Z,2023-06-01T22:48:31.298333341Z,97.1171,docker_cpu_usage_pct,fastqc (DA189_L1) (216),fastqc (DA189_L1) (216),3910735,216

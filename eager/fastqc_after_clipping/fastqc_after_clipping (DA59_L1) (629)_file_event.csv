@@ -1,0 +1,8 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2023-05-13T12:42:51.58008498Z,2023-06-12T12:42:51.58008498Z,2023-06-02T07:25:40.217050801Z,CREATE,file_event,fastqc_after_clipping (DA59_L1) (629),fastqc_after_clipping (DA59_L1) (629),/home/nilsd/nextflow/build/work/96/6a0e51ca6cc57a7db8fcafac1a549e/.command.trace,2558904,629
+,,0,2023-05-13T12:42:51.58008498Z,2023-06-12T12:42:51.58008498Z,2023-06-02T07:28:52.721712059Z,CREATE,file_event,fastqc_after_clipping (DA59_L1) (629),fastqc_after_clipping (DA59_L1) (629),/home/nilsd/nextflow/build/work/96/6a0e51ca6cc57a7db8fcafac1a549e/ERR2505951.fastq_L1.se.truncated_fastqc.zip,2558904,629
+,,0,2023-05-13T12:42:51.58008498Z,2023-06-12T12:42:51.58008498Z,2023-06-02T07:28:54.542981463Z,CREATE,file_event,fastqc_after_clipping (DA59_L1) (629),fastqc_after_clipping (DA59_L1) (629),/home/nilsd/nextflow/build/work/96/6a0e51ca6cc57a7db8fcafac1a549e/ERR2505951.fastq_L1.se.truncated_fastqc.html,2558904,629
+,,0,2023-05-13T12:42:51.58008498Z,2023-06-12T12:42:51.58008498Z,2023-06-02T07:28:55.959245827Z,CREATE,file_event,fastqc_after_clipping (DA59_L1) (629),fastqc_after_clipping (DA59_L1) (629),/home/nilsd/nextflow/build/work/96/6a0e51ca6cc57a7db8fcafac1a549e/.exitcode,2558904,629

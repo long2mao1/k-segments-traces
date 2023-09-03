@@ -1,0 +1,9 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2023-05-13T14:10:06.665623868Z,2023-06-12T14:10:06.665623868Z,2023-06-07T17:04:49.783794228Z,CREATE,file_event,markduplicates (DA65) (1533),markduplicates (DA65) (1533),/home/nilsd/nextflow/build/work/40/8ce0123de3d22dab3aa50b38029a86/.command.trace,1700891,1533
+,,0,2023-05-13T14:10:06.665623868Z,2023-06-12T14:10:06.665623868Z,2023-06-07T17:06:21.538931532Z,CREATE,file_event,markduplicates (DA65) (1533),markduplicates (DA65) (1533),/home/nilsd/nextflow/build/work/40/8ce0123de3d22dab3aa50b38029a86/DA65_rmdup.bam,1700891,1533
+,,0,2023-05-13T14:10:06.665623868Z,2023-06-12T14:10:06.665623868Z,2023-06-07T17:08:40.400613705Z,CREATE,file_event,markduplicates (DA65) (1533),markduplicates (DA65) (1533),/home/nilsd/nextflow/build/work/40/8ce0123de3d22dab3aa50b38029a86/DA65_rmdup.metrics,1700891,1533
+,,0,2023-05-13T14:10:06.665623868Z,2023-06-12T14:10:06.665623868Z,2023-06-07T17:08:47.735213536Z,CREATE,file_event,markduplicates (DA65) (1533),markduplicates (DA65) (1533),/home/nilsd/nextflow/build/work/40/8ce0123de3d22dab3aa50b38029a86/DA65_rmdup.bam.bai,1700891,1533
+,,0,2023-05-13T14:10:06.665623868Z,2023-06-12T14:10:06.665623868Z,2023-06-07T17:08:48.025241198Z,CREATE,file_event,markduplicates (DA65) (1533),markduplicates (DA65) (1533),/home/nilsd/nextflow/build/work/40/8ce0123de3d22dab3aa50b38029a86/.exitcode,1700891,1533

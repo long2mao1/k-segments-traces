@@ -1,0 +1,10 @@
+#datatype,string,long,string,string,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,long,string,string,string
+#group,false,false,true,true,true,true,false,false,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_field,_measurement,_start,_stop,_time,_value,name,pid,tid
+,,0,files_input_num,samtools_flagstat_after_filter (DA101) (1434),2023-05-13T12:59:58.563860413Z,2023-06-12T12:59:58.563860413Z,2023-06-07T12:05:35.976231067Z,8,samtools_flagstat_after_filter (DA101) (1434),2846257,1434
+,,1,files_input_total_size,samtools_flagstat_after_filter (DA101) (1434),2023-05-13T12:59:58.563860413Z,2023-06-12T12:59:58.563860413Z,2023-06-07T12:05:35.976231067Z,7892018077,samtools_flagstat_after_filter (DA101) (1434),2846257,1434
+,,2,files_output_num,samtools_flagstat_after_filter (DA101) (1434),2023-05-13T12:59:58.563860413Z,2023-06-12T12:59:58.563860413Z,2023-06-07T12:07:11.36230478Z,4,samtools_flagstat_after_filter (DA101) (1434),2846257,1434
+,,3,files_output_total_size,samtools_flagstat_after_filter (DA101) (1434),2023-05-13T12:59:58.563860413Z,2023-06-12T12:59:58.563860413Z,2023-06-07T12:07:11.36230478Z,915,samtools_flagstat_after_filter (DA101) (1434),2846257,1434
+,,4,max_cpus,samtools_flagstat_after_filter (DA101) (1434),2023-05-13T12:59:58.563860413Z,2023-06-12T12:59:58.563860413Z,2023-06-07T12:05:39.977016187Z,1,samtools_flagstat_after_filter (DA101) (1434),2846257,1434
+,,5,max_mem,samtools_flagstat_after_filter (DA101) (1434),2023-05-13T12:59:58.563860413Z,2023-06-12T12:59:58.563860413Z,2023-06-07T12:05:39.977016187Z,1073741824,samtools_flagstat_after_filter (DA101) (1434),2846257,1434

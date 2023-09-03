@@ -1,0 +1,10 @@
+#datatype,string,long,string,string,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,long,string,string,string
+#group,false,false,true,true,true,true,false,false,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_field,_measurement,_start,_stop,_time,_value,name,pid,tid
+,,0,files_input_num,nuclear_contamination (DA134) (1914),2023-05-13T14:18:53.70163575Z,2023-06-12T14:18:53.70163575Z,2023-06-07T12:34:12.677194513Z,8,nuclear_contamination (DA134) (1914),106405,1914
+,,1,files_input_total_size,nuclear_contamination (DA134) (1914),2023-05-13T14:18:53.70163575Z,2023-06-12T14:18:53.70163575Z,2023-06-07T12:34:12.677194513Z,1238938115,nuclear_contamination (DA134) (1914),106405,1914
+,,2,files_output_num,nuclear_contamination (DA134) (1914),2023-05-13T14:18:53.70163575Z,2023-06-12T14:18:53.70163575Z,2023-06-07T12:34:36.726437573Z,6,nuclear_contamination (DA134) (1914),106405,1914
+,,3,files_output_total_size,nuclear_contamination (DA134) (1914),2023-05-13T14:18:53.70163575Z,2023-06-12T14:18:53.70163575Z,2023-06-07T12:34:36.726437573Z,79271020,nuclear_contamination (DA134) (1914),106405,1914
+,,4,max_cpus,nuclear_contamination (DA134) (1914),2023-05-13T14:18:53.70163575Z,2023-06-12T14:18:53.70163575Z,2023-06-07T12:34:15.677232123Z,1,nuclear_contamination (DA134) (1914),106405,1914
+,,5,max_mem,nuclear_contamination (DA134) (1914),2023-05-13T14:18:53.70163575Z,2023-06-12T14:18:53.70163575Z,2023-06-07T12:34:15.677232123Z,4294967296,nuclear_contamination (DA134) (1914),106405,1914

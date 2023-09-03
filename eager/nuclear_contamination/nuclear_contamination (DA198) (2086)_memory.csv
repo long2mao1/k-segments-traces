@@ -1,0 +1,22 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T14:18:55.073326826Z,2023-06-12T14:18:55.073326826Z,2023-06-08T00:53:51.555095267Z,14.32,docker_used_memory_mb,nuclear_contamination (DA198) (2086),nuclear_contamination (DA198) (2086),411527,2086
+,,0,2023-05-13T14:18:55.073326826Z,2023-06-12T14:18:55.073326826Z,2023-06-08T00:53:53.554641711Z,19.21,docker_used_memory_mb,nuclear_contamination (DA198) (2086),nuclear_contamination (DA198) (2086),411527,2086
+,,0,2023-05-13T14:18:55.073326826Z,2023-06-12T14:18:55.073326826Z,2023-06-08T00:53:55.555416134Z,22.57,docker_used_memory_mb,nuclear_contamination (DA198) (2086),nuclear_contamination (DA198) (2086),411527,2086
+,,0,2023-05-13T14:18:55.073326826Z,2023-06-12T14:18:55.073326826Z,2023-06-08T00:53:57.557271291Z,26.15,docker_used_memory_mb,nuclear_contamination (DA198) (2086),nuclear_contamination (DA198) (2086),411527,2086
+,,0,2023-05-13T14:18:55.073326826Z,2023-06-12T14:18:55.073326826Z,2023-06-08T00:53:59.554788502Z,29.89,docker_used_memory_mb,nuclear_contamination (DA198) (2086),nuclear_contamination (DA198) (2086),411527,2086
+,,0,2023-05-13T14:18:55.073326826Z,2023-06-12T14:18:55.073326826Z,2023-06-08T00:54:01.554463059Z,32.77,docker_used_memory_mb,nuclear_contamination (DA198) (2086),nuclear_contamination (DA198) (2086),411527,2086
+,,0,2023-05-13T14:18:55.073326826Z,2023-06-12T14:18:55.073326826Z,2023-06-08T00:54:03.555082217Z,35.25,docker_used_memory_mb,nuclear_contamination (DA198) (2086),nuclear_contamination (DA198) (2086),411527,2086
+,,0,2023-05-13T14:18:55.073326826Z,2023-06-12T14:18:55.073326826Z,2023-06-08T00:54:05.554811476Z,38.08,docker_used_memory_mb,nuclear_contamination (DA198) (2086),nuclear_contamination (DA198) (2086),411527,2086
+,,0,2023-05-13T14:18:55.073326826Z,2023-06-12T14:18:55.073326826Z,2023-06-08T00:54:08.55456872Z,30.97,docker_used_memory_mb,nuclear_contamination (DA198) (2086),nuclear_contamination (DA198) (2086),411527,2086
+,,0,2023-05-13T14:18:55.073326826Z,2023-06-12T14:18:55.073326826Z,2023-06-08T00:54:10.555362212Z,31.32,docker_used_memory_mb,nuclear_contamination (DA198) (2086),nuclear_contamination (DA198) (2086),411527,2086
+,,0,2023-05-13T14:18:55.073326826Z,2023-06-12T14:18:55.073326826Z,2023-06-08T00:54:12.556945359Z,32.09,docker_used_memory_mb,nuclear_contamination (DA198) (2086),nuclear_contamination (DA198) (2086),411527,2086
+,,0,2023-05-13T14:18:55.073326826Z,2023-06-12T14:18:55.073326826Z,2023-06-08T00:54:14.55449737Z,32.95,docker_used_memory_mb,nuclear_contamination (DA198) (2086),nuclear_contamination (DA198) (2086),411527,2086
+,,0,2023-05-13T14:18:55.073326826Z,2023-06-12T14:18:55.073326826Z,2023-06-08T00:54:16.555192349Z,33.87,docker_used_memory_mb,nuclear_contamination (DA198) (2086),nuclear_contamination (DA198) (2086),411527,2086
+,,0,2023-05-13T14:18:55.073326826Z,2023-06-12T14:18:55.073326826Z,2023-06-08T00:54:18.55469051Z,35.34,docker_used_memory_mb,nuclear_contamination (DA198) (2086),nuclear_contamination (DA198) (2086),411527,2086
+,,0,2023-05-13T14:18:55.073326826Z,2023-06-12T14:18:55.073326826Z,2023-06-08T00:54:20.554948655Z,35.81,docker_used_memory_mb,nuclear_contamination (DA198) (2086),nuclear_contamination (DA198) (2086),411527,2086
+,,0,2023-05-13T14:18:55.073326826Z,2023-06-12T14:18:55.073326826Z,2023-06-08T00:54:22.554762566Z,36.15,docker_used_memory_mb,nuclear_contamination (DA198) (2086),nuclear_contamination (DA198) (2086),411527,2086
+,,0,2023-05-13T14:18:55.073326826Z,2023-06-12T14:18:55.073326826Z,2023-06-08T00:54:24.555352191Z,36.41,docker_used_memory_mb,nuclear_contamination (DA198) (2086),nuclear_contamination (DA198) (2086),411527,2086
+,,0,2023-05-13T14:18:55.073326826Z,2023-06-12T14:18:55.073326826Z,2023-06-08T00:54:26.554879932Z,36.89,docker_used_memory_mb,nuclear_contamination (DA198) (2086),nuclear_contamination (DA198) (2086),411527,2086

@@ -1,0 +1,10 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2023-05-13T12:40:50.022968952Z,2023-06-12T12:40:50.022968952Z,2023-06-02T00:32:51.087977441Z,CREATE,file_event,adapter_removal (DA127_L1) (53),adapter_removal (DA127_L1) (53),/home/nilsd/nextflow/build/work/1d/ae848174d4ce0bf5329f91e2619734/.command.trace,1869580,53
+,,0,2023-05-13T12:40:50.022968952Z,2023-06-12T12:40:50.022968952Z,2023-06-02T00:32:51.104398973Z,CREATE,file_event,adapter_removal (DA127_L1) (53),adapter_removal (DA127_L1) (53),/home/nilsd/nextflow/build/work/1d/ae848174d4ce0bf5329f91e2619734/output,1869580,53
+,,0,2023-05-13T12:40:50.022968952Z,2023-06-12T12:40:50.022968952Z,2023-06-02T00:32:51.125382229Z,CREATE,file_event,adapter_removal (DA127_L1) (53),adapter_removal (DA127_L1) (53),/home/nilsd/nextflow/build/work/1d/ae848174d4ce0bf5329f91e2619734/ERR2505862.fastq_L1.se.discarded.gz,1869580,53
+,,0,2023-05-13T12:40:50.022968952Z,2023-06-12T12:40:50.022968952Z,2023-06-02T00:32:51.165649528Z,CREATE,file_event,adapter_removal (DA127_L1) (53),adapter_removal (DA127_L1) (53),/home/nilsd/nextflow/build/work/1d/ae848174d4ce0bf5329f91e2619734/ERR2505862.fastq_L1.se.truncated.gz,1869580,53
+,,0,2023-05-13T12:40:50.022968952Z,2023-06-12T12:40:50.022968952Z,2023-06-02T00:40:36.130871839Z,CREATE,file_event,adapter_removal (DA127_L1) (53),adapter_removal (DA127_L1) (53),/home/nilsd/nextflow/build/work/1d/ae848174d4ce0bf5329f91e2619734/ERR2505862.fastq_L1.se.settings,1869580,53
+,,0,2023-05-13T12:40:50.022968952Z,2023-06-12T12:40:50.022968952Z,2023-06-02T00:40:36.386805845Z,CREATE,file_event,adapter_removal (DA127_L1) (53),adapter_removal (DA127_L1) (53),/home/nilsd/nextflow/build/work/1d/ae848174d4ce0bf5329f91e2619734/.exitcode,1869580,53

@@ -1,0 +1,7 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2023-05-13T12:53:18.805190393Z,2023-06-12T12:53:18.805190393Z,2023-06-07T11:34:32.184946731Z,CREATE,file_event,samtools_flagstat (DA125) (1024),samtools_flagstat (DA125) (1024),/home/nilsd/nextflow/build/work/fa/41f967ee16b704fe4efb0d4fed6c03/.command.trace,1692090,1024
+,,0,2023-05-13T12:53:18.805190393Z,2023-06-12T12:53:18.805190393Z,2023-06-07T11:34:32.25249488Z,CREATE,file_event,samtools_flagstat (DA125) (1024),samtools_flagstat (DA125) (1024),/home/nilsd/nextflow/build/work/fa/41f967ee16b704fe4efb0d4fed6c03/DA125_flagstat.stats,1692090,1024
+,,0,2023-05-13T12:53:18.805190393Z,2023-06-12T12:53:18.805190393Z,2023-06-07T11:34:41.194251927Z,CREATE,file_event,samtools_flagstat (DA125) (1024),samtools_flagstat (DA125) (1024),/home/nilsd/nextflow/build/work/fa/41f967ee16b704fe4efb0d4fed6c03/.exitcode,1692090,1024

@@ -1,0 +1,15 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:53:51.9410845Z,2023-06-12T12:53:51.9410845Z,2023-06-07T11:59:18.785226342Z,283.2988,docker_cpu_usage_pct,samtools_filter (DA54) (1206),samtools_filter (DA54) (1206),2627076,1206
+,,0,2023-05-13T12:53:51.9410845Z,2023-06-12T12:53:51.9410845Z,2023-06-07T11:59:21.780741833Z,329.4653,docker_cpu_usage_pct,samtools_filter (DA54) (1206),samtools_filter (DA54) (1206),2627076,1206
+,,0,2023-05-13T12:53:51.9410845Z,2023-06-12T12:53:51.9410845Z,2023-06-07T11:59:24.780967367Z,315.2054,docker_cpu_usage_pct,samtools_filter (DA54) (1206),samtools_filter (DA54) (1206),2627076,1206
+,,0,2023-05-13T12:53:51.9410845Z,2023-06-12T12:53:51.9410845Z,2023-06-07T11:59:26.78509229Z,385.0486,docker_cpu_usage_pct,samtools_filter (DA54) (1206),samtools_filter (DA54) (1206),2627076,1206
+,,0,2023-05-13T12:53:51.9410845Z,2023-06-12T12:53:51.9410845Z,2023-06-07T11:59:28.781174492Z,308.0632,docker_cpu_usage_pct,samtools_filter (DA54) (1206),samtools_filter (DA54) (1206),2627076,1206
+,,0,2023-05-13T12:53:51.9410845Z,2023-06-12T12:53:51.9410845Z,2023-06-07T11:59:30.788881751Z,325.3264,docker_cpu_usage_pct,samtools_filter (DA54) (1206),samtools_filter (DA54) (1206),2627076,1206
+,,0,2023-05-13T12:53:51.9410845Z,2023-06-12T12:53:51.9410845Z,2023-06-07T11:59:32.781011291Z,348.983,docker_cpu_usage_pct,samtools_filter (DA54) (1206),samtools_filter (DA54) (1206),2627076,1206
+,,0,2023-05-13T12:53:51.9410845Z,2023-06-12T12:53:51.9410845Z,2023-06-07T11:59:34.777402967Z,338.1957,docker_cpu_usage_pct,samtools_filter (DA54) (1206),samtools_filter (DA54) (1206),2627076,1206
+,,0,2023-05-13T12:53:51.9410845Z,2023-06-12T12:53:51.9410845Z,2023-06-07T11:59:36.778137402Z,101.7526,docker_cpu_usage_pct,samtools_filter (DA54) (1206),samtools_filter (DA54) (1206),2627076,1206
+,,0,2023-05-13T12:53:51.9410845Z,2023-06-12T12:53:51.9410845Z,2023-06-07T11:59:38.785005191Z,108.2886,docker_cpu_usage_pct,samtools_filter (DA54) (1206),samtools_filter (DA54) (1206),2627076,1206
+,,0,2023-05-13T12:53:51.9410845Z,2023-06-12T12:53:51.9410845Z,2023-06-07T11:59:40.89898788Z,101.3063,docker_cpu_usage_pct,samtools_filter (DA54) (1206),samtools_filter (DA54) (1206),2627076,1206

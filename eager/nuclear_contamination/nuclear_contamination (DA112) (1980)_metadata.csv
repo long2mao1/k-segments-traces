@@ -1,0 +1,10 @@
+#datatype,string,long,string,string,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,long,string,string,string
+#group,false,false,true,true,true,true,false,false,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_field,_measurement,_start,_stop,_time,_value,name,pid,tid
+,,0,files_input_num,nuclear_contamination (DA112) (1980),2023-05-13T14:18:52.85728492Z,2023-06-12T14:18:52.85728492Z,2023-06-08T00:48:57.143736653Z,8,nuclear_contamination (DA112) (1980),131482,1980
+,,1,files_input_total_size,nuclear_contamination (DA112) (1980),2023-05-13T14:18:52.85728492Z,2023-06-12T14:18:52.85728492Z,2023-06-08T00:48:57.143736653Z,1041752671,nuclear_contamination (DA112) (1980),131482,1980
+,,2,files_output_num,nuclear_contamination (DA112) (1980),2023-05-13T14:18:52.85728492Z,2023-06-12T14:18:52.85728492Z,2023-06-08T00:49:33.686354709Z,6,nuclear_contamination (DA112) (1980),131482,1980
+,,3,files_output_total_size,nuclear_contamination (DA112) (1980),2023-05-13T14:18:52.85728492Z,2023-06-12T14:18:52.85728492Z,2023-06-08T00:49:33.686354709Z,125496855,nuclear_contamination (DA112) (1980),131482,1980
+,,4,max_cpus,nuclear_contamination (DA112) (1980),2023-05-13T14:18:52.85728492Z,2023-06-12T14:18:52.85728492Z,2023-06-08T00:48:59.143498832Z,1,nuclear_contamination (DA112) (1980),131482,1980
+,,5,max_mem,nuclear_contamination (DA112) (1980),2023-05-13T14:18:52.85728492Z,2023-06-12T14:18:52.85728492Z,2023-06-08T00:48:59.143498832Z,4294967296,nuclear_contamination (DA112) (1980),131482,1980

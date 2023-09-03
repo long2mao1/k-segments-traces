@@ -1,0 +1,10 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:27:27.025613708Z,2023-06-12T12:27:27.025613708Z,2023-06-01T23:15:12.248488964Z,13.79,docker_used_memory_mb,makeFastaIndex (hg19.fa) (415),makeFastaIndex (hg19.fa) (415),889735,415
+,,0,2023-05-13T12:27:27.025613708Z,2023-06-12T12:27:27.025613708Z,2023-06-01T23:15:14.248622595Z,16.73,docker_used_memory_mb,makeFastaIndex (hg19.fa) (415),makeFastaIndex (hg19.fa) (415),889735,415
+,,0,2023-05-13T12:27:27.025613708Z,2023-06-12T12:27:27.025613708Z,2023-06-01T23:15:16.249212886Z,17.11,docker_used_memory_mb,makeFastaIndex (hg19.fa) (415),makeFastaIndex (hg19.fa) (415),889735,415
+,,0,2023-05-13T12:27:27.025613708Z,2023-06-12T12:27:27.025613708Z,2023-06-01T23:15:18.248936872Z,17.97,docker_used_memory_mb,makeFastaIndex (hg19.fa) (415),makeFastaIndex (hg19.fa) (415),889735,415
+,,0,2023-05-13T12:27:27.025613708Z,2023-06-12T12:27:27.025613708Z,2023-06-01T23:15:20.249095036Z,18.54,docker_used_memory_mb,makeFastaIndex (hg19.fa) (415),makeFastaIndex (hg19.fa) (415),889735,415
+,,0,2023-05-13T12:27:27.025613708Z,2023-06-12T12:27:27.025613708Z,2023-06-01T23:15:23.24899175Z,18.95,docker_used_memory_mb,makeFastaIndex (hg19.fa) (415),makeFastaIndex (hg19.fa) (415),889735,415

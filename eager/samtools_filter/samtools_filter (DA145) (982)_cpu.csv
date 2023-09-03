@@ -1,0 +1,15 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:53:47.833250377Z,2023-06-12T12:53:47.833250377Z,2023-06-07T11:38:51.206980015Z,397.9849,docker_cpu_usage_pct,samtools_filter (DA145) (982),samtools_filter (DA145) (982),1945402,982
+,,0,2023-05-13T12:53:47.833250377Z,2023-06-12T12:53:47.833250377Z,2023-06-07T11:38:54.205161416Z,321.8805,docker_cpu_usage_pct,samtools_filter (DA145) (982),samtools_filter (DA145) (982),1945402,982
+,,0,2023-05-13T12:53:47.833250377Z,2023-06-12T12:53:47.833250377Z,2023-06-07T11:38:56.204753555Z,301.2423,docker_cpu_usage_pct,samtools_filter (DA145) (982),samtools_filter (DA145) (982),1945402,982
+,,0,2023-05-13T12:53:47.833250377Z,2023-06-12T12:53:47.833250377Z,2023-06-07T11:38:59.205372397Z,317.5612,docker_cpu_usage_pct,samtools_filter (DA145) (982),samtools_filter (DA145) (982),1945402,982
+,,0,2023-05-13T12:53:47.833250377Z,2023-06-12T12:53:47.833250377Z,2023-06-07T11:39:01.205409936Z,367.5201,docker_cpu_usage_pct,samtools_filter (DA145) (982),samtools_filter (DA145) (982),1945402,982
+,,0,2023-05-13T12:53:47.833250377Z,2023-06-12T12:53:47.833250377Z,2023-06-07T11:39:03.205258257Z,354.344,docker_cpu_usage_pct,samtools_filter (DA145) (982),samtools_filter (DA145) (982),1945402,982
+,,0,2023-05-13T12:53:47.833250377Z,2023-06-12T12:53:47.833250377Z,2023-06-07T11:39:05.204790498Z,391.5343,docker_cpu_usage_pct,samtools_filter (DA145) (982),samtools_filter (DA145) (982),1945402,982
+,,0,2023-05-13T12:53:47.833250377Z,2023-06-12T12:53:47.833250377Z,2023-06-07T11:39:07.202479642Z,304.3431,docker_cpu_usage_pct,samtools_filter (DA145) (982),samtools_filter (DA145) (982),1945402,982
+,,0,2023-05-13T12:53:47.833250377Z,2023-06-12T12:53:47.833250377Z,2023-06-07T11:39:09.202853873Z,103.0365,docker_cpu_usage_pct,samtools_filter (DA145) (982),samtools_filter (DA145) (982),1945402,982
+,,0,2023-05-13T12:53:47.833250377Z,2023-06-12T12:53:47.833250377Z,2023-06-07T11:39:11.202643845Z,107.7578,docker_cpu_usage_pct,samtools_filter (DA145) (982),samtools_filter (DA145) (982),1945402,982
+,,0,2023-05-13T12:53:47.833250377Z,2023-06-12T12:53:47.833250377Z,2023-06-07T11:39:12.988920433Z,101.8445,docker_cpu_usage_pct,samtools_filter (DA145) (982),samtools_filter (DA145) (982),1945402,982

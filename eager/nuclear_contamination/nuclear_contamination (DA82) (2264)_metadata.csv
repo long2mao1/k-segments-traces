@@ -1,0 +1,10 @@
+#datatype,string,long,string,string,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,long,string,string,string
+#group,false,false,true,true,true,true,false,false,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_field,_measurement,_start,_stop,_time,_value,name,pid,tid
+,,0,files_input_num,nuclear_contamination (DA82) (2264),2023-05-13T14:18:59.120501262Z,2023-06-12T14:18:59.120501262Z,2023-06-08T01:03:32.513230186Z,6,nuclear_contamination (DA82) (2264),1018812,2264
+,,1,files_input_total_size,nuclear_contamination (DA82) (2264),2023-05-13T14:18:59.120501262Z,2023-06-12T14:18:59.120501262Z,2023-06-08T01:03:32.513230186Z,496029585,nuclear_contamination (DA82) (2264),1018812,2264
+,,2,files_output_num,nuclear_contamination (DA82) (2264),2023-05-13T14:18:59.120501262Z,2023-06-12T14:18:59.120501262Z,2023-06-08T01:04:00.356946967Z,8,nuclear_contamination (DA82) (2264),1018812,2264
+,,3,files_output_total_size,nuclear_contamination (DA82) (2264),2023-05-13T14:18:59.120501262Z,2023-06-12T14:18:59.120501262Z,2023-06-08T01:04:00.356946967Z,60774097,nuclear_contamination (DA82) (2264),1018812,2264
+,,4,max_cpus,nuclear_contamination (DA82) (2264),2023-05-13T14:18:59.120501262Z,2023-06-12T14:18:59.120501262Z,2023-06-08T01:03:37.49711195Z,1,nuclear_contamination (DA82) (2264),1018812,2264
+,,5,max_mem,nuclear_contamination (DA82) (2264),2023-05-13T14:18:59.120501262Z,2023-06-12T14:18:59.120501262Z,2023-06-08T01:03:37.49711195Z,4294967296,nuclear_contamination (DA82) (2264),1018812,2264

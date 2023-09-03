@@ -1,0 +1,10 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2023-05-13T14:18:58.029306709Z,2023-06-12T14:18:58.029306709Z,2023-06-08T01:02:53.510977286Z,CREATE,file_event,nuclear_contamination (DA55) (2256),nuclear_contamination (DA55) (2256),/home/nilsd/nextflow/build/work/48/6c64fd06ec818f7475742fa9dea6a3/cidfile_nuclear_contamination__DA55_.txt,975127,2256
+,,0,2023-05-13T14:18:58.029306709Z,2023-06-12T14:18:58.029306709Z,2023-06-08T01:02:54.404013418Z,CREATE,file_event,nuclear_contamination (DA55) (2256),nuclear_contamination (DA55) (2256),/home/nilsd/nextflow/build/work/48/6c64fd06ec818f7475742fa9dea6a3/.command.trace,975127,2256
+,,0,2023-05-13T14:18:58.029306709Z,2023-06-12T14:18:58.029306709Z,2023-06-08T01:03:33.758233982Z,CREATE,file_event,nuclear_contamination (DA55) (2256),nuclear_contamination (DA55) (2256),/home/nilsd/nextflow/build/work/48/6c64fd06ec818f7475742fa9dea6a3/DA55.doCounts.arg,975127,2256
+,,0,2023-05-13T14:18:58.029306709Z,2023-06-12T14:18:58.029306709Z,2023-06-08T01:03:33.761435412Z,CREATE,file_event,nuclear_contamination (DA55) (2256),nuclear_contamination (DA55) (2256),/home/nilsd/nextflow/build/work/48/6c64fd06ec818f7475742fa9dea6a3/DA55.doCounts.icnts.gz,975127,2256
+,,0,2023-05-13T14:18:58.029306709Z,2023-06-12T14:18:58.029306709Z,2023-06-08T01:04:14.041186667Z,CREATE,file_event,nuclear_contamination (DA55) (2256),nuclear_contamination (DA55) (2256),/home/nilsd/nextflow/build/work/48/6c64fd06ec818f7475742fa9dea6a3/DA55.X.contamination.out,975127,2256
+,,0,2023-05-13T14:18:58.029306709Z,2023-06-12T14:18:58.029306709Z,2023-06-08T01:04:14.545822902Z,CREATE,file_event,nuclear_contamination (DA55) (2256),nuclear_contamination (DA55) (2256),/home/nilsd/nextflow/build/work/48/6c64fd06ec818f7475742fa9dea6a3/.exitcode,975127,2256

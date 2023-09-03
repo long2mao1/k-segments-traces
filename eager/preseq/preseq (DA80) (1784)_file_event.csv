@@ -1,0 +1,7 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2023-05-13T14:16:55.097696536Z,2023-06-12T14:16:55.097696536Z,2023-06-07T12:22:32.260351294Z,CREATE,file_event,preseq (DA80) (1784),preseq (DA80) (1784),/home/nilsd/nextflow/build/work/42/358081b28a7d818f621f597080a381/cidfile_preseq__DA80_.txt,3869995,1784
+,,0,2023-05-13T14:16:55.097696536Z,2023-06-12T14:16:55.097696536Z,2023-06-07T12:22:33.607010487Z,CREATE,file_event,preseq (DA80) (1784),preseq (DA80) (1784),/home/nilsd/nextflow/build/work/42/358081b28a7d818f621f597080a381/.command.trace,3869995,1784
+,,0,2023-05-13T14:16:55.097696536Z,2023-06-12T14:16:55.097696536Z,2023-06-07T12:29:14.587971885Z,CREATE,file_event,preseq (DA80) (1784),preseq (DA80) (1784),/home/nilsd/nextflow/build/work/42/358081b28a7d818f621f597080a381/DA80.filtered.preseq,3869995,1784

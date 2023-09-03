@@ -1,0 +1,8 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2023-05-13T12:53:22.160918108Z,2023-06-12T12:53:22.160918108Z,2023-06-07T11:35:21.248103803Z,CREATE,file_event,samtools_flagstat (DA343) (1112),samtools_flagstat (DA343) (1112),/home/nilsd/nextflow/build/work/ae/209d95d4aee3ad2ec4a66afc691eb7/cidfile_samtools_flagstat__DA343_.txt,1764115,1112
+,,0,2023-05-13T12:53:22.160918108Z,2023-06-12T12:53:22.160918108Z,2023-06-07T11:35:22.362400354Z,CREATE,file_event,samtools_flagstat (DA343) (1112),samtools_flagstat (DA343) (1112),/home/nilsd/nextflow/build/work/ae/209d95d4aee3ad2ec4a66afc691eb7/.command.trace,1764115,1112
+,,0,2023-05-13T12:53:22.160918108Z,2023-06-12T12:53:22.160918108Z,2023-06-07T11:35:22.476420345Z,CREATE,file_event,samtools_flagstat (DA343) (1112),samtools_flagstat (DA343) (1112),/home/nilsd/nextflow/build/work/ae/209d95d4aee3ad2ec4a66afc691eb7/DA343_flagstat.stats,1764115,1112
+,,0,2023-05-13T12:53:22.160918108Z,2023-06-12T12:53:22.160918108Z,2023-06-07T11:35:43.745955608Z,CREATE,file_event,samtools_flagstat (DA343) (1112),samtools_flagstat (DA343) (1112),/home/nilsd/nextflow/build/work/ae/209d95d4aee3ad2ec4a66afc691eb7/.exitcode,1764115,1112

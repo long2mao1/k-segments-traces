@@ -1,0 +1,7 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2023-05-13T12:59:59.78773164Z,2023-06-12T12:59:59.78773164Z,2023-06-07T11:37:58.98807447Z,CREATE,file_event,samtools_flagstat_after_filter (DA141) (1248),samtools_flagstat_after_filter (DA141) (1248),/home/nilsd/nextflow/build/work/f7/75676e1c5d69aff74a4a95ab59d424/.command.trace,1916751,1248
+,,0,2023-05-13T12:59:59.78773164Z,2023-06-12T12:59:59.78773164Z,2023-06-07T11:37:59.023367643Z,CREATE,file_event,samtools_flagstat_after_filter (DA141) (1248),samtools_flagstat_after_filter (DA141) (1248),/home/nilsd/nextflow/build/work/f7/75676e1c5d69aff74a4a95ab59d424/DA141_postfilterflagstat.stats,1916751,1248
+,,0,2023-05-13T12:59:59.78773164Z,2023-06-12T12:59:59.78773164Z,2023-06-07T11:38:14.472561709Z,CREATE,file_event,samtools_flagstat_after_filter (DA141) (1248),samtools_flagstat_after_filter (DA141) (1248),/home/nilsd/nextflow/build/work/f7/75676e1c5d69aff74a4a95ab59d424/.exitcode,1916751,1248

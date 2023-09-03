@@ -1,0 +1,7 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2023-05-13T14:16:52.537308262Z,2023-06-12T14:16:52.537308262Z,2023-06-07T12:15:34.636367464Z,CREATE,file_event,preseq (DA243) (1677),preseq (DA243) (1677),/home/nilsd/nextflow/build/work/bc/c7e7dc8197b889d71c640403551acb/.command.trace,3452162,1677
+,,0,2023-05-13T14:16:52.537308262Z,2023-06-12T14:16:52.537308262Z,2023-06-07T12:33:29.324527853Z,CREATE,file_event,preseq (DA243) (1677),preseq (DA243) (1677),/home/nilsd/nextflow/build/work/bc/c7e7dc8197b889d71c640403551acb/DA243.filtered.preseq,3452162,1677
+,,0,2023-05-13T14:16:52.537308262Z,2023-06-12T14:16:52.537308262Z,2023-06-07T12:33:30.889674349Z,CREATE,file_event,preseq (DA243) (1677),preseq (DA243) (1677),/home/nilsd/nextflow/build/work/bc/c7e7dc8197b889d71c640403551acb/.exitcode,3452162,1677

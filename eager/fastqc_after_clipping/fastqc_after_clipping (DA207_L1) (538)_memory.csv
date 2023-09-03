@@ -1,0 +1,16 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:42:48.885701704Z,2023-06-12T12:42:48.885701704Z,2023-06-02T07:10:41.443018568Z,230.11,docker_used_memory_mb,fastqc_after_clipping (DA207_L1) (538),fastqc_after_clipping (DA207_L1) (538),1901475,538
+,,0,2023-05-13T12:42:48.885701704Z,2023-06-12T12:42:48.885701704Z,2023-06-02T07:10:43.442754073Z,252.08,docker_used_memory_mb,fastqc_after_clipping (DA207_L1) (538),fastqc_after_clipping (DA207_L1) (538),1901475,538
+,,0,2023-05-13T12:42:48.885701704Z,2023-06-12T12:42:48.885701704Z,2023-06-02T07:10:45.442416802Z,260.25,docker_used_memory_mb,fastqc_after_clipping (DA207_L1) (538),fastqc_after_clipping (DA207_L1) (538),1901475,538
+,,0,2023-05-13T12:42:48.885701704Z,2023-06-12T12:42:48.885701704Z,2023-06-02T07:10:47.442305148Z,263.69,docker_used_memory_mb,fastqc_after_clipping (DA207_L1) (538),fastqc_after_clipping (DA207_L1) (538),1901475,538
+,,0,2023-05-13T12:42:48.885701704Z,2023-06-12T12:42:48.885701704Z,2023-06-02T07:10:49.442899734Z,266.07,docker_used_memory_mb,fastqc_after_clipping (DA207_L1) (538),fastqc_after_clipping (DA207_L1) (538),1901475,538
+,,0,2023-05-13T12:42:48.885701704Z,2023-06-12T12:42:48.885701704Z,2023-06-02T07:10:51.442689363Z,267.59,docker_used_memory_mb,fastqc_after_clipping (DA207_L1) (538),fastqc_after_clipping (DA207_L1) (538),1901475,538
+,,0,2023-05-13T12:42:48.885701704Z,2023-06-12T12:42:48.885701704Z,2023-06-02T07:10:53.442006204Z,268.41,docker_used_memory_mb,fastqc_after_clipping (DA207_L1) (538),fastqc_after_clipping (DA207_L1) (538),1901475,538
+,,0,2023-05-13T12:42:48.885701704Z,2023-06-12T12:42:48.885701704Z,2023-06-02T07:10:55.442657936Z,269.5,docker_used_memory_mb,fastqc_after_clipping (DA207_L1) (538),fastqc_after_clipping (DA207_L1) (538),1901475,538
+,,0,2023-05-13T12:42:48.885701704Z,2023-06-12T12:42:48.885701704Z,2023-06-02T07:10:57.442577853Z,270.42,docker_used_memory_mb,fastqc_after_clipping (DA207_L1) (538),fastqc_after_clipping (DA207_L1) (538),1901475,538
+,,0,2023-05-13T12:42:48.885701704Z,2023-06-12T12:42:48.885701704Z,2023-06-02T07:11:00.443245885Z,271.24,docker_used_memory_mb,fastqc_after_clipping (DA207_L1) (538),fastqc_after_clipping (DA207_L1) (538),1901475,538
+,,0,2023-05-13T12:42:48.885701704Z,2023-06-12T12:42:48.885701704Z,2023-06-02T07:11:02.443020483Z,277.11,docker_used_memory_mb,fastqc_after_clipping (DA207_L1) (538),fastqc_after_clipping (DA207_L1) (538),1901475,538
+,,0,2023-05-13T12:42:48.885701704Z,2023-06-12T12:42:48.885701704Z,2023-06-02T07:11:03.77818474Z,310.13,docker_used_memory_mb,fastqc_after_clipping (DA207_L1) (538),fastqc_after_clipping (DA207_L1) (538),1901475,538

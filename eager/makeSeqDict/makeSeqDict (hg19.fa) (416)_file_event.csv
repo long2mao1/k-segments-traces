@@ -1,0 +1,7 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2023-05-13T12:27:39.093297589Z,2023-06-12T12:27:39.093297589Z,2023-06-01T23:15:15.341438371Z,CREATE,file_event,makeSeqDict (hg19.fa) (416),makeSeqDict (hg19.fa) (416),/home/nilsd/nextflow/build/work/cb/eada12679881308882931e75931790/.command.trace,895421,416
+,,0,2023-05-13T12:27:39.093297589Z,2023-06-12T12:27:39.093297589Z,2023-06-01T23:15:17.018683998Z,CREATE,file_event,makeSeqDict (hg19.fa) (416),makeSeqDict (hg19.fa) (416),/home/nilsd/nextflow/build/work/cb/eada12679881308882931e75931790/hg19.dict,895421,416
+,,0,2023-05-13T12:27:39.093297589Z,2023-06-12T12:27:39.093297589Z,2023-06-01T23:15:44.828433533Z,CREATE,file_event,makeSeqDict (hg19.fa) (416),makeSeqDict (hg19.fa) (416),/home/nilsd/nextflow/build/work/cb/eada12679881308882931e75931790/.exitcode,895421,416

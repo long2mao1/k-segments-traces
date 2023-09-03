@@ -1,0 +1,10 @@
+#datatype,string,long,string,string,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,long,string,string,string
+#group,false,false,true,true,true,true,false,false,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_field,_measurement,_start,_stop,_time,_value,name,pid,tid
+,,0,files_input_num,makeBWAIndex (hg19.fa) (413),2023-05-13T12:27:16.23806073Z,2023-06-12T12:27:16.23806073Z,2023-06-01T23:15:09.256331579Z,8,makeBWAIndex (hg19.fa) (413),889742,413
+,,1,files_input_total_size,makeBWAIndex (hg19.fa) (413),2023-05-13T12:27:16.23806073Z,2023-06-12T12:27:16.23806073Z,2023-06-01T23:15:09.256331579Z,3199917540,makeBWAIndex (hg19.fa) (413),889742,413
+,,2,files_output_num,makeBWAIndex (hg19.fa) (413),2023-05-13T12:27:16.23806073Z,2023-06-12T12:27:16.23806073Z,2023-06-02T00:16:36.293463204Z,8,makeBWAIndex (hg19.fa) (413),889742,413
+,,3,files_output_total_size,makeBWAIndex (hg19.fa) (413),2023-05-13T12:27:16.23806073Z,2023-06-12T12:27:16.23806073Z,2023-06-02T00:16:36.293463204Z,5490057797,makeBWAIndex (hg19.fa) (413),889742,413
+,,4,max_cpus,makeBWAIndex (hg19.fa) (413),2023-05-13T12:27:16.23806073Z,2023-06-12T12:27:16.23806073Z,2023-06-01T23:15:12.256419254Z,1,makeBWAIndex (hg19.fa) (413),889742,413
+,,5,max_mem,makeBWAIndex (hg19.fa) (413),2023-05-13T12:27:16.23806073Z,2023-06-12T12:27:16.23806073Z,2023-06-01T23:15:12.256419254Z,8589934592,makeBWAIndex (hg19.fa) (413),889742,413

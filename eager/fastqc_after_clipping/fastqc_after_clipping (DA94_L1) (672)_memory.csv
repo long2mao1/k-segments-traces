@@ -1,0 +1,43 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:31:52.663009729Z,236.59,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:31:54.662785565Z,260.8,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:31:56.66253664Z,265.42,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:31:59.663335334Z,267.64,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:32:01.663068798Z,270.4,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:32:03.662897964Z,271.62,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:32:05.662497444Z,272.58,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:32:07.663129266Z,273.68,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:32:09.662783317Z,274.52,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:32:11.662617553Z,275.41,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:32:13.66310757Z,276.04,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:32:15.66275628Z,276.75,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:32:17.662431501Z,278.24,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:32:19.663122734Z,278.55,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:32:21.662760064Z,279.51,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:32:23.662479865Z,279.94,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:32:26.665384323Z,280.64,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:32:28.668351827Z,280.86,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:32:30.66308194Z,281.75,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:32:32.663815834Z,282.26,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:32:34.66245108Z,282.7,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:32:36.663113431Z,283.02,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:32:38.663365298Z,283.45,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:32:40.663165422Z,283.84,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:32:42.662678816Z,284.18,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:32:45.662528475Z,284.25,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:32:47.663871156Z,284.8,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:32:49.662543423Z,285.03,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:32:51.663330156Z,286.01,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:32:53.66539612Z,285.2,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:32:55.662995653Z,285.74,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:32:57.662623689Z,285.8,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:32:59.663320669Z,286.03,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:33:01.663024477Z,286.43,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:33:03.662689105Z,286.65,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:33:05.663258911Z,286.83,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:33:07.662941108Z,287.11,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:33:10.662726112Z,291.16,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672
+,,0,2023-05-13T12:42:52.798888984Z,2023-06-12T12:42:52.798888984Z,2023-06-02T07:33:12.663360489Z,291.24,docker_used_memory_mb,fastqc_after_clipping (DA94_L1) (672),fastqc_after_clipping (DA94_L1) (672),2825096,672

@@ -1,0 +1,12 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2023-05-13T12:27:16.222239868Z,2023-06-12T12:27:16.222239868Z,2023-06-01T23:15:08.80992839Z,CREATE,file_event,makeBWAIndex (hg19.fa) (413),makeBWAIndex (hg19.fa) (413),/home/nilsd/nextflow/build/work/8d/ecdf192adb5448cb6a00eb164c2aec/.command.trace,889742,413
+,,0,2023-05-13T12:27:16.222239868Z,2023-06-12T12:27:16.222239868Z,2023-06-01T23:15:08.828463789Z,CREATE,file_event,makeBWAIndex (hg19.fa) (413),makeBWAIndex (hg19.fa) (413),/home/nilsd/nextflow/build/work/8d/ecdf192adb5448cb6a00eb164c2aec/hg19.fa.pac,889742,413
+,,0,2023-05-13T12:27:16.222239868Z,2023-06-12T12:27:16.222239868Z,2023-06-01T23:15:41.070479191Z,CREATE,file_event,makeBWAIndex (hg19.fa) (413),makeBWAIndex (hg19.fa) (413),/home/nilsd/nextflow/build/work/8d/ecdf192adb5448cb6a00eb164c2aec/hg19.fa.ann,889742,413
+,,0,2023-05-13T12:27:16.222239868Z,2023-06-12T12:27:16.222239868Z,2023-06-01T23:15:41.07379412Z,CREATE,file_event,makeBWAIndex (hg19.fa) (413),makeBWAIndex (hg19.fa) (413),/home/nilsd/nextflow/build/work/8d/ecdf192adb5448cb6a00eb164c2aec/hg19.fa.amb,889742,413
+,,0,2023-05-13T12:27:16.222239868Z,2023-06-12T12:27:16.222239868Z,2023-06-01T23:56:09.309280428Z,CREATE,file_event,makeBWAIndex (hg19.fa) (413),makeBWAIndex (hg19.fa) (413),/home/nilsd/nextflow/build/work/8d/ecdf192adb5448cb6a00eb164c2aec/hg19.fa.bwt,889742,413
+,,0,2023-05-13T12:27:16.222239868Z,2023-06-12T12:27:16.222239868Z,2023-06-02T00:16:34.176531935Z,CREATE,file_event,makeBWAIndex (hg19.fa) (413),makeBWAIndex (hg19.fa) (413),/home/nilsd/nextflow/build/work/8d/ecdf192adb5448cb6a00eb164c2aec/hg19.fa.sa,889742,413
+,,0,2023-05-13T12:27:16.222239868Z,2023-06-12T12:27:16.222239868Z,2023-06-02T00:16:35.889052059Z,CREATE,file_event,makeBWAIndex (hg19.fa) (413),makeBWAIndex (hg19.fa) (413),/home/nilsd/nextflow/build/work/8d/ecdf192adb5448cb6a00eb164c2aec/BWAIndex,889742,413
+,,0,2023-05-13T12:27:16.222239868Z,2023-06-12T12:27:16.222239868Z,2023-06-02T00:16:36.203224013Z,CREATE,file_event,makeBWAIndex (hg19.fa) (413),makeBWAIndex (hg19.fa) (413),/home/nilsd/nextflow/build/work/8d/ecdf192adb5448cb6a00eb164c2aec/.exitcode,889742,413

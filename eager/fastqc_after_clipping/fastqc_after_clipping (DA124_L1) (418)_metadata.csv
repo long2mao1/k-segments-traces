@@ -1,0 +1,10 @@
+#datatype,string,long,string,string,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,long,string,string,string
+#group,false,false,true,true,true,true,false,false,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_field,_measurement,_start,_stop,_time,_value,name,pid,tid
+,,0,files_input_num,fastqc_after_clipping (DA124_L1) (418),2023-05-13T12:42:46.513637684Z,2023-06-12T12:42:46.513637684Z,2023-06-01T23:22:34.857015156Z,9,fastqc_after_clipping (DA124_L1) (418),1065835,418
+,,1,files_input_total_size,fastqc_after_clipping (DA124_L1) (418),2023-05-13T12:42:46.513637684Z,2023-06-12T12:42:46.513637684Z,2023-06-01T23:22:34.857015156Z,707127349,fastqc_after_clipping (DA124_L1) (418),1065835,418
+,,2,files_output_num,fastqc_after_clipping (DA124_L1) (418),2023-05-13T12:42:46.513637684Z,2023-06-12T12:42:46.513637684Z,2023-06-01T23:23:42.842742111Z,4,fastqc_after_clipping (DA124_L1) (418),1065835,418
+,,3,files_output_total_size,fastqc_after_clipping (DA124_L1) (418),2023-05-13T12:42:46.513637684Z,2023-06-12T12:42:46.513637684Z,2023-06-01T23:23:42.842742111Z,527295,fastqc_after_clipping (DA124_L1) (418),1065835,418
+,,4,max_cpus,fastqc_after_clipping (DA124_L1) (418),2023-05-13T12:42:46.513637684Z,2023-06-12T12:42:46.513637684Z,2023-06-01T23:22:36.856387508Z,2,fastqc_after_clipping (DA124_L1) (418),1065835,418
+,,5,max_mem,fastqc_after_clipping (DA124_L1) (418),2023-05-13T12:42:46.513637684Z,2023-06-12T12:42:46.513637684Z,2023-06-01T23:22:36.856387508Z,4294967296,fastqc_after_clipping (DA124_L1) (418),1065835,418

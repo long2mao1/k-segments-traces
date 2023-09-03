@@ -1,0 +1,13 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T14:17:34.636098831Z,2023-06-12T14:17:34.636098831Z,2023-06-08T00:53:41.464930406Z,149.25,docker_used_memory_mb,mtnucratio (DA208) (2080),mtnucratio (DA208) (2080),401916,2080
+,,0,2023-05-13T14:17:34.636098831Z,2023-06-12T14:17:34.636098831Z,2023-06-08T00:53:43.464841093Z,289.32,docker_used_memory_mb,mtnucratio (DA208) (2080),mtnucratio (DA208) (2080),401916,2080
+,,0,2023-05-13T14:17:34.636098831Z,2023-06-12T14:17:34.636098831Z,2023-06-08T00:53:45.465136111Z,551.66,docker_used_memory_mb,mtnucratio (DA208) (2080),mtnucratio (DA208) (2080),401916,2080
+,,0,2023-05-13T14:17:34.636098831Z,2023-06-12T14:17:34.636098831Z,2023-06-08T00:53:47.466190873Z,663.45,docker_used_memory_mb,mtnucratio (DA208) (2080),mtnucratio (DA208) (2080),401916,2080
+,,0,2023-05-13T14:17:34.636098831Z,2023-06-12T14:17:34.636098831Z,2023-06-08T00:53:49.465334595Z,669.71,docker_used_memory_mb,mtnucratio (DA208) (2080),mtnucratio (DA208) (2080),401916,2080
+,,0,2023-05-13T14:17:34.636098831Z,2023-06-12T14:17:34.636098831Z,2023-06-08T00:53:51.465014624Z,661.34,docker_used_memory_mb,mtnucratio (DA208) (2080),mtnucratio (DA208) (2080),401916,2080
+,,0,2023-05-13T14:17:34.636098831Z,2023-06-12T14:17:34.636098831Z,2023-06-08T00:53:53.464698023Z,662.99,docker_used_memory_mb,mtnucratio (DA208) (2080),mtnucratio (DA208) (2080),401916,2080
+,,0,2023-05-13T14:17:34.636098831Z,2023-06-12T14:17:34.636098831Z,2023-06-08T00:53:55.464432543Z,661.36,docker_used_memory_mb,mtnucratio (DA208) (2080),mtnucratio (DA208) (2080),401916,2080
+,,0,2023-05-13T14:17:34.636098831Z,2023-06-12T14:17:34.636098831Z,2023-06-08T00:53:57.465145624Z,663.02,docker_used_memory_mb,mtnucratio (DA208) (2080),mtnucratio (DA208) (2080),401916,2080

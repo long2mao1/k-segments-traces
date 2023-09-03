@@ -1,0 +1,11 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:53:48.120429056Z,2023-06-12T12:53:48.120429056Z,2023-06-07T11:40:56.183350034Z,371.5951,docker_cpu_usage_pct,samtools_filter (DA161) (1041),samtools_filter (DA161) (1041),2017784,1041
+,,0,2023-05-13T12:53:48.120429056Z,2023-06-12T12:53:48.120429056Z,2023-06-07T11:40:59.18885601Z,299.3472,docker_cpu_usage_pct,samtools_filter (DA161) (1041),samtools_filter (DA161) (1041),2017784,1041
+,,0,2023-05-13T12:53:48.120429056Z,2023-06-12T12:53:48.120429056Z,2023-06-07T11:41:01.19312419Z,326.9372,docker_cpu_usage_pct,samtools_filter (DA161) (1041),samtools_filter (DA161) (1041),2017784,1041
+,,0,2023-05-13T12:53:48.120429056Z,2023-06-12T12:53:48.120429056Z,2023-06-07T11:41:03.188815358Z,301.8426,docker_cpu_usage_pct,samtools_filter (DA161) (1041),samtools_filter (DA161) (1041),2017784,1041
+,,0,2023-05-13T12:53:48.120429056Z,2023-06-12T12:53:48.120429056Z,2023-06-07T11:41:06.189156765Z,358.0098,docker_cpu_usage_pct,samtools_filter (DA161) (1041),samtools_filter (DA161) (1041),2017784,1041
+,,0,2023-05-13T12:53:48.120429056Z,2023-06-12T12:53:48.120429056Z,2023-06-07T11:41:08.185124776Z,144.3521,docker_cpu_usage_pct,samtools_filter (DA161) (1041),samtools_filter (DA161) (1041),2017784,1041
+,,0,2023-05-13T12:53:48.120429056Z,2023-06-12T12:53:48.120429056Z,2023-06-07T11:41:10.183052941Z,103.2215,docker_cpu_usage_pct,samtools_filter (DA161) (1041),samtools_filter (DA161) (1041),2017784,1041

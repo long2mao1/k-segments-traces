@@ -1,0 +1,6 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T13:00:04.729031233Z,2023-06-12T13:00:04.729031233Z,2023-06-07T12:19:46.584745766Z,13.3,docker_used_memory_mb,samtools_flagstat_after_filter (DA82) (1744),samtools_flagstat_after_filter (DA82) (1744),3703558,1744
+,,0,2023-05-13T13:00:04.729031233Z,2023-06-12T13:00:04.729031233Z,2023-06-07T12:19:49.580952925Z,16.35,docker_used_memory_mb,samtools_flagstat_after_filter (DA82) (1744),samtools_flagstat_after_filter (DA82) (1744),3703558,1744

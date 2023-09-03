@@ -1,0 +1,12 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:59:58.43259556Z,2023-06-12T12:59:58.43259556Z,2023-06-07T11:54:12.456882627Z,93.9327,docker_cpu_usage_pct,samtools_flagstat_after_filter (DA10) (1343),samtools_flagstat_after_filter (DA10) (1343),2460705,1343
+,,0,2023-05-13T12:59:58.43259556Z,2023-06-12T12:59:58.43259556Z,2023-06-07T11:54:14.456748479Z,93.4369,docker_cpu_usage_pct,samtools_flagstat_after_filter (DA10) (1343),samtools_flagstat_after_filter (DA10) (1343),2460705,1343
+,,0,2023-05-13T12:59:58.43259556Z,2023-06-12T12:59:58.43259556Z,2023-06-07T11:54:16.449446989Z,98.6807,docker_cpu_usage_pct,samtools_flagstat_after_filter (DA10) (1343),samtools_flagstat_after_filter (DA10) (1343),2460705,1343
+,,0,2023-05-13T12:59:58.43259556Z,2023-06-12T12:59:58.43259556Z,2023-06-07T11:54:18.453074295Z,94.6778,docker_cpu_usage_pct,samtools_flagstat_after_filter (DA10) (1343),samtools_flagstat_after_filter (DA10) (1343),2460705,1343
+,,0,2023-05-13T12:59:58.43259556Z,2023-06-12T12:59:58.43259556Z,2023-06-07T11:54:20.451632325Z,97.6684,docker_cpu_usage_pct,samtools_flagstat_after_filter (DA10) (1343),samtools_flagstat_after_filter (DA10) (1343),2460705,1343
+,,0,2023-05-13T12:59:58.43259556Z,2023-06-12T12:59:58.43259556Z,2023-06-07T11:54:23.449631046Z,91.7704,docker_cpu_usage_pct,samtools_flagstat_after_filter (DA10) (1343),samtools_flagstat_after_filter (DA10) (1343),2460705,1343
+,,0,2023-05-13T12:59:58.43259556Z,2023-06-12T12:59:58.43259556Z,2023-06-07T11:54:25.457208376Z,96.8855,docker_cpu_usage_pct,samtools_flagstat_after_filter (DA10) (1343),samtools_flagstat_after_filter (DA10) (1343),2460705,1343
+,,0,2023-05-13T12:59:58.43259556Z,2023-06-12T12:59:58.43259556Z,2023-06-07T11:54:27.453138754Z,98.8046,docker_cpu_usage_pct,samtools_flagstat_after_filter (DA10) (1343),samtools_flagstat_after_filter (DA10) (1343),2460705,1343

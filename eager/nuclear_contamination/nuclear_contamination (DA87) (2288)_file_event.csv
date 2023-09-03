@@ -1,0 +1,10 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2023-05-13T14:18:59.263412744Z,2023-06-12T14:18:59.263412744Z,2023-06-08T01:04:41.54600272Z,CREATE,file_event,nuclear_contamination (DA87) (2288),nuclear_contamination (DA87) (2288),/home/nilsd/nextflow/build/work/1e/e5ff66ed6af568cd196237022d60b0/cidfile_nuclear_contamination__DA87_.txt,1097938,2288
+,,0,2023-05-13T14:18:59.263412744Z,2023-06-12T14:18:59.263412744Z,2023-06-08T01:04:42.932492216Z,CREATE,file_event,nuclear_contamination (DA87) (2288),nuclear_contamination (DA87) (2288),/home/nilsd/nextflow/build/work/1e/e5ff66ed6af568cd196237022d60b0/.command.trace,1097938,2288
+,,0,2023-05-13T14:18:59.263412744Z,2023-06-12T14:18:59.263412744Z,2023-06-08T01:04:55.312318285Z,CREATE,file_event,nuclear_contamination (DA87) (2288),nuclear_contamination (DA87) (2288),/home/nilsd/nextflow/build/work/1e/e5ff66ed6af568cd196237022d60b0/DA87.doCounts.arg,1097938,2288
+,,0,2023-05-13T14:18:59.263412744Z,2023-06-12T14:18:59.263412744Z,2023-06-08T01:04:55.320240893Z,CREATE,file_event,nuclear_contamination (DA87) (2288),nuclear_contamination (DA87) (2288),/home/nilsd/nextflow/build/work/1e/e5ff66ed6af568cd196237022d60b0/DA87.doCounts.icnts.gz,1097938,2288
+,,0,2023-05-13T14:18:59.263412744Z,2023-06-12T14:18:59.263412744Z,2023-06-08T01:05:09.265581803Z,CREATE,file_event,nuclear_contamination (DA87) (2288),nuclear_contamination (DA87) (2288),/home/nilsd/nextflow/build/work/1e/e5ff66ed6af568cd196237022d60b0/DA87.X.contamination.out,1097938,2288
+,,0,2023-05-13T14:18:59.263412744Z,2023-06-12T14:18:59.263412744Z,2023-06-08T01:05:09.845195327Z,CREATE,file_event,nuclear_contamination (DA87) (2288),nuclear_contamination (DA87) (2288),/home/nilsd/nextflow/build/work/1e/e5ff66ed6af568cd196237022d60b0/.exitcode,1097938,2288

@@ -1,0 +1,18 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T14:18:54.782881334Z,2023-06-12T14:18:54.782881334Z,2023-06-08T00:50:45.425000441Z,15.13,docker_used_memory_mb,nuclear_contamination (DA19) (2032),nuclear_contamination (DA19) (2032),238351,2032
+,,0,2023-05-13T14:18:54.782881334Z,2023-06-12T14:18:54.782881334Z,2023-06-08T00:50:47.425186292Z,20.78,docker_used_memory_mb,nuclear_contamination (DA19) (2032),nuclear_contamination (DA19) (2032),238351,2032
+,,0,2023-05-13T14:18:54.782881334Z,2023-06-12T14:18:54.782881334Z,2023-06-08T00:50:49.423864575Z,25.01,docker_used_memory_mb,nuclear_contamination (DA19) (2032),nuclear_contamination (DA19) (2032),238351,2032
+,,0,2023-05-13T14:18:54.782881334Z,2023-06-12T14:18:54.782881334Z,2023-06-08T00:50:51.423656664Z,29.26,docker_used_memory_mb,nuclear_contamination (DA19) (2032),nuclear_contamination (DA19) (2032),238351,2032
+,,0,2023-05-13T14:18:54.782881334Z,2023-06-12T14:18:54.782881334Z,2023-06-08T00:50:53.423514133Z,33.25,docker_used_memory_mb,nuclear_contamination (DA19) (2032),nuclear_contamination (DA19) (2032),238351,2032
+,,0,2023-05-13T14:18:54.782881334Z,2023-06-12T14:18:54.782881334Z,2023-06-08T00:50:55.423990662Z,36.13,docker_used_memory_mb,nuclear_contamination (DA19) (2032),nuclear_contamination (DA19) (2032),238351,2032
+,,0,2023-05-13T14:18:54.782881334Z,2023-06-12T14:18:54.782881334Z,2023-06-08T00:50:57.423860982Z,29.5,docker_used_memory_mb,nuclear_contamination (DA19) (2032),nuclear_contamination (DA19) (2032),238351,2032
+,,0,2023-05-13T14:18:54.782881334Z,2023-06-12T14:18:54.782881334Z,2023-06-08T00:50:59.423409092Z,30.34,docker_used_memory_mb,nuclear_contamination (DA19) (2032),nuclear_contamination (DA19) (2032),238351,2032
+,,0,2023-05-13T14:18:54.782881334Z,2023-06-12T14:18:54.782881334Z,2023-06-08T00:51:01.429125374Z,30.87,docker_used_memory_mb,nuclear_contamination (DA19) (2032),nuclear_contamination (DA19) (2032),238351,2032
+,,0,2023-05-13T14:18:54.782881334Z,2023-06-12T14:18:54.782881334Z,2023-06-08T00:51:03.423791551Z,33.21,docker_used_memory_mb,nuclear_contamination (DA19) (2032),nuclear_contamination (DA19) (2032),238351,2032
+,,0,2023-05-13T14:18:54.782881334Z,2023-06-12T14:18:54.782881334Z,2023-06-08T00:51:05.423849806Z,33.73,docker_used_memory_mb,nuclear_contamination (DA19) (2032),nuclear_contamination (DA19) (2032),238351,2032
+,,0,2023-05-13T14:18:54.782881334Z,2023-06-12T14:18:54.782881334Z,2023-06-08T00:51:07.424066005Z,33.97,docker_used_memory_mb,nuclear_contamination (DA19) (2032),nuclear_contamination (DA19) (2032),238351,2032
+,,0,2023-05-13T14:18:54.782881334Z,2023-06-12T14:18:54.782881334Z,2023-06-08T00:51:09.423719607Z,34.44,docker_used_memory_mb,nuclear_contamination (DA19) (2032),nuclear_contamination (DA19) (2032),238351,2032
+,,0,2023-05-13T14:18:54.782881334Z,2023-06-12T14:18:54.782881334Z,2023-06-08T00:51:11.883404647Z,34.94,docker_used_memory_mb,nuclear_contamination (DA19) (2032),nuclear_contamination (DA19) (2032),238351,2032

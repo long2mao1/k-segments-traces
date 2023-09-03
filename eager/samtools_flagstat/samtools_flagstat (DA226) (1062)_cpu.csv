@@ -1,0 +1,8 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:53:21.317673375Z,2023-06-12T12:53:21.317673375Z,2023-06-07T11:35:07.789879679Z,92.5263,docker_cpu_usage_pct,samtools_flagstat (DA226) (1062),samtools_flagstat (DA226) (1062),1738105,1062
+,,0,2023-05-13T12:53:21.317673375Z,2023-06-12T12:53:21.317673375Z,2023-06-07T11:35:10.789184555Z,76.1091,docker_cpu_usage_pct,samtools_flagstat (DA226) (1062),samtools_flagstat (DA226) (1062),1738105,1062
+,,0,2023-05-13T12:53:21.317673375Z,2023-06-12T12:53:21.317673375Z,2023-06-07T11:35:15.784394243Z,93.6372,docker_cpu_usage_pct,samtools_flagstat (DA226) (1062),samtools_flagstat (DA226) (1062),1738105,1062
+,,0,2023-05-13T12:53:21.317673375Z,2023-06-12T12:53:21.317673375Z,2023-06-07T11:35:19.7971436Z,79.417,docker_cpu_usage_pct,samtools_flagstat (DA226) (1062),samtools_flagstat (DA226) (1062),1738105,1062

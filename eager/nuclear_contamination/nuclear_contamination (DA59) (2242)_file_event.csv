@@ -1,0 +1,10 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2023-05-13T14:18:58.233757827Z,2023-06-12T14:18:58.233757827Z,2023-06-08T01:01:47.716478454Z,CREATE,file_event,nuclear_contamination (DA59) (2242),nuclear_contamination (DA59) (2242),/home/nilsd/nextflow/build/work/67/b863efc6792dba0f6b1a7f987ea27f/cidfile_nuclear_contamination__DA59_.txt,901446,2242
+,,0,2023-05-13T14:18:58.233757827Z,2023-06-12T14:18:58.233757827Z,2023-06-08T01:01:49.017734473Z,CREATE,file_event,nuclear_contamination (DA59) (2242),nuclear_contamination (DA59) (2242),/home/nilsd/nextflow/build/work/67/b863efc6792dba0f6b1a7f987ea27f/.command.trace,901446,2242
+,,0,2023-05-13T14:18:58.233757827Z,2023-06-12T14:18:58.233757827Z,2023-06-08T01:02:17.394085674Z,CREATE,file_event,nuclear_contamination (DA59) (2242),nuclear_contamination (DA59) (2242),/home/nilsd/nextflow/build/work/67/b863efc6792dba0f6b1a7f987ea27f/DA59.doCounts.arg,901446,2242
+,,0,2023-05-13T14:18:58.233757827Z,2023-06-12T14:18:58.233757827Z,2023-06-08T01:02:17.401068693Z,CREATE,file_event,nuclear_contamination (DA59) (2242),nuclear_contamination (DA59) (2242),/home/nilsd/nextflow/build/work/67/b863efc6792dba0f6b1a7f987ea27f/DA59.doCounts.icnts.gz,901446,2242
+,,0,2023-05-13T14:18:58.233757827Z,2023-06-12T14:18:58.233757827Z,2023-06-08T01:02:51.838136558Z,CREATE,file_event,nuclear_contamination (DA59) (2242),nuclear_contamination (DA59) (2242),/home/nilsd/nextflow/build/work/67/b863efc6792dba0f6b1a7f987ea27f/DA59.X.contamination.out,901446,2242
+,,0,2023-05-13T14:18:58.233757827Z,2023-06-12T14:18:58.233757827Z,2023-06-08T01:02:52.445999208Z,CREATE,file_event,nuclear_contamination (DA59) (2242),nuclear_contamination (DA59) (2242),/home/nilsd/nextflow/build/work/67/b863efc6792dba0f6b1a7f987ea27f/.exitcode,901446,2242

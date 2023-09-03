@@ -1,0 +1,13 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:53:22.663971728Z,2023-06-12T12:53:22.663971728Z,2023-06-07T11:35:49.339361016Z,12.73,docker_used_memory_mb,samtools_flagstat (DA41) (1128),samtools_flagstat (DA41) (1128),1794799,1128
+,,0,2023-05-13T12:53:22.663971728Z,2023-06-12T12:53:22.663971728Z,2023-06-07T11:35:52.341158979Z,16.14,docker_used_memory_mb,samtools_flagstat (DA41) (1128),samtools_flagstat (DA41) (1128),1794799,1128
+,,0,2023-05-13T12:53:22.663971728Z,2023-06-12T12:53:22.663971728Z,2023-06-07T11:35:56.333207056Z,18.95,docker_used_memory_mb,samtools_flagstat (DA41) (1128),samtools_flagstat (DA41) (1128),1794799,1128
+,,0,2023-05-13T12:53:22.663971728Z,2023-06-12T12:53:22.663971728Z,2023-06-07T11:35:59.336877898Z,20.39,docker_used_memory_mb,samtools_flagstat (DA41) (1128),samtools_flagstat (DA41) (1128),1794799,1128
+,,0,2023-05-13T12:53:22.663971728Z,2023-06-12T12:53:22.663971728Z,2023-06-07T11:36:02.332930263Z,21.4,docker_used_memory_mb,samtools_flagstat (DA41) (1128),samtools_flagstat (DA41) (1128),1794799,1128
+,,0,2023-05-13T12:53:22.663971728Z,2023-06-12T12:53:22.663971728Z,2023-06-07T11:36:06.340862216Z,20.64,docker_used_memory_mb,samtools_flagstat (DA41) (1128),samtools_flagstat (DA41) (1128),1794799,1128
+,,0,2023-05-13T12:53:22.663971728Z,2023-06-12T12:53:22.663971728Z,2023-06-07T11:36:09.337299562Z,21.22,docker_used_memory_mb,samtools_flagstat (DA41) (1128),samtools_flagstat (DA41) (1128),1794799,1128
+,,0,2023-05-13T12:53:22.663971728Z,2023-06-12T12:53:22.663971728Z,2023-06-07T11:36:14.331884471Z,21.79,docker_used_memory_mb,samtools_flagstat (DA41) (1128),samtools_flagstat (DA41) (1128),1794799,1128
+,,0,2023-05-13T12:53:22.663971728Z,2023-06-12T12:53:22.663971728Z,2023-06-07T11:36:17.339834124Z,22.34,docker_used_memory_mb,samtools_flagstat (DA41) (1128),samtools_flagstat (DA41) (1128),1794799,1128

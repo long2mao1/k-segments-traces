@@ -1,0 +1,11 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:40:23.465964389Z,2023-06-12T12:40:23.465964389Z,2023-06-01T22:48:06.63630585Z,232.84,docker_used_memory_mb,fastqc (DA188_L1) (215),fastqc (DA188_L1) (215),3899799,215
+,,0,2023-05-13T12:40:23.465964389Z,2023-06-12T12:40:23.465964389Z,2023-06-01T22:48:08.637201168Z,256.5,docker_used_memory_mb,fastqc (DA188_L1) (215),fastqc (DA188_L1) (215),3899799,215
+,,0,2023-05-13T12:40:23.465964389Z,2023-06-12T12:40:23.465964389Z,2023-06-01T22:48:10.636769846Z,260.12,docker_used_memory_mb,fastqc (DA188_L1) (215),fastqc (DA188_L1) (215),3899799,215
+,,0,2023-05-13T12:40:23.465964389Z,2023-06-12T12:40:23.465964389Z,2023-06-01T22:48:12.636287113Z,261.92,docker_used_memory_mb,fastqc (DA188_L1) (215),fastqc (DA188_L1) (215),3899799,215
+,,0,2023-05-13T12:40:23.465964389Z,2023-06-12T12:40:23.465964389Z,2023-06-01T22:48:14.637009245Z,263.59,docker_used_memory_mb,fastqc (DA188_L1) (215),fastqc (DA188_L1) (215),3899799,215
+,,0,2023-05-13T12:40:23.465964389Z,2023-06-12T12:40:23.465964389Z,2023-06-01T22:48:17.63682528Z,264.55,docker_used_memory_mb,fastqc (DA188_L1) (215),fastqc (DA188_L1) (215),3899799,215
+,,0,2023-05-13T12:40:23.465964389Z,2023-06-12T12:40:23.465964389Z,2023-06-01T22:48:19.63718929Z,285.21,docker_used_memory_mb,fastqc (DA188_L1) (215),fastqc (DA188_L1) (215),3899799,215

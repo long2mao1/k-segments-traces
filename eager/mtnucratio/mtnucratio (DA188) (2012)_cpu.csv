@@ -1,0 +1,12 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T14:17:33.514014381Z,2023-06-12T14:17:33.514014381Z,2023-06-08T00:50:20.470010442Z,98.497,docker_cpu_usage_pct,mtnucratio (DA188) (2012),mtnucratio (DA188) (2012),211654,2012
+,,0,2023-05-13T14:17:33.514014381Z,2023-06-12T14:17:33.514014381Z,2023-06-08T00:50:23.469607361Z,97.4609,docker_cpu_usage_pct,mtnucratio (DA188) (2012),mtnucratio (DA188) (2012),211654,2012
+,,0,2023-05-13T14:17:33.514014381Z,2023-06-12T14:17:33.514014381Z,2023-06-08T00:50:25.469340459Z,99.2517,docker_cpu_usage_pct,mtnucratio (DA188) (2012),mtnucratio (DA188) (2012),211654,2012
+,,0,2023-05-13T14:17:33.514014381Z,2023-06-12T14:17:33.514014381Z,2023-06-08T00:50:27.469881204Z,98.9934,docker_cpu_usage_pct,mtnucratio (DA188) (2012),mtnucratio (DA188) (2012),211654,2012
+,,0,2023-05-13T14:17:33.514014381Z,2023-06-12T14:17:33.514014381Z,2023-06-08T00:50:29.470572802Z,97.0477,docker_cpu_usage_pct,mtnucratio (DA188) (2012),mtnucratio (DA188) (2012),211654,2012
+,,0,2023-05-13T14:17:33.514014381Z,2023-06-12T14:17:33.514014381Z,2023-06-08T00:50:31.470347382Z,98.3309,docker_cpu_usage_pct,mtnucratio (DA188) (2012),mtnucratio (DA188) (2012),211654,2012
+,,0,2023-05-13T14:17:33.514014381Z,2023-06-12T14:17:33.514014381Z,2023-06-08T00:50:33.470022128Z,99.2321,docker_cpu_usage_pct,mtnucratio (DA188) (2012),mtnucratio (DA188) (2012),211654,2012
+,,0,2023-05-13T14:17:33.514014381Z,2023-06-12T14:17:33.514014381Z,2023-06-08T00:50:35.469328962Z,99.2205,docker_cpu_usage_pct,mtnucratio (DA188) (2012),mtnucratio (DA188) (2012),211654,2012

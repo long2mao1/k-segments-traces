@@ -1,0 +1,8 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2023-05-13T12:53:50.860716585Z,2023-06-12T12:53:50.860716585Z,2023-06-07T11:52:41.640270689Z,CREATE,file_event,samtools_filter (DA343) (1156),samtools_filter (DA343) (1156),/home/nilsd/nextflow/build/work/7d/b7fdb3ab3b4eb7fe88677dbdeb7ee4/.command.trace,2411309,1156
+,,0,2023-05-13T12:53:50.860716585Z,2023-06-12T12:53:50.860716585Z,2023-06-07T11:52:41.689799447Z,CREATE,file_event,samtools_filter (DA343) (1156),samtools_filter (DA343) (1156),/home/nilsd/nextflow/build/work/7d/b7fdb3ab3b4eb7fe88677dbdeb7ee4/DA343.filtered.bam,2411309,1156
+,,0,2023-05-13T12:53:50.860716585Z,2023-06-12T12:53:50.860716585Z,2023-06-07T11:53:39.461624773Z,CREATE,file_event,samtools_filter (DA343) (1156),samtools_filter (DA343) (1156),/home/nilsd/nextflow/build/work/7d/b7fdb3ab3b4eb7fe88677dbdeb7ee4/DA343.filtered.bam.bai,2411309,1156
+,,0,2023-05-13T12:53:50.860716585Z,2023-06-12T12:53:50.860716585Z,2023-06-07T11:53:39.878238552Z,CREATE,file_event,samtools_filter (DA343) (1156),samtools_filter (DA343) (1156),/home/nilsd/nextflow/build/work/7d/b7fdb3ab3b4eb7fe88677dbdeb7ee4/.exitcode,2411309,1156

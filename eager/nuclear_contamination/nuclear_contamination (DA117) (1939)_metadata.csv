@@ -1,0 +1,10 @@
+#datatype,string,long,string,string,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,long,string,string,string
+#group,false,false,true,true,true,true,false,false,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_field,_measurement,_start,_stop,_time,_value,name,pid,tid
+,,0,files_input_num,nuclear_contamination (DA117) (1939),2023-05-13T14:18:52.962690544Z,2023-06-12T14:18:52.962690544Z,2023-06-08T00:47:02.628038965Z,9,nuclear_contamination (DA117) (1939),13542,1939
+,,1,files_input_total_size,nuclear_contamination (DA117) (1939),2023-05-13T14:18:52.962690544Z,2023-06-12T14:18:52.962690544Z,2023-06-08T00:47:02.628038965Z,2732391886,nuclear_contamination (DA117) (1939),13542,1939
+,,2,files_output_num,nuclear_contamination (DA117) (1939),2023-05-13T14:18:52.962690544Z,2023-06-12T14:18:52.962690544Z,2023-06-08T00:48:06.71897611Z,5,nuclear_contamination (DA117) (1939),13542,1939
+,,3,files_output_total_size,nuclear_contamination (DA117) (1939),2023-05-13T14:18:52.962690544Z,2023-06-12T14:18:52.962690544Z,2023-06-08T00:48:06.71897611Z,167075360,nuclear_contamination (DA117) (1939),13542,1939
+,,4,max_cpus,nuclear_contamination (DA117) (1939),2023-05-13T14:18:52.962690544Z,2023-06-12T14:18:52.962690544Z,2023-06-08T00:47:06.633477061Z,1,nuclear_contamination (DA117) (1939),13542,1939
+,,5,max_mem,nuclear_contamination (DA117) (1939),2023-05-13T14:18:52.962690544Z,2023-06-12T14:18:52.962690544Z,2023-06-08T00:47:06.633477061Z,4294967296,nuclear_contamination (DA117) (1939),13542,1939

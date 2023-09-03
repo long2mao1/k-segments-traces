@@ -1,0 +1,10 @@
+#datatype,string,long,string,string,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,long,string,string,string
+#group,false,false,true,true,true,true,false,false,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_field,_measurement,_start,_stop,_time,_value,name,pid,tid
+,,0,files_input_num,nuclear_contamination (DA123) (1999),2023-05-13T14:18:53.189098955Z,2023-06-12T14:18:53.189098955Z,2023-06-08T00:49:41.155324064Z,9,nuclear_contamination (DA123) (1999),175589,1999
+,,1,files_input_total_size,nuclear_contamination (DA123) (1999),2023-05-13T14:18:53.189098955Z,2023-06-12T14:18:53.189098955Z,2023-06-08T00:49:41.155324064Z,1894084536,nuclear_contamination (DA123) (1999),175589,1999
+,,2,files_output_num,nuclear_contamination (DA123) (1999),2023-05-13T14:18:53.189098955Z,2023-06-12T14:18:53.189098955Z,2023-06-08T00:50:45.753285961Z,5,nuclear_contamination (DA123) (1999),175589,1999
+,,3,files_output_total_size,nuclear_contamination (DA123) (1999),2023-05-13T14:18:53.189098955Z,2023-06-12T14:18:53.189098955Z,2023-06-08T00:50:45.753285961Z,208482318,nuclear_contamination (DA123) (1999),175589,1999
+,,4,max_cpus,nuclear_contamination (DA123) (1999),2023-05-13T14:18:53.189098955Z,2023-06-12T14:18:53.189098955Z,2023-06-08T00:49:44.154920569Z,1,nuclear_contamination (DA123) (1999),175589,1999
+,,5,max_mem,nuclear_contamination (DA123) (1999),2023-05-13T14:18:53.189098955Z,2023-06-12T14:18:53.189098955Z,2023-06-08T00:49:44.154920569Z,4294967296,nuclear_contamination (DA123) (1999),175589,1999

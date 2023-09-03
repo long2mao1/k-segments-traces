@@ -1,0 +1,10 @@
+#datatype,string,long,string,string,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,long,string,string,string
+#group,false,false,true,true,true,true,false,false,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_field,_measurement,_start,_stop,_time,_value,name,pid,tid
+,,0,files_input_num,bwa (DA31) (908),2023-05-13T12:43:16.0326301Z,2023-06-12T12:43:16.0326301Z,2023-06-05T05:33:50.860136467Z,14,bwa (DA31) (908),242857,908
+,,1,files_input_total_size,bwa (DA31) (908),2023-05-13T12:43:16.0326301Z,2023-06-12T12:43:16.0326301Z,2023-06-05T05:33:50.860136467Z,9512332851,bwa (DA31) (908),242857,908
+,,2,files_output_num,bwa (DA31) (908),2023-05-13T12:43:16.0326301Z,2023-06-12T12:43:16.0326301Z,2023-06-05T06:37:37.499394348Z,6,bwa (DA31) (908),242857,908
+,,3,files_output_total_size,bwa (DA31) (908),2023-05-13T12:43:16.0326301Z,2023-06-12T12:43:16.0326301Z,2023-06-05T06:37:37.499394348Z,1478612416,bwa (DA31) (908),242857,908
+,,4,max_cpus,bwa (DA31) (908),2023-05-13T12:43:16.0326301Z,2023-06-12T12:43:16.0326301Z,2023-06-05T05:33:53.861200987Z,8,bwa (DA31) (908),242857,908
+,,5,max_mem,bwa (DA31) (908),2023-05-13T12:43:16.0326301Z,2023-06-12T12:43:16.0326301Z,2023-06-05T05:33:53.861200987Z,17179869184,bwa (DA31) (908),242857,908

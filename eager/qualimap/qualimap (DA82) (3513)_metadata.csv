@@ -1,0 +1,10 @@
+#datatype,string,long,string,string,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,long,string,string,string
+#group,false,false,true,true,true,true,false,false,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_field,_measurement,_start,_stop,_time,_value,name,pid,tid
+,,0,files_input_num,qualimap (DA82) (3513),2023-05-13T14:17:20.781432988Z,2023-06-12T14:17:20.781432988Z,2023-06-08T01:53:37.000235178Z,10,qualimap (DA82) (3513),3036346,3513
+,,1,files_input_total_size,qualimap (DA82) (3513),2023-05-13T14:17:20.781432988Z,2023-06-12T14:17:20.781432988Z,2023-06-08T01:53:37.000235178Z,3695935645,qualimap (DA82) (3513),3036346,3513
+,,2,files_output_num,qualimap (DA82) (3513),2023-05-13T14:17:20.781432988Z,2023-06-12T14:17:20.781432988Z,2023-06-08T01:55:42.517095284Z,49,qualimap (DA82) (3513),3036346,3513
+,,3,files_output_total_size,qualimap (DA82) (3513),2023-05-13T14:17:20.781432988Z,2023-06-12T14:17:20.781432988Z,2023-06-08T01:55:42.517095284Z,710328,qualimap (DA82) (3513),3036346,3513
+,,4,max_cpus,qualimap (DA82) (3513),2023-05-13T14:17:20.781432988Z,2023-06-12T14:17:20.781432988Z,2023-06-08T01:53:40.005354705Z,2,qualimap (DA82) (3513),3036346,3513
+,,5,max_mem,qualimap (DA82) (3513),2023-05-13T14:17:20.781432988Z,2023-06-12T14:17:20.781432988Z,2023-06-08T01:53:40.005354705Z,4294967296,qualimap (DA82) (3513),3036346,3513

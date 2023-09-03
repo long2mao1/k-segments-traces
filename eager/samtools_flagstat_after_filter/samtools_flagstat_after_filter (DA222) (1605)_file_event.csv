@@ -1,0 +1,7 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2023-05-13T13:00:01.61599682Z,2023-06-12T13:00:01.61599682Z,2023-06-07T12:11:49.40841447Z,CREATE,file_event,samtools_flagstat_after_filter (DA222) (1605),samtools_flagstat_after_filter (DA222) (1605),/home/nilsd/nextflow/build/work/9d/60981d4e7e657027a9aca6e6204596/.command.trace,3217515,1605
+,,0,2023-05-13T13:00:01.61599682Z,2023-06-12T13:00:01.61599682Z,2023-06-07T12:11:49.515868125Z,CREATE,file_event,samtools_flagstat_after_filter (DA222) (1605),samtools_flagstat_after_filter (DA222) (1605),/home/nilsd/nextflow/build/work/9d/60981d4e7e657027a9aca6e6204596/DA222_postfilterflagstat.stats,3217515,1605
+,,0,2023-05-13T13:00:01.61599682Z,2023-06-12T13:00:01.61599682Z,2023-06-07T12:13:38.265990505Z,CREATE,file_event,samtools_flagstat_after_filter (DA222) (1605),samtools_flagstat_after_filter (DA222) (1605),/home/nilsd/nextflow/build/work/9d/60981d4e7e657027a9aca6e6204596/.exitcode,3217515,1605

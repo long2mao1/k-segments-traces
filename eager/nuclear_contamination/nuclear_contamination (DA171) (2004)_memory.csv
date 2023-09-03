@@ -1,0 +1,8 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T14:18:54.536362892Z,2023-06-12T14:18:54.536362892Z,2023-06-08T00:50:03.721535732Z,20.29,docker_used_memory_mb,nuclear_contamination (DA171) (2004),nuclear_contamination (DA171) (2004),194038,2004
+,,0,2023-05-13T14:18:54.536362892Z,2023-06-12T14:18:54.536362892Z,2023-06-08T00:50:05.708772182Z,31.68,docker_used_memory_mb,nuclear_contamination (DA171) (2004),nuclear_contamination (DA171) (2004),194038,2004
+,,0,2023-05-13T14:18:54.536362892Z,2023-06-12T14:18:54.536362892Z,2023-06-08T00:50:07.707674507Z,31.8,docker_used_memory_mb,nuclear_contamination (DA171) (2004),nuclear_contamination (DA171) (2004),194038,2004
+,,0,2023-05-13T14:18:54.536362892Z,2023-06-12T14:18:54.536362892Z,2023-06-08T00:50:09.713149857Z,34.22,docker_used_memory_mb,nuclear_contamination (DA171) (2004),nuclear_contamination (DA171) (2004),194038,2004

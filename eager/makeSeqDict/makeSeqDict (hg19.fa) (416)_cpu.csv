@@ -1,0 +1,17 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:27:39.083698032Z,2023-06-12T12:27:39.083698032Z,2023-06-01T23:15:18.963079982Z,98.983,docker_cpu_usage_pct,makeSeqDict (hg19.fa) (416),makeSeqDict (hg19.fa) (416),895421,416
+,,0,2023-05-13T12:27:39.083698032Z,2023-06-12T12:27:39.083698032Z,2023-06-01T23:15:20.962987051Z,99.3251,docker_cpu_usage_pct,makeSeqDict (hg19.fa) (416),makeSeqDict (hg19.fa) (416),895421,416
+,,0,2023-05-13T12:27:39.083698032Z,2023-06-12T12:27:39.083698032Z,2023-06-01T23:15:22.962516703Z,101.9935,docker_cpu_usage_pct,makeSeqDict (hg19.fa) (416),makeSeqDict (hg19.fa) (416),895421,416
+,,0,2023-05-13T12:27:39.083698032Z,2023-06-12T12:27:39.083698032Z,2023-06-01T23:15:24.963073882Z,95.7412,docker_cpu_usage_pct,makeSeqDict (hg19.fa) (416),makeSeqDict (hg19.fa) (416),895421,416
+,,0,2023-05-13T12:27:39.083698032Z,2023-06-12T12:27:39.083698032Z,2023-06-01T23:15:26.962792617Z,94.1428,docker_cpu_usage_pct,makeSeqDict (hg19.fa) (416),makeSeqDict (hg19.fa) (416),895421,416
+,,0,2023-05-13T12:27:39.083698032Z,2023-06-12T12:27:39.083698032Z,2023-06-01T23:15:28.962669682Z,99.823,docker_cpu_usage_pct,makeSeqDict (hg19.fa) (416),makeSeqDict (hg19.fa) (416),895421,416
+,,0,2023-05-13T12:27:39.083698032Z,2023-06-12T12:27:39.083698032Z,2023-06-01T23:15:30.963274075Z,94.1147,docker_cpu_usage_pct,makeSeqDict (hg19.fa) (416),makeSeqDict (hg19.fa) (416),895421,416
+,,0,2023-05-13T12:27:39.083698032Z,2023-06-12T12:27:39.083698032Z,2023-06-01T23:15:32.962891809Z,100.3868,docker_cpu_usage_pct,makeSeqDict (hg19.fa) (416),makeSeqDict (hg19.fa) (416),895421,416
+,,0,2023-05-13T12:27:39.083698032Z,2023-06-12T12:27:39.083698032Z,2023-06-01T23:15:34.962623261Z,95.1238,docker_cpu_usage_pct,makeSeqDict (hg19.fa) (416),makeSeqDict (hg19.fa) (416),895421,416
+,,0,2023-05-13T12:27:39.083698032Z,2023-06-12T12:27:39.083698032Z,2023-06-01T23:15:36.963347091Z,106.4366,docker_cpu_usage_pct,makeSeqDict (hg19.fa) (416),makeSeqDict (hg19.fa) (416),895421,416
+,,0,2023-05-13T12:27:39.083698032Z,2023-06-12T12:27:39.083698032Z,2023-06-01T23:15:38.962910267Z,99.9158,docker_cpu_usage_pct,makeSeqDict (hg19.fa) (416),makeSeqDict (hg19.fa) (416),895421,416
+,,0,2023-05-13T12:27:39.083698032Z,2023-06-12T12:27:39.083698032Z,2023-06-01T23:15:40.962813888Z,100.2777,docker_cpu_usage_pct,makeSeqDict (hg19.fa) (416),makeSeqDict (hg19.fa) (416),895421,416
+,,0,2023-05-13T12:27:39.083698032Z,2023-06-12T12:27:39.083698032Z,2023-06-01T23:15:42.962382022Z,99.9238,docker_cpu_usage_pct,makeSeqDict (hg19.fa) (416),makeSeqDict (hg19.fa) (416),895421,416

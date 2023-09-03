@@ -1,0 +1,8 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2023-05-13T12:40:28.043869725Z,2023-06-12T12:40:28.043869725Z,2023-06-01T23:11:36.602832984Z,CREATE,file_event,fastqc (DA82_L1) (360),fastqc (DA82_L1) (360),/home/nilsd/nextflow/build/work/ac/1edf68d25d0a6ae2c96007b6f8d9cb/.command.trace,734033,360
+,,0,2023-05-13T12:40:28.043869725Z,2023-06-12T12:40:28.043869725Z,2023-06-01T23:12:29.879730888Z,CREATE,file_event,fastqc (DA82_L1) (360),fastqc (DA82_L1) (360),/home/nilsd/nextflow/build/work/ac/1edf68d25d0a6ae2c96007b6f8d9cb/ERR2505966_fastqc.zip,734033,360
+,,0,2023-05-13T12:40:28.043869725Z,2023-06-12T12:40:28.043869725Z,2023-06-01T23:12:31.757368946Z,CREATE,file_event,fastqc (DA82_L1) (360),fastqc (DA82_L1) (360),/home/nilsd/nextflow/build/work/ac/1edf68d25d0a6ae2c96007b6f8d9cb/ERR2505966_fastqc.html,734033,360
+,,0,2023-05-13T12:40:28.043869725Z,2023-06-12T12:40:28.043869725Z,2023-06-01T23:12:32.468380119Z,CREATE,file_event,fastqc (DA82_L1) (360),fastqc (DA82_L1) (360),/home/nilsd/nextflow/build/work/ac/1edf68d25d0a6ae2c96007b6f8d9cb/.exitcode,734033,360

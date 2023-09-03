@@ -1,0 +1,10 @@
+#datatype,string,long,string,string,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,long,string,string,string
+#group,false,false,true,true,true,true,false,false,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_field,_measurement,_start,_stop,_time,_value,name,pid,tid
+,,0,files_input_num,adapter_removal (DA7_L1) (389),2023-05-13T12:40:56.75632483Z,2023-06-12T12:40:56.75632483Z,2023-06-02T05:48:03.089252087Z,9,adapter_removal (DA7_L1) (389),817179,389
+,,1,files_input_total_size,adapter_removal (DA7_L1) (389),2023-05-13T12:40:56.75632483Z,2023-06-12T12:40:56.75632483Z,2023-06-02T05:48:03.089252087Z,1314175538,adapter_removal (DA7_L1) (389),817179,389
+,,2,files_output_num,adapter_removal (DA7_L1) (389),2023-05-13T12:40:56.75632483Z,2023-06-12T12:40:56.75632483Z,2023-06-02T05:56:58.610187926Z,6,adapter_removal (DA7_L1) (389),817179,389
+,,3,files_output_total_size,adapter_removal (DA7_L1) (389),2023-05-13T12:40:56.75632483Z,2023-06-12T12:40:56.75632483Z,2023-06-02T05:56:58.610187926Z,1309182270,adapter_removal (DA7_L1) (389),817179,389
+,,4,max_cpus,adapter_removal (DA7_L1) (389),2023-05-13T12:40:56.75632483Z,2023-06-12T12:40:56.75632483Z,2023-06-02T05:48:06.088884456Z,8,adapter_removal (DA7_L1) (389),817179,389
+,,5,max_mem,adapter_removal (DA7_L1) (389),2023-05-13T12:40:56.75632483Z,2023-06-12T12:40:56.75632483Z,2023-06-02T05:48:06.088884456Z,17179869184,adapter_removal (DA7_L1) (389),817179,389

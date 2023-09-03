@@ -1,0 +1,10 @@
+#datatype,string,long,string,string,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,long,string,string,string
+#group,false,false,true,true,true,true,false,false,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_field,_measurement,_start,_stop,_time,_value,name,pid,tid
+,,0,files_input_num,qualimap (DA125) (2845),2023-05-13T14:17:13.624934406Z,2023-06-12T14:17:13.624934406Z,2023-06-08T01:13:47.954169325Z,8,qualimap (DA125) (2845),1595935,2845
+,,1,files_input_total_size,qualimap (DA125) (2845),2023-05-13T14:17:13.624934406Z,2023-06-12T14:17:13.624934406Z,2023-06-08T01:13:47.954169325Z,3786266008,qualimap (DA125) (2845),1595935,2845
+,,2,files_output_num,qualimap (DA125) (2845),2023-05-13T14:17:13.624934406Z,2023-06-12T14:17:13.624934406Z,2023-06-08T01:16:07.489781919Z,51,qualimap (DA125) (2845),1595935,2845
+,,3,files_output_total_size,qualimap (DA125) (2845),2023-05-13T14:17:13.624934406Z,2023-06-12T14:17:13.624934406Z,2023-06-08T01:16:07.489781919Z,714530,qualimap (DA125) (2845),1595935,2845
+,,4,max_cpus,qualimap (DA125) (2845),2023-05-13T14:17:13.624934406Z,2023-06-12T14:17:13.624934406Z,2023-06-08T01:13:50.961401044Z,2,qualimap (DA125) (2845),1595935,2845
+,,5,max_mem,qualimap (DA125) (2845),2023-05-13T14:17:13.624934406Z,2023-06-12T14:17:13.624934406Z,2023-06-08T01:13:50.961401044Z,4294967296,qualimap (DA125) (2845),1595935,2845

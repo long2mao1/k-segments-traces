@@ -1,0 +1,6 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2023-05-13T14:16:53.268202215Z,2023-06-12T14:16:53.268202215Z,2023-06-07T12:20:44.438603142Z,CREATE,file_event,preseq (DA38) (1767),preseq (DA38) (1767),/home/nilsd/nextflow/build/work/e4/d4917bdc2c024173868a153e960bcb/.command.trace,3764305,1767
+,,0,2023-05-13T14:16:53.268202215Z,2023-06-12T14:16:53.268202215Z,2023-06-07T12:33:31.374883619Z,CREATE,file_event,preseq (DA38) (1767),preseq (DA38) (1767),/home/nilsd/nextflow/build/work/e4/d4917bdc2c024173868a153e960bcb/DA38.filtered.preseq,3764305,1767

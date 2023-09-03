@@ -1,0 +1,13 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:53:18.517744655Z,2023-06-12T12:53:18.517744655Z,2023-06-07T11:34:24.50185588Z,90.7251,docker_cpu_usage_pct,samtools_flagstat (DA117) (1004),samtools_flagstat (DA117) (1004),1667453,1004
+,,0,2023-05-13T12:53:18.517744655Z,2023-06-12T12:53:18.517744655Z,2023-06-07T11:34:28.505182118Z,90.0118,docker_cpu_usage_pct,samtools_flagstat (DA117) (1004),samtools_flagstat (DA117) (1004),1667453,1004
+,,0,2023-05-13T12:53:18.517744655Z,2023-06-12T12:53:18.517744655Z,2023-06-07T11:34:32.505059342Z,90.8434,docker_cpu_usage_pct,samtools_flagstat (DA117) (1004),samtools_flagstat (DA117) (1004),1667453,1004
+,,0,2023-05-13T12:53:18.517744655Z,2023-06-12T12:53:18.517744655Z,2023-06-07T11:34:36.504871623Z,83.7971,docker_cpu_usage_pct,samtools_flagstat (DA117) (1004),samtools_flagstat (DA117) (1004),1667453,1004
+,,0,2023-05-13T12:53:18.517744655Z,2023-06-12T12:53:18.517744655Z,2023-06-07T11:34:40.500045582Z,89.2979,docker_cpu_usage_pct,samtools_flagstat (DA117) (1004),samtools_flagstat (DA117) (1004),1667453,1004
+,,0,2023-05-13T12:53:18.517744655Z,2023-06-12T12:53:18.517744655Z,2023-06-07T11:34:45.509010248Z,95.9829,docker_cpu_usage_pct,samtools_flagstat (DA117) (1004),samtools_flagstat (DA117) (1004),1667453,1004
+,,0,2023-05-13T12:53:18.517744655Z,2023-06-12T12:53:18.517744655Z,2023-06-07T11:34:49.509089151Z,82.7123,docker_cpu_usage_pct,samtools_flagstat (DA117) (1004),samtools_flagstat (DA117) (1004),1667453,1004
+,,0,2023-05-13T12:53:18.517744655Z,2023-06-12T12:53:18.517744655Z,2023-06-07T11:34:53.501776476Z,92.0052,docker_cpu_usage_pct,samtools_flagstat (DA117) (1004),samtools_flagstat (DA117) (1004),1667453,1004
+,,0,2023-05-13T12:53:18.517744655Z,2023-06-12T12:53:18.517744655Z,2023-06-07T11:34:57.18097782Z,89.8818,docker_cpu_usage_pct,samtools_flagstat (DA117) (1004),samtools_flagstat (DA117) (1004),1667453,1004

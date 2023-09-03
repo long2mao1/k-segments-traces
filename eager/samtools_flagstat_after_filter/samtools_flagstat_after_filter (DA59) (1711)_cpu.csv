@@ -1,0 +1,11 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T13:00:03.945498193Z,2023-06-12T13:00:03.945498193Z,2023-06-07T12:17:48.308926744Z,72.1146,docker_cpu_usage_pct,samtools_flagstat_after_filter (DA59) (1711),samtools_flagstat_after_filter (DA59) (1711),3582970,1711
+,,0,2023-05-13T13:00:03.945498193Z,2023-06-12T13:00:03.945498193Z,2023-06-07T12:17:51.305107482Z,67.0373,docker_cpu_usage_pct,samtools_flagstat_after_filter (DA59) (1711),samtools_flagstat_after_filter (DA59) (1711),3582970,1711
+,,0,2023-05-13T13:00:03.945498193Z,2023-06-12T13:00:03.945498193Z,2023-06-07T12:17:55.305143375Z,75.7813,docker_cpu_usage_pct,samtools_flagstat_after_filter (DA59) (1711),samtools_flagstat_after_filter (DA59) (1711),3582970,1711
+,,0,2023-05-13T13:00:03.945498193Z,2023-06-12T13:00:03.945498193Z,2023-06-07T12:18:00.301185218Z,80.9563,docker_cpu_usage_pct,samtools_flagstat_after_filter (DA59) (1711),samtools_flagstat_after_filter (DA59) (1711),3582970,1711
+,,0,2023-05-13T13:00:03.945498193Z,2023-06-12T13:00:03.945498193Z,2023-06-07T12:18:03.30911009Z,86.9303,docker_cpu_usage_pct,samtools_flagstat_after_filter (DA59) (1711),samtools_flagstat_after_filter (DA59) (1711),3582970,1711
+,,0,2023-05-13T13:00:03.945498193Z,2023-06-12T13:00:03.945498193Z,2023-06-07T12:18:06.30518994Z,49.4798,docker_cpu_usage_pct,samtools_flagstat_after_filter (DA59) (1711),samtools_flagstat_after_filter (DA59) (1711),3582970,1711
+,,0,2023-05-13T13:00:03.945498193Z,2023-06-12T13:00:03.945498193Z,2023-06-07T12:18:10.30135923Z,83.6494,docker_cpu_usage_pct,samtools_flagstat_after_filter (DA59) (1711),samtools_flagstat_after_filter (DA59) (1711),3582970,1711

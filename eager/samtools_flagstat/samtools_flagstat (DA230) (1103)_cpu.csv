@@ -1,0 +1,14 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:53:21.581557836Z,2023-06-12T12:53:21.581557836Z,2023-06-07T11:35:20.689012049Z,96.2703,docker_cpu_usage_pct,samtools_flagstat (DA230) (1103),samtools_flagstat (DA230) (1103),1755717,1103
+,,0,2023-05-13T12:53:21.581557836Z,2023-06-12T12:53:21.581557836Z,2023-06-07T11:35:24.682370391Z,81.8556,docker_cpu_usage_pct,samtools_flagstat (DA230) (1103),samtools_flagstat (DA230) (1103),1755717,1103
+,,0,2023-05-13T12:53:21.581557836Z,2023-06-12T12:53:21.581557836Z,2023-06-07T11:35:28.689114762Z,57.2236,docker_cpu_usage_pct,samtools_flagstat (DA230) (1103),samtools_flagstat (DA230) (1103),1755717,1103
+,,0,2023-05-13T12:53:21.581557836Z,2023-06-12T12:53:21.581557836Z,2023-06-07T11:35:31.690547779Z,76.0136,docker_cpu_usage_pct,samtools_flagstat (DA230) (1103),samtools_flagstat (DA230) (1103),1755717,1103
+,,0,2023-05-13T12:53:21.581557836Z,2023-06-12T12:53:21.581557836Z,2023-06-07T11:35:35.689159206Z,96.1352,docker_cpu_usage_pct,samtools_flagstat (DA230) (1103),samtools_flagstat (DA230) (1103),1755717,1103
+,,0,2023-05-13T12:53:21.581557836Z,2023-06-12T12:53:21.581557836Z,2023-06-07T11:35:38.684187445Z,86.7901,docker_cpu_usage_pct,samtools_flagstat (DA230) (1103),samtools_flagstat (DA230) (1103),1755717,1103
+,,0,2023-05-13T12:53:21.581557836Z,2023-06-12T12:53:21.581557836Z,2023-06-07T11:35:42.689176885Z,82.3849,docker_cpu_usage_pct,samtools_flagstat (DA230) (1103),samtools_flagstat (DA230) (1103),1755717,1103
+,,0,2023-05-13T12:53:21.581557836Z,2023-06-12T12:53:21.581557836Z,2023-06-07T11:35:46.689165991Z,86.5939,docker_cpu_usage_pct,samtools_flagstat (DA230) (1103),samtools_flagstat (DA230) (1103),1755717,1103
+,,0,2023-05-13T12:53:21.581557836Z,2023-06-12T12:53:21.581557836Z,2023-06-07T11:35:50.693117793Z,83.2717,docker_cpu_usage_pct,samtools_flagstat (DA230) (1103),samtools_flagstat (DA230) (1103),1755717,1103
+,,0,2023-05-13T12:53:21.581557836Z,2023-06-12T12:53:21.581557836Z,2023-06-07T11:35:54.689170099Z,89.2212,docker_cpu_usage_pct,samtools_flagstat (DA230) (1103),samtools_flagstat (DA230) (1103),1755717,1103

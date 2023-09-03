@@ -1,0 +1,8 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2023-05-13T14:17:32.177886503Z,2023-06-12T14:17:32.177886503Z,2023-06-08T00:50:41.223058761Z,CREATE,file_event,mtnucratio (DA13) (2029),mtnucratio (DA13) (2029),/home/nilsd/nextflow/build/work/15/1607fb06e7d95b5de6e914cde3c6fb/.command.trace,237173,2029
+,,0,2023-05-13T14:17:32.177886503Z,2023-06-12T14:17:32.177886503Z,2023-06-08T00:50:41.704847442Z,CREATE,file_event,mtnucratio (DA13) (2029),mtnucratio (DA13) (2029),/home/nilsd/nextflow/build/work/15/1607fb06e7d95b5de6e914cde3c6fb/DA13_rmdup.bam.mtnucratio,237173,2029
+,,0,2023-05-13T14:17:32.177886503Z,2023-06-12T14:17:32.177886503Z,2023-06-08T00:50:41.709553589Z,CREATE,file_event,mtnucratio (DA13) (2029),mtnucratio (DA13) (2029),/home/nilsd/nextflow/build/work/15/1607fb06e7d95b5de6e914cde3c6fb/DA13_rmdup.bam.mtnucratiomtnuc.json,237173,2029
+,,0,2023-05-13T14:17:32.177886503Z,2023-06-12T14:17:32.177886503Z,2023-06-08T00:53:29.354084164Z,CREATE,file_event,mtnucratio (DA13) (2029),mtnucratio (DA13) (2029),/home/nilsd/nextflow/build/work/15/1607fb06e7d95b5de6e914cde3c6fb/.exitcode,237173,2029

@@ -1,0 +1,7 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,string,string,string,string,string,string,string
+#group,false,false,true,true,false,false,false,false,false,false,false,false
+#default,_result,,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,path,pid,tid
+,,0,2023-05-13T12:27:27.056785099Z,2023-06-12T12:27:27.056785099Z,2023-06-01T23:15:08.807043315Z,CREATE,file_event,makeFastaIndex (hg19.fa) (415),makeFastaIndex (hg19.fa) (415),/home/nilsd/nextflow/build/work/53/644fded5ce687397e429927bae2e7d/.command.trace,889735,415
+,,0,2023-05-13T12:27:27.056785099Z,2023-06-12T12:27:27.056785099Z,2023-06-01T23:15:23.605194094Z,CREATE,file_event,makeFastaIndex (hg19.fa) (415),makeFastaIndex (hg19.fa) (415),/home/nilsd/nextflow/build/work/53/644fded5ce687397e429927bae2e7d/hg19.fa.fai,889735,415
+,,0,2023-05-13T12:27:27.056785099Z,2023-06-12T12:27:27.056785099Z,2023-06-01T23:15:23.951030158Z,CREATE,file_event,makeFastaIndex (hg19.fa) (415),makeFastaIndex (hg19.fa) (415),/home/nilsd/nextflow/build/work/53/644fded5ce687397e429927bae2e7d/.exitcode,889735,415

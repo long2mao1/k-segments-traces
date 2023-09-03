@@ -1,0 +1,13 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:53:19.857394388Z,2023-06-12T12:53:19.857394388Z,2023-06-07T11:34:48.417298039Z,13.93,docker_used_memory_mb,samtools_flagstat (DA164) (1038),samtools_flagstat (DA164) (1038),1707467,1038
+,,0,2023-05-13T12:53:19.857394388Z,2023-06-12T12:53:19.857394388Z,2023-06-07T11:34:52.417283277Z,16.99,docker_used_memory_mb,samtools_flagstat (DA164) (1038),samtools_flagstat (DA164) (1038),1707467,1038
+,,0,2023-05-13T12:53:19.857394388Z,2023-06-12T12:53:19.857394388Z,2023-06-07T11:34:55.426118934Z,18.96,docker_used_memory_mb,samtools_flagstat (DA164) (1038),samtools_flagstat (DA164) (1038),1707467,1038
+,,0,2023-05-13T12:53:19.857394388Z,2023-06-12T12:53:19.857394388Z,2023-06-07T11:34:58.432254484Z,20.65,docker_used_memory_mb,samtools_flagstat (DA164) (1038),samtools_flagstat (DA164) (1038),1707467,1038
+,,0,2023-05-13T12:53:19.857394388Z,2023-06-12T12:53:19.857394388Z,2023-06-07T11:35:02.426706631Z,20.95,docker_used_memory_mb,samtools_flagstat (DA164) (1038),samtools_flagstat (DA164) (1038),1707467,1038
+,,0,2023-05-13T12:53:19.857394388Z,2023-06-12T12:53:19.857394388Z,2023-06-07T11:35:06.424957757Z,20.11,docker_used_memory_mb,samtools_flagstat (DA164) (1038),samtools_flagstat (DA164) (1038),1707467,1038
+,,0,2023-05-13T12:53:19.857394388Z,2023-06-12T12:53:19.857394388Z,2023-06-07T11:35:10.417956194Z,20.32,docker_used_memory_mb,samtools_flagstat (DA164) (1038),samtools_flagstat (DA164) (1038),1707467,1038
+,,0,2023-05-13T12:53:19.857394388Z,2023-06-12T12:53:19.857394388Z,2023-06-07T11:35:13.424970427Z,21.99,docker_used_memory_mb,samtools_flagstat (DA164) (1038),samtools_flagstat (DA164) (1038),1707467,1038
+,,0,2023-05-13T12:53:19.857394388Z,2023-06-12T12:53:19.857394388Z,2023-06-07T11:35:18.175830837Z,23.12,docker_used_memory_mb,samtools_flagstat (DA164) (1038),samtools_flagstat (DA164) (1038),1707467,1038

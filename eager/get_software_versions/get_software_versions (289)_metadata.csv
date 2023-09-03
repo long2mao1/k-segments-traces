@@ -1,0 +1,10 @@
+#datatype,string,long,string,string,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,long,string,string,string
+#group,false,false,true,true,true,true,false,false,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_field,_measurement,_start,_stop,_time,_value,name,pid,tid
+,,0,files_input_num,get_software_versions (289),2023-05-13T14:19:57.861360051Z,2023-06-12T14:19:57.861360051Z,2023-06-01T23:02:23.028385707Z,7,get_software_versions (289),336038,289
+,,1,files_input_total_size,get_software_versions (289),2023-05-13T14:19:57.861360051Z,2023-06-12T14:19:57.861360051Z,2023-06-01T23:02:23.028385707Z,12558,get_software_versions (289),336038,289
+,,2,files_output_num,get_software_versions (289),2023-05-13T14:19:57.861360051Z,2023-06-12T14:19:57.861360051Z,2023-06-01T23:02:33.374865251Z,39,get_software_versions (289),336038,289
+,,3,files_output_total_size,get_software_versions (289),2023-05-13T14:19:57.861360051Z,2023-06-12T14:19:57.861360051Z,2023-06-01T23:02:33.374865251Z,12370,get_software_versions (289),336038,289
+,,4,max_cpus,get_software_versions (289),2023-05-13T14:19:57.861360051Z,2023-06-12T14:19:57.861360051Z,2023-06-01T23:02:26.026819122Z,2,get_software_versions (289),336038,289
+,,5,max_mem,get_software_versions (289),2023-05-13T14:19:57.861360051Z,2023-06-12T14:19:57.861360051Z,2023-06-01T23:02:26.026819122Z,4294967296,get_software_versions (289),336038,289

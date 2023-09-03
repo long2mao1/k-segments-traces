@@ -1,0 +1,12 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T13:00:03.892287375Z,2023-06-12T13:00:03.892287375Z,2023-06-07T12:17:59.653166012Z,89.4265,docker_cpu_usage_pct,samtools_flagstat_after_filter (DA58) (1719),samtools_flagstat_after_filter (DA58) (1719),3595553,1719
+,,0,2023-05-13T13:00:03.892287375Z,2023-06-12T13:00:03.892287375Z,2023-06-07T12:18:03.643835794Z,76.2024,docker_cpu_usage_pct,samtools_flagstat_after_filter (DA58) (1719),samtools_flagstat_after_filter (DA58) (1719),3595553,1719
+,,0,2023-05-13T13:00:03.892287375Z,2023-06-12T13:00:03.892287375Z,2023-06-07T12:18:06.653176878Z,74.8454,docker_cpu_usage_pct,samtools_flagstat_after_filter (DA58) (1719),samtools_flagstat_after_filter (DA58) (1719),3595553,1719
+,,0,2023-05-13T13:00:03.892287375Z,2023-06-12T13:00:03.892287375Z,2023-06-07T12:18:09.656673123Z,65.7369,docker_cpu_usage_pct,samtools_flagstat_after_filter (DA58) (1719),samtools_flagstat_after_filter (DA58) (1719),3595553,1719
+,,0,2023-05-13T13:00:03.892287375Z,2023-06-12T13:00:03.892287375Z,2023-06-07T12:18:12.653407128Z,74.414,docker_cpu_usage_pct,samtools_flagstat_after_filter (DA58) (1719),samtools_flagstat_after_filter (DA58) (1719),3595553,1719
+,,0,2023-05-13T13:00:03.892287375Z,2023-06-12T13:00:03.892287375Z,2023-06-07T12:18:18.653188392Z,87.266,docker_cpu_usage_pct,samtools_flagstat_after_filter (DA58) (1719),samtools_flagstat_after_filter (DA58) (1719),3595553,1719
+,,0,2023-05-13T13:00:03.892287375Z,2023-06-12T13:00:03.892287375Z,2023-06-07T12:18:21.660645772Z,87.7626,docker_cpu_usage_pct,samtools_flagstat_after_filter (DA58) (1719),samtools_flagstat_after_filter (DA58) (1719),3595553,1719
+,,0,2023-05-13T13:00:03.892287375Z,2023-06-12T13:00:03.892287375Z,2023-06-07T12:18:24.649252297Z,69.7251,docker_cpu_usage_pct,samtools_flagstat_after_filter (DA58) (1719),samtools_flagstat_after_filter (DA58) (1719),3595553,1719

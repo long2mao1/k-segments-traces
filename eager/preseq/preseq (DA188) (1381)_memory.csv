@@ -1,0 +1,11 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T14:16:50.68594029Z,2023-06-12T14:16:50.68594029Z,2023-06-07T11:59:32.686916394Z,14.51,docker_used_memory_mb,preseq (DA188) (1381),preseq (DA188) (1381),2634858,1381
+,,0,2023-05-13T14:16:50.68594029Z,2023-06-12T14:16:50.68594029Z,2023-06-07T11:59:35.693013027Z,15.35,docker_used_memory_mb,preseq (DA188) (1381),preseq (DA188) (1381),2634858,1381
+,,0,2023-05-13T14:16:50.68594029Z,2023-06-12T14:16:50.68594029Z,2023-06-07T11:59:36.686619476Z,17.38,docker_used_memory_mb,preseq (DA188) (1381),preseq (DA188) (1381),2634858,1381
+,,0,2023-05-13T14:16:50.68594029Z,2023-06-12T14:16:50.68594029Z,2023-06-07T11:59:39.686454576Z,18.6,docker_used_memory_mb,preseq (DA188) (1381),preseq (DA188) (1381),2634858,1381
+,,0,2023-05-13T14:16:50.68594029Z,2023-06-12T14:16:50.68594029Z,2023-06-07T11:59:41.693197284Z,19.68,docker_used_memory_mb,preseq (DA188) (1381),preseq (DA188) (1381),2634858,1381
+,,0,2023-05-13T14:16:50.68594029Z,2023-06-12T14:16:50.68594029Z,2023-06-07T11:59:43.69030407Z,19.86,docker_used_memory_mb,preseq (DA188) (1381),preseq (DA188) (1381),2634858,1381
+,,0,2023-05-13T14:16:50.68594029Z,2023-06-12T14:16:50.68594029Z,2023-06-07T11:59:45.689546644Z,19.87,docker_used_memory_mb,preseq (DA188) (1381),preseq (DA188) (1381),2634858,1381

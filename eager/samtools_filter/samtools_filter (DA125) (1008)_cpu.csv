@@ -1,0 +1,13 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:53:46.956926247Z,2023-06-12T12:53:46.956926247Z,2023-06-07T11:39:17.658909729Z,393.6757,docker_cpu_usage_pct,samtools_filter (DA125) (1008),samtools_filter (DA125) (1008),1961014,1008
+,,0,2023-05-13T12:53:46.956926247Z,2023-06-12T12:53:46.956926247Z,2023-06-07T11:39:19.648320289Z,395.6529,docker_cpu_usage_pct,samtools_filter (DA125) (1008),samtools_filter (DA125) (1008),1961014,1008
+,,0,2023-05-13T12:53:46.956926247Z,2023-06-12T12:53:46.956926247Z,2023-06-07T11:39:21.651756691Z,405.23,docker_cpu_usage_pct,samtools_filter (DA125) (1008),samtools_filter (DA125) (1008),1961014,1008
+,,0,2023-05-13T12:53:46.956926247Z,2023-06-12T12:53:46.956926247Z,2023-06-07T11:39:23.654302044Z,368.1645,docker_cpu_usage_pct,samtools_filter (DA125) (1008),samtools_filter (DA125) (1008),1961014,1008
+,,0,2023-05-13T12:53:46.956926247Z,2023-06-12T12:53:46.956926247Z,2023-06-07T11:39:26.649032308Z,306.2803,docker_cpu_usage_pct,samtools_filter (DA125) (1008),samtools_filter (DA125) (1008),1961014,1008
+,,0,2023-05-13T12:53:46.956926247Z,2023-06-12T12:53:46.956926247Z,2023-06-07T11:39:28.652957845Z,361.1247,docker_cpu_usage_pct,samtools_filter (DA125) (1008),samtools_filter (DA125) (1008),1961014,1008
+,,0,2023-05-13T12:53:46.956926247Z,2023-06-12T12:53:46.956926247Z,2023-06-07T11:39:30.650918844Z,270.175,docker_cpu_usage_pct,samtools_filter (DA125) (1008),samtools_filter (DA125) (1008),1961014,1008
+,,0,2023-05-13T12:53:46.956926247Z,2023-06-12T12:53:46.956926247Z,2023-06-07T11:39:33.649081549Z,106.9186,docker_cpu_usage_pct,samtools_filter (DA125) (1008),samtools_filter (DA125) (1008),1961014,1008
+,,0,2023-05-13T12:53:46.956926247Z,2023-06-12T12:53:46.956926247Z,2023-06-07T11:39:35.647777492Z,103.386,docker_cpu_usage_pct,samtools_filter (DA125) (1008),samtools_filter (DA125) (1008),1961014,1008

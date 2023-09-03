@@ -1,0 +1,11 @@
+#datatype,string,long,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,double,string,string,string,string,string
+#group,false,false,true,true,false,false,true,true,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_start,_stop,_time,_value,_field,_measurement,name,pid,tid
+,,0,2023-05-13T12:26:54.560028372Z,2023-06-12T12:26:54.560028372Z,2023-06-01T23:14:54.359861507Z,27.05,docker_used_memory_mb,unzip_reference (hg19.fa.gz) (1),unzip_reference (hg19.fa.gz) (1),876019,1
+,,0,2023-05-13T12:26:54.560028372Z,2023-06-12T12:26:54.560028372Z,2023-06-01T23:14:56.359609605Z,40.13,docker_used_memory_mb,unzip_reference (hg19.fa.gz) (1),unzip_reference (hg19.fa.gz) (1),876019,1
+,,0,2023-05-13T12:26:54.560028372Z,2023-06-12T12:26:54.560028372Z,2023-06-01T23:14:58.360272837Z,52.56,docker_used_memory_mb,unzip_reference (hg19.fa.gz) (1),unzip_reference (hg19.fa.gz) (1),876019,1
+,,0,2023-05-13T12:26:54.560028372Z,2023-06-12T12:26:54.560028372Z,2023-06-01T23:15:00.361756538Z,63.04,docker_used_memory_mb,unzip_reference (hg19.fa.gz) (1),unzip_reference (hg19.fa.gz) (1),876019,1
+,,0,2023-05-13T12:26:54.560028372Z,2023-06-12T12:26:54.560028372Z,2023-06-01T23:15:03.359687062Z,74.48,docker_used_memory_mb,unzip_reference (hg19.fa.gz) (1),unzip_reference (hg19.fa.gz) (1),876019,1
+,,0,2023-05-13T12:26:54.560028372Z,2023-06-12T12:26:54.560028372Z,2023-06-01T23:15:05.359510177Z,85.88,docker_used_memory_mb,unzip_reference (hg19.fa.gz) (1),unzip_reference (hg19.fa.gz) (1),876019,1
+,,0,2023-05-13T12:26:54.560028372Z,2023-06-12T12:26:54.560028372Z,2023-06-01T23:15:07.164376678Z,98.64,docker_used_memory_mb,unzip_reference (hg19.fa.gz) (1),unzip_reference (hg19.fa.gz) (1),876019,1

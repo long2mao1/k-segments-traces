@@ -1,0 +1,10 @@
+#datatype,string,long,string,string,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,long,string,string,string
+#group,false,false,true,true,true,true,false,false,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_field,_measurement,_start,_stop,_time,_value,name,pid,tid
+,,0,files_input_num,mtnucratio (DA208) (2080),2023-05-13T14:17:34.679194505Z,2023-06-12T14:17:34.679194505Z,2023-06-08T00:53:38.465070116Z,8,mtnucratio (DA208) (2080),401916,2080
+,,1,files_input_total_size,mtnucratio (DA208) (2080),2023-05-13T14:17:34.679194505Z,2023-06-12T14:17:34.679194505Z,2023-06-08T00:53:38.465070116Z,179881430,mtnucratio (DA208) (2080),401916,2080
+,,2,files_output_num,mtnucratio (DA208) (2080),2023-05-13T14:17:34.679194505Z,2023-06-12T14:17:34.679194505Z,2023-06-08T00:53:58.584997054Z,5,mtnucratio (DA208) (2080),401916,2080
+,,3,files_output_total_size,mtnucratio (DA208) (2080),2023-05-13T14:17:34.679194505Z,2023-06-12T14:17:34.679194505Z,2023-06-08T00:53:58.584997054Z,963,mtnucratio (DA208) (2080),401916,2080
+,,4,max_cpus,mtnucratio (DA208) (2080),2023-05-13T14:17:34.679194505Z,2023-06-12T14:17:34.679194505Z,2023-06-08T00:53:41.464930406Z,1,mtnucratio (DA208) (2080),401916,2080
+,,5,max_mem,mtnucratio (DA208) (2080),2023-05-13T14:17:34.679194505Z,2023-06-12T14:17:34.679194505Z,2023-06-08T00:53:41.464930406Z,4294967296,mtnucratio (DA208) (2080),401916,2080

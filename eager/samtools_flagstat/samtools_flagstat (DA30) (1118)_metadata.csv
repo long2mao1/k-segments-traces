@@ -1,0 +1,10 @@
+#datatype,string,long,string,string,dateTime:RFC3339,dateTime:RFC3339,dateTime:RFC3339,long,string,string,string
+#group,false,false,true,true,true,true,false,false,true,true,true
+#default,_result,,,,,,,,,,
+,result,table,_field,_measurement,_start,_stop,_time,_value,name,pid,tid
+,,0,files_input_num,samtools_flagstat (DA30) (1118),2023-05-13T12:53:22.063253569Z,2023-06-12T12:53:22.063253569Z,2023-06-07T11:35:29.723569218Z,6,samtools_flagstat (DA30) (1118),1774895,1118
+,,1,files_input_total_size,samtools_flagstat (DA30) (1118),2023-05-13T12:53:22.063253569Z,2023-06-12T12:53:22.063253569Z,2023-06-07T11:35:29.723569218Z,3317916415,samtools_flagstat (DA30) (1118),1774895,1118
+,,2,files_output_num,samtools_flagstat (DA30) (1118),2023-05-13T12:53:22.063253569Z,2023-06-12T12:53:22.063253569Z,2023-06-07T11:36:18.776457838Z,6,samtools_flagstat (DA30) (1118),1774895,1118
+,,3,files_output_total_size,samtools_flagstat (DA30) (1118),2023-05-13T12:53:22.063253569Z,2023-06-12T12:53:22.063253569Z,2023-06-07T11:36:18.776457838Z,908,samtools_flagstat (DA30) (1118),1774895,1118
+,,4,max_cpus,samtools_flagstat (DA30) (1118),2023-05-13T12:53:22.063253569Z,2023-06-12T12:53:22.063253569Z,2023-06-07T11:35:34.709207179Z,1,samtools_flagstat (DA30) (1118),1774895,1118
+,,5,max_mem,samtools_flagstat (DA30) (1118),2023-05-13T12:53:22.063253569Z,2023-06-12T12:53:22.063253569Z,2023-06-07T11:35:34.709207179Z,1073741824,samtools_flagstat (DA30) (1118),1774895,1118
